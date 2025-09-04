@@ -1,0 +1,5077 @@
+make,model_year,horsepower,mpg
+Audi,2009 Audi A3,250,43
+Audi,2009 Audi A3,200,50
+Audi,2009 Audi A3,200,51
+Audi,2009 Audi A3,200,49
+Audi,2009 Audi A3,200,49
+Audi,2009 Audi A5,265,43
+Audi,2009 Audi A5,265,43
+Audi,2009 Audi Q7,350,31
+Audi,2009 Audi Q7,280,34
+Audi,2009 Audi A4 Sedan,211,52
+Audi,2009 Audi A4 Sedan,211,48
+Audi,2009 Audi A4 Sedan,265,43
+Acura,2012 Acura TL,280,49
+Acura,2012 Acura TL,305,44
+BMW,2010 BMW X5,555,29
+BMW,2011 BMW X5,555,29
+BMW,2010 BMW X6,555,29
+BMW,2011 BMW X6,555,29
+Chevrolet,2012 Chevrolet Colorado,185,43
+Chevrolet,2012 Chevrolet Colorado,185,43
+Chevrolet,2012 Chevrolet Colorado,185,43
+Chevrolet,2011 Chevrolet Colorado,185,43
+Chevrolet,2011 Chevrolet Colorado,185,43
+Chevrolet,2011 Chevrolet Colorado,185,43
+Chevrolet,2010 Chevrolet Colorado,185,43
+Chevrolet,2010 Chevrolet Colorado,185,46
+Chevrolet,2010 Chevrolet Colorado,185,43
+Chevrolet,2012 Chevrolet Express,310,31
+Chevrolet,2012 Chevrolet Express,310,21
+Chevrolet,2011 Chevrolet Express,310,30
+Chevrolet,2011 Chevrolet Express,310,30
+Chevrolet,2011 Chevrolet Express,280,20
+Chevrolet,2011 Chevrolet Express,324,20
+Chevrolet,2010 Chevrolet Express,310,23
+Chevrolet,2010 Chevrolet Express,310,30
+Chevrolet,2011 Chevrolet Silverado 1500,195,35
+Chevrolet,2011 Chevrolet Silverado 1500,302,33
+Chevrolet,2011 Chevrolet Silverado 1500,195,35
+Chevrolet,2010 Chevrolet Silverado 1500,195,35
+Chevrolet,2010 Chevrolet Silverado 1500,195,35
+Chevrolet,2010 Chevrolet Silverado 1500,302,33
+Nissan,2011 Nissan 370Z Coupe,350,44
+Nissan,2010 Nissan 370Z Coupe,350,44
+Nissan,2009 Nissan 370Z Coupe,350,44
+Volvo,2011 Volvo C30,227,50
+Volvo,2011 Volvo C30,227,51
+Volvo,2010 Volvo C30,227,51
+Volvo,2010 Volvo C30,227,50
+Bentley,2010 Bentley Brooklands,530,24
+Bentley,2012 Bentley Continental Supersports Convertible,621,22
+Bentley,2012 Bentley Continental Supersports Coupe,621,22
+Bentley,2011 Bentley Continental Supersports Convertible,621,22
+Bentley,2010 Bentley Continental Supersports,621,31
+Bentley,2012 Bentley Continental Flying Spur,552,21
+Bentley,2012 Bentley Continental Flying Spur,600,30
+Bentley,2011 Bentley Continental Flying Spur,600,27
+Bentley,2010 Bentley Continental Flying Spur,600,27
+Bentley,2010 Bentley Continental Flying Spur,552,27
+Volvo,2011 Volvo C70,227,47
+Volvo,2010 Volvo C70,227,48
+Volvo,2010 Volvo C70,227,47
+Volvo,2010 Volvo S40,168,50
+Volvo,2010 Volvo S40,227,51
+Volvo,2011 Volvo S40,227,51
+Volvo,2010 Volvo S40,227,47
+Volvo,2012 Volvo S60,250,50
+Volvo,2012 Volvo S60,300,44
+Volvo,2012 Volvo S60,325,44
+Volvo,2011 Volvo S60,300,44
+Volvo,2011 Volvo S80,240,46
+Volvo,2010 Volvo S80,311,37
+Volvo,2010 Volvo S80,281,40
+Volvo,2010 Volvo S80,235,45
+Volvo,2011 Volvo V50,227,51
+Volvo,2010 Volvo V50,227,46
+Volvo,2010 Volvo V50,168,51
+Volvo,2011 Volvo XC60,300,39
+Volvo,2011 Volvo XC60,240,43
+Volvo,2010 Volvo XC60,281,37
+Volvo,2010 Volvo XC60,235,45
+Volvo,2011 Volvo XC70,240,43
+Volvo,2011 Volvo XC70,300,39
+Volvo,2010 Volvo XC70,281,37
+Volvo,2010 Volvo XC70,235,38
+Toyota,2011 Toyota 4Runner,270,40
+Toyota,2011 Toyota 4Runner,270,39
+Toyota,2011 Toyota 4Runner,270,39
+Toyota,2011 Toyota 4Runner,270,40
+Toyota,2011 Toyota 4Runner,270,39
+Volvo,2011 Volvo XC90,240,38
+Volvo,2011 Volvo XC90,311,35
+Volvo,2010 Volvo XC90,235,37
+Volvo,2010 Volvo XC90,311,32
+Volvo,2010 Volvo V70,235,45
+Toyota,2010 Toyota 4Runner,157,41
+Toyota,2010 Toyota 4Runner,270,40
+Toyota,2010 Toyota 4Runner,270,39
+Toyota,2010 Toyota 4Runner,270,39
+Toyota,2010 Toyota 4Runner,270,40
+Toyota,2010 Toyota 4Runner,270,39
+Audi,2012 Audi A3,200,51
+Honda,2010 Honda Accord Coupe,271,42
+Honda,2010 Honda Accord Coupe,190,52
+Honda,2010 Honda Accord Coupe,190,53
+Honda,2010 Honda Accord Coupe,190,52
+Honda,2010 Honda Accord Coupe,271,47
+Honda,2010 Honda Accord Coupe,190,53
+Honda,2010 Honda Accord Coupe,190,52
+Honda,2010 Honda Accord Coupe,190,53
+Nissan,2011 Nissan 370Z Roadster,332,43
+Nissan,2011 Nissan 370Z Roadster,332,43
+Nissan,2011 Nissan 370Z Roadster,332,43
+Nissan,2011 Nissan 370Z Roadster,332,43
+Nissan,2010 Nissan 370Z Roadster,332,43
+Nissan,2010 Nissan 370Z Roadster,332,43
+Nissan,2010 Nissan 370Z Roadster,332,43
+Nissan,2010 Nissan 370Z Roadster,332,43
+Audi,2011 Audi A3,200,51
+Nissan,2011 Nissan 370Z Coupe,332,44
+Nissan,2011 Nissan 370Z Coupe,332,44
+Nissan,2011 Nissan 370Z Coupe,332,45
+Nissan,2011 Nissan 370Z Coupe,332,44
+Audi,2010 Audi A3,200,51
+Nissan,2010 Nissan 370Z Coupe,332,45
+Nissan,2010 Nissan 370Z Coupe,332,44
+Nissan,2010 Nissan 370Z Coupe,332,44
+Nissan,2010 Nissan 370Z Coupe,332,45
+Audi,2012 Audi A4 Sedan,211,52
+Audi,2012 Audi A4 Sedan,211,50
+Audi,2011 Audi A4 Sedan,211,52
+Audi,2011 Audi A4 Sedan,211,50
+Ford,2012 Ford Fiesta Sedan,120,67
+Ford,2012 Ford Fiesta Sedan,120,67
+Ford,2012 Ford Fiesta Sedan,120,67
+Ford,2011 Ford Fiesta Sedan,120,75
+Ford,2011 Ford Fiesta Sedan,120,65
+Ford,2011 Ford Fiesta Sedan,120,65
+Volvo,2011 Volvo C30,227,51
+Volvo,2011 Volvo C30,227,50
+Volvo,2010 Volvo C30,227,51
+Volvo,2010 Volvo C30,227,50
+Audi,2010 Audi A4 Sedan,211,48
+Audi,2010 Audi A4 Sedan,211,52
+Volvo,2010 Volvo S40,168,50
+Volvo,2010 Volvo S40,227,47
+Audi,2012 Audi A4 Avant,211,50
+Audi,2011 Audi A4 Avant,211,50
+Audi,2010 Audi A4 Avant,211,53
+Honda,2011 Honda Accord Coup,190,55
+Honda,2011 Honda Accord Coup,190,55
+Honda,2011 Honda Accord Coup,271,43
+Honda,2011 Honda Accord Coup,190,55
+Honda,2011 Honda Accord Coup,271,48
+Honda,2011 Honda Accord Coup,190,55
+Honda,2011 Honda Accord Coup,190,55
+Ford,2012 Ford Fiesta Hatchback,120,67
+Ford,2012 Ford Fiesta Hatchback,120,67
+Ford,2011 Ford Fiesta Hatchback,120,65
+Ford,2011 Ford Fiesta Hatchback,120,65
+Honda,2010 Honda Accord Sedan,177,53
+Honda,2010 Honda Accord Sedan,177,52
+Honda,2010 Honda Accord Sedan,177,53
+Honda,2010 Honda Accord Sedan,177,52
+Honda,2010 Honda Accord Sedan,190,53
+Honda,2010 Honda Accord Sedan,190,52
+Honda,2010 Honda Accord Sedan,190,53
+Honda,2010 Honda Accord Sedan,190,52
+Honda,2010 Honda Accord Sedan,271,48
+Toyota,2011 Toyota Avalon,268,49
+Toyota,2011 Toyota Avalon,268,49
+Nissan,2009 Nissan 370Z Coupe,332,44
+Nissan,2009 Nissan 370Z Coupe,332,44
+Nissan,2009 Nissan 370Z Coupe,332,44
+Nissan,2009 Nissan 370Z Coupe,332,44
+Toyota,2010 Toyota Avalon,268,47
+Toyota,2010 Toyota Avalon,268,47
+Toyota,2010 Toyota Avalon,268,47
+Toyota,2011 Toyota Camry,169,55
+Toyota,2011 Toyota Camry,169,54
+Toyota,2011 Toyota Camry,169,55
+Toyota,2011 Toyota Camry,169,54
+Toyota,2011 Toyota Camry,268,49
+Toyota,2011 Toyota Camry,179,55
+Toyota,2011 Toyota Camry,179,54
+Toyota,2011 Toyota Camry,268,49
+Toyota,2011 Toyota Camry,169,54
+Toyota,2011 Toyota Camry,268,49
+Ford,2012 Ford Focus Sedan,160,62
+Ford,2012 Ford Focus Sedan,160,62
+Ford,2011 Ford Focus Sedan,140,60
+Ford,2011 Ford Focus Sedan,140,59
+Ford,2011 Ford Focus Sedan,140,60
+Ford,2011 Ford Focus Sedan,140,59
+Ford,2011 Ford Focus Sedan,140,60
+Ford,2011 Ford Focus Sedan,140,59
+Ford,2011 Ford Focus Sedan,140,59
+Ford,2010 Ford Focus Sedan,140,59
+Ford,2010 Ford Focus Sedan,140,58
+Ford,2010 Ford Focus Sedan,140,59
+Ford,2010 Ford Focus Sedan,140,58
+Ford,2010 Ford Focus Sedan,140,59
+Ford,2010 Ford Focus Sedan,140,58
+Ford,2010 Ford Focus Sedan,140,59
+Ford,2010 Ford Focus Sedan,140,58
+Nissan,2011 Nissan Altima Coupe,175,54
+Nissan,2011 Nissan Altima Coupe,270,45
+Volvo,2012 Volvo S80,300,44
+Volvo,2012 Volvo S80,240,49
+Volvo,2012 Volvo XC60,325,40
+Volvo,2012 Volvo XC60,240,44
+Volvo,2012 Volvo XC60,300,40
+Volvo,2012 Volvo XC70,300,40
+Volvo,2012 Volvo XC70,240,44
+Volvo,2012 Volvo XC90,240,39
+Volvo,2012 Volvo XC90,240,39
+Nissan,2010 Nissan Altima Coupe,175,55
+Nissan,2010 Nissan Altima Coupe,270,45
+Toyota,2010 Toyota Camry,169,55
+Toyota,2010 Toyota Camry,169,54
+Toyota,2010 Toyota Camry,169,55
+Toyota,2010 Toyota Camry,169,54
+Toyota,2010 Toyota Camry,268,47
+Toyota,2010 Toyota Camry,179,55
+Toyota,2010 Toyota Camry,179,54
+Toyota,2010 Toyota Camry,268,47
+Toyota,2010 Toyota Camry,169,54
+Toyota,2010 Toyota Camry,268,47
+Volvo,2010 Volvo XC90,235,37
+Volvo,2011 Volvo XC90,240,38
+Volvo,2010 Volvo XC60,281,37
+Volvo,2011 Volvo XC60,300,39
+Volvo,2011 Volvo XC60,240,43
+Volvo,2010 Volvo V50,227,46
+Volvo,2011 Volvo V50,227,51
+Bentley,2012 Bentley Continental GT,567,22
+Bentley,2010 Bentley Continental GT,552,27
+Bentley,2010 Bentley Continental GT,600,27
+Ford,2010 Ford Focus Coupe,140,59
+Ford,2010 Ford Focus Coupe,140,58
+Ford,2010 Ford Focus Coupe,140,59
+Ford,2010 Ford Focus Coupe,140,58
+Bentley,2011 Bentley Continental GTC,600,29
+Bentley,2010 Bentley Continental GTC,600,27
+Bentley,2010 Bentley Continental GTC,552,27
+Bentley,2010 Bentley Azure T,500,24
+Toyota,2011 Toyota Corolla,132,63
+Toyota,2011 Toyota Corolla,132,60
+Toyota,2011 Toyota Corolla,132,60
+Toyota,2011 Toyota Corolla,132,63
+Toyota,2011 Toyota Corolla,132,60
+Rolls-Royce,2010 Rolls-Royce Ghost,563,33
+Audi,2011 Audi A5 Cabriolet,211,50
+Audi,2010 Audi A5 Cabriolet,211,46
+Rolls-Royce,2010 Rolls-Royce Phantom Sedan,453,29
+Rolls-Royce,2010 Rolls-Royce Phantom Sedan,453,29
+Audi,2012 Audi A5 Coupe,211,52
+Audi,2012 Audi A5 Coupe,211,50
+Rolls-Royce,2010 Rolls-Royce Phantom Coupe,453,29
+Audi,2011 Audi A5 Coupe,211,50
+Audi,2011 Audi A5 Coupe,211,52
+Audi,2010 Audi A5 Coupe,211,52
+Audi,2010 Audi A5 Coupe,265,45
+Audi,2010 Audi A5 Coupe,211,48
+Rolls-Royce,2010 Rolls-Royce Phantom Drophead Coupe,453,29
+Rolls-Royce,2011 Rolls-Royce Ghost,563,33
+Honda,2010 Honda Accord Sedan,271,48
+Rolls-Royce,2011 Rolls-Royce Phantom Sedan,453,29
+Honda,2011 Honda Accord Sedan,177,56
+Honda,2011 Honda Accord Sedan,177,57
+Honda,2011 Honda Accord Sedan,177,57
+Honda,2011 Honda Accord Sedan,177,57
+Honda,2011 Honda Accord Sedan,190,56
+Honda,2011 Honda Accord Sedan,190,57
+Honda,2011 Honda Accord Sedan,271,50
+Honda,2011 Honda Accord Sedan,190,57
+Honda,2011 Honda Accord Sedan,271,50
+Rolls-Royce,2011 Rolls-Royce Phantom Sedan,453,29
+Rolls-Royce,2011 Rolls-Royce Phantom Coupe,453,29
+Rolls-Royce,2011 Rolls-Royce Phantom Drophead Coupe,453,29
+Volkswagen,2011 Volkswagen Jetta,170,56
+Volkswagen,2011 Volkswagen Jetta,170,55
+Volkswagen,2011 Volkswagen Jetta,115,52
+Volkswagen,2011 Volkswagen Jetta,115,52
+Volkswagen,2011 Volkswagen Jetta,170,55
+Volkswagen,2011 Volkswagen Jetta,170,55
+Volkswagen,2011 Volkswagen Jetta,115,58
+Volkswagen,2011 Volkswagen Jetta,170,55
+Volkswagen,2011 Volkswagen Jetta,170,56
+Volkswagen,2011 Volkswagen Jetta,170,56
+Volkswagen,2011 Volkswagen Jetta,170,56
+Volkswagen,2011 Volkswagen Jetta,115,58
+Toyota,2010 Toyota Corolla,132,61
+Toyota,2010 Toyota Corolla,132,60
+Toyota,2010 Toyota Corolla,132,61
+Toyota,2010 Toyota Corolla,132,60
+Toyota,2010 Toyota Corolla,132,60
+Toyota,2010 Toyota Corolla,132,60
+Toyota,2010 Toyota Corolla,158,52
+Toyota,2010 Toyota Corolla,158,52
+Toyota,2011 Toyota FJ Cruiser,260,39
+Toyota,2011 Toyota FJ Cruiser,260,35
+Toyota,2011 Toyota FJ Cruiser,260,38
+Audi,2012 Audi A6 Sedan,310,47
+Audi,2011 Audi A6 Sedan,300,44
+Volkswagen,2010 Volkswagen Jetta,170,53
+Volkswagen,2010 Volkswagen Jetta,170,53
+Volkswagen,2010 Volkswagen Jetta,170,53
+Volkswagen,2010 Volkswagen Jetta,170,52
+Volkswagen,2010 Volkswagen Jetta,170,52
+Volkswagen,2010 Volkswagen Jetta,170,53
+Volkswagen,2010 Volkswagen Jetta,170,53
+Volkswagen,2010 Volkswagen Jetta,170,52
+Volkswagen,2010 Volkswagen Jetta,170,53
+Volkswagen,2010 Volkswagen Jetta,170,52
+Volkswagen,2010 Volkswagen Jetta,170,52
+Volkswagen,2010 Volkswagen Jetta,200,52
+Volkswagen,2010 Volkswagen Jetta,200,52
+Volkswagen,2010 Volkswagen Jetta,140,71
+Volkswagen,2010 Volkswagen Jetta,170,53
+Volkswagen,2010 Volkswagen Jetta,170,53
+Volkswagen,2010 Volkswagen Jetta,140,71
+Toyota,2010 Toyota FJ Cruiser,260,39
+Toyota,2010 Toyota FJ Cruiser,260,34
+Toyota,2010 Toyota FJ Cruiser,260,38
+Toyota,2011 Toyota Highlander,187,45
+Toyota,2011 Toyota Highlander,270,45
+Toyota,2011 Toyota Highlander,270,39
+Toyota,2011 Toyota Highlander,187,45
+Toyota,2011 Toyota Highlander,270,42
+Toyota,2011 Toyota Highlander,270,39
+Toyota,2011 Toyota Highlander,270,42
+Toyota,2011 Toyota Highlander,270,39
+Toyota,2010 Toyota Highlander,187,47
+Toyota,2010 Toyota Highlander,270,42
+Toyota,2010 Toyota Highlander,270,40
+Toyota,2010 Toyota Highlander,270,42
+Toyota,2010 Toyota Highlander,270,40
+Toyota,2010 Toyota Highlander,270,42
+Toyota,2010 Toyota Highlander,270,40
+Toyota,2010 Toyota Highlander,270,42
+Toyota,2010 Toyota Highlander,270,40
+Honda,2011 Honda Accord Crosstour Hatchback,271,45
+Honda,2011 Honda Accord Crosstour Hatchback,271,45
+Honda,2011 Honda Accord Crosstour Hatchback,271,44
+Toyota,2011 Toyota Land Cruiser,381,31
+Toyota,2010 Toyota Land Cruiser,381,31
+Toyota,2011 Toyota Matrix,132,58
+Toyota,2011 Toyota Matrix,132,57
+Toyota,2011 Toyota Matrix,158,49
+Toyota,2011 Toyota Matrix,158,50
+Toyota,2011 Toyota Matrix,158,46
+Maybach,2010 Maybach 57,631,26
+Maybach,2010 Maybach 57,543,26
+Maybach,2010 Maybach 57,604,26
+Maybach,2010 Maybach 57,631,26
+Maybach,2011 Maybach 57,620,26
+Maybach,2010 Maybach 62,543,26
+Maybach,2010 Maybach 62,604,26
+Maybach,2010 Maybach 62,631,26
+Maybach,2011 Maybach 62,620,26
+Maybach,2011 Maybach 62,543,26
+Maybach,2009 Maybach Landaulet,604,26
+Maybach,2010 Maybach Landaulet,604,26
+Maybach,2011 Maybach Landaulet,620,26
+Toyota,2010 Toyota Matrix,132,58
+Toyota,2010 Toyota Matrix,132,56
+Toyota,2010 Toyota Matrix,158,49
+Toyota,2010 Toyota Matrix,158,50
+Toyota,2010 Toyota Matrix,158,46
+Toyota,2010 Toyota Matrix,158,49
+Toyota,2010 Toyota Matrix,158,50
+Nissan,2010 Toyota Matrix,132,56
+Nissan,2011 Nissan Armada,317,30
+Nissan,2011 Nissan Armada,317,30
+Nissan,2011 Nissan Armada,317,30
+Nissan,2011 Nissan Armada,317,32
+Nissan,2011 Nissan Armada,317,30
+Nissan,2011 Nissan Armada,317,30
+Volkswagen,2011 Volkswagen Jetta SportWagen,170,56
+Volkswagen,2011 Volkswagen Jetta SportWagen,170,55
+Volkswagen,2011 Volkswagen Jetta SportWagen,170,56
+Volkswagen,2011 Volkswagen Jetta SportWagen,170,55
+Volkswagen,2011 Volkswagen Jetta SportWagen,170,55
+Volkswagen,2011 Volkswagen Jetta SportWagen,170,55
+Volkswagen,2011 Volkswagen Jetta SportWagen,140,72
+Chevrolet,2011 Chevrolet Aveo,108,62
+Chevrolet,2011 Chevrolet Aveo,108,62
+Chevrolet,2011 Chevrolet Aveo,108,59
+Chevrolet,2011 Chevrolet Aveo,108,62
+Chevrolet,2011 Chevrolet Aveo,108,59
+Volkswagen,2010 Volkswagen CC,200,52
+Volkswagen,2010 Volkswagen CC,200,52
+Volkswagen,2010 Volkswagen CC,280,45
+Volkswagen,2010 Volkswagen CC,280,42
+Audi,2011 Audi A6 Sedan,350,40
+Audi,2010 Audi A6 Sedan,300,44
+Chevrolet,2011 Chevrolet Aveo5,108,62
+Chevrolet,2011 Chevrolet Aveo5,108,62
+Chevrolet,2011 Chevrolet Aveo5,108,59
+Chevrolet,2011 Chevrolet Aveo5,108,62
+Chevrolet,2011 Chevrolet Aveo5,108,59
+Audi,2010 Audi A6 Sedan,350,39
+Audi,2011 Audi A6 Avant,300,44
+Audi,2010 Audi A6 Avant,300,44
+Audi,2012 Audi A7,310,46
+Audi,2011 Audi A8,372,44
+Audi,2011 Audi A8,372,44
+Nissan,2010 Nissan Armada,317,30
+Nissan,2010 Nissan Armada,317,30
+Nissan,2010 Nissan Armada,317,30
+Nissan,2010 Nissan Armada,317,30
+Nissan,2010 Nissan Armada,317,30
+Nissan,2010 Nissan Armada,317,30
+Audi,2010 Audi A8,350,39
+Audi,2010 Audi A8,350,39
+Nissan,2011 Nissan Cube,122,55
+Nissan,2011 Nissan Cube,122,55
+Nissan,2010 Nissan Cube,122,55
+Nissan,2010 Nissan Cube,122,55
+Audi,2012 Audi Q5,211,47
+Audi,2012 Audi Q5,270,41
+Audi,2011 Audi Q5,211,47
+Audi,2011 Audi Q5,270,41
+Honda,2010 Honda Accord Crosstour Hatchback,271,45
+Honda,2010 Honda Accord Crosstour Hatchback,271,45
+Honda,2010 Honda Accord Crosstour Hatchback,271,42
+Audi,2010 Audi Q5,270,41
+Audi,2009 Audi Q5,270,41
+Honda,2011 Honda Civic Coup,140,60
+Honda,2011 Honda Civic Coup,140,61
+Honda,2011 Honda Civic Coup,140,60
+Honda,2011 Honda Civic Coup,140,61
+Honda,2011 Honda Civic Coup,140,60
+Honda,2011 Honda Civic Coup,140,61
+Honda,2011 Honda Civic Coup,140,61
+Honda,2011 Honda Civic Coup,197,50
+Audi,2012 Audi Q7,333,38
+Audi,2012 Audi Q7,280,38
+Audi,2012 Audi Q7,225,42
+Lamborghini,2010 Lamborghini Gallardo Coupe,550,32
+Chevrolet,2010 Chevrolet Aveo5,108,62
+Chevrolet,2010 Chevrolet Aveo5,108,62
+Chevrolet,2010 Chevrolet Aveo5,108,59
+Chevrolet,2010 Chevrolet Aveo5,108,62
+Chevrolet,2010 Chevrolet Aveo5,108,59
+Lexus,2010 Lexus LS,380,40
+Lexus,2010 Lexus LS,357,39
+Lexus,2010 Lexus LS,380,40
+Lexus,2010 Lexus LS,357,39
+Lamborghini,2011 Lamborghini Gallardo Coupe,560,32
+Lamborghini,2011 Lamborghini Gallardo Coupe,560,32
+Hyundai,2012 Hyundai Accent Hatchback,138,70
+Hyundai,2012 Hyundai Accent Hatchback,138,70
+Hyundai,2012 Hyundai Accent Hatchback,138,70
+Hyundai,2012 Hyundai Accent Hatchback,138,70
+Lexus,2011 Lexus LS,380,40
+Lexus,2011 Lexus LS,357,39
+Lexus,2011 Lexus LS,380,40
+Lexus,2011 Lexus LS,357,39
+Hyundai,2011 Hyundai Accent Hatchback,110,63
+Hyundai,2011 Hyundai Accent Hatchback,110,62
+Hyundai,2011 Hyundai Accent Hatchback,110,62
+Hyundai,2011 Hyundai Accent Hatchback,110,62
+Hyundai,2011 Hyundai Accent Hatchback,110,63
+Hyundai,2010 Hyundai Accent Hatchback,110,62
+Hyundai,2010 Hyundai Accent Hatchback,110,63
+Hyundai,2010 Hyundai Accent Hatchback,110,62
+Hyundai,2010 Hyundai Accent Hatchback,110,63
+Hyundai,2010 Hyundai Accent Hatchback,110,63
+Hyundai,2012 Hyundai Accent Sedan,138,70
+Hyundai,2012 Hyundai Accent Sedan,138,70
+Hyundai,2011 Hyundai Accent Sedan,110,63
+Hyundai,2011 Hyundai Accent Sedan,110,62
+Hyundai,2010 Hyundai Accent Sedan,110,62
+Hyundai,2010 Hyundai Accent Sedan,110,63
+Hyundai,2011 Hyundai Azera,260,48
+Hyundai,2011 Hyundai Azera,283,46
+Hyundai,2010 Hyundai Azera,263,43
+Hyundai,2010 Hyundai Azera,234,44
+Audi,2011 Audi Q7,333,38
+Audi,2011 Audi Q7,272,38
+Audi,2011 Audi Q7,225,42
+Audi,2010 Audi Q7,280,33
+Audi,2010 Audi Q7,225,42
+Audi,2010 Audi Q7,350,31
+Toyota,2011 Toyota RAV4,179,50
+Toyota,2011 Toyota RAV4,179,48
+Toyota,2011 Toyota RAV4,269,46
+Toyota,2011 Toyota RAV4,269,45
+Toyota,2011 Toyota RAV4,179,50
+Toyota,2011 Toyota RAV4,179,48
+Toyota,2011 Toyota RAV4,269,46
+Toyota,2011 Toyota RAV4,269,45
+Toyota,2011 Toyota RAV4,179,50
+Toyota,2011 Toyota RAV4,179,48
+Toyota,2011 Toyota RAV4,269,46
+Toyota,2011 Toyota RAV4,269,45
+Nissan,2009 Nissan Cube,122,53
+Nissan,2009 Nissan Cube,122,53
+Volvo,2011 Volvo S40,227,51
+Chevrolet,2012 Chevrolet Camaro Convertible,323,45
+Chevrolet,2012 Chevrolet Camaro Convertible,323,49
+Chevrolet,2012 Chevrolet Camaro Convertible,323,45
+Chevrolet,2012 Chevrolet Camaro Convertible,323,49
+Chevrolet,2012 Chevrolet Camaro Convertible,426,40
+Chevrolet,2012 Chevrolet Camaro Convertible,426,39
+Chevrolet,2012 Chevrolet Camaro Convertible,426,40
+Chevrolet,2012 Chevrolet Camaro Convertible,426,39
+Nissan,2011 Nissan Juke,188,55
+Nissan,2011 Nissan Juke,188,55
+Chevrolet,2011 Chevrolet Camaro Convertible,312,45
+Chevrolet,2011 Chevrolet Camaro Convertible,312,49
+Chevrolet,2011 Chevrolet Camaro Convertible,312,45
+Chevrolet,2011 Chevrolet Camaro Convertible,312,49
+Chevrolet,2011 Chevrolet Camaro Convertible,426,40
+Chevrolet,2011 Chevrolet Camaro Convertible,426,39
+Chevrolet,2011 Chevrolet Camaro Convertible,426,40
+Chevrolet,2011 Chevrolet Camaro Convertible,426,41
+Mercedes,2010 Mercedes-Benz C-Class,228,44
+Mercedes,2010 Mercedes-Benz C-Class,228,44
+Mercedes,2010 Mercedes-Benz C-Class,268,42
+BMW Motorrad,2010 BMW 1 Series Convertible,230,45
+BMW,2010 BMW 1 Series Convertible,300,43
+BMW,2010 BMW 1 Series Convertible,300,43
+BMW Motorrad,2010 BMW 1 Series Convertible,230,46
+Chevrolet,2012 Chevrolet Camaro Coupe,323,45
+Chevrolet,2012 Chevrolet Camaro Coupe,323,49
+Chevrolet,2012 Chevrolet Camaro Coupe,323,45
+Chevrolet,2012 Chevrolet Camaro Coupe,323,49
+Chevrolet,2012 Chevrolet Camaro Coupe,426,40
+Chevrolet,2012 Chevrolet Camaro Coupe,426,39
+Chevrolet,2012 Chevrolet Camaro Coupe,426,40
+Chevrolet,2012 Chevrolet Camaro Coupe,426,39
+Chevrolet,2012 Chevrolet Camaro Coupe,323,45
+Chevrolet,2012 Chevrolet Camaro Coupe,323,47
+Mercedes,2010 Mercedes-Benz C-Class,228,32
+Mercedes,2010 Mercedes-Benz C-Class,228,44
+Hyundai,2012 Hyundai Elantra Sedan,145,69
+Hyundai,2012 Hyundai Elantra Sedan,148,69
+Hyundai,2012 Hyundai Elantra Sedan,148,69
+Hyundai,2012 Hyundai Elantra Sedan,145,69
+Hyundai,2012 Hyundai Elantra Sedan,148,69
+Hyundai,2011 Hyundai Elantra Sedan,148,69
+Hyundai,2011 Hyundai Elantra Sedan,148,69
+Hyundai,2011 Hyundai Elantra Sedan,145,69
+Hyundai,2011 Hyundai Elantra Sedan,148,69
+Hyundai,2011 Hyundai Elantra Sedan,145,69
+Hyundai,2010 Hyundai Elantra Sedan,138,60
+Hyundai,2010 Hyundai Elantra Sedan,132,60
+Hyundai,2010 Hyundai Elantra Sedan,138,59
+Hyundai,2010 Hyundai Elantra Sedan,132,60
+Hyundai,2010 Hyundai Elantra Sedan,138,60
+Ford,2012 Ford Fusion,175,54
+Ford,2012 Ford Fusion,175,56
+Ford,2012 Ford Fusion,175,56
+Ford,2012 Ford Fusion,240,48
+Ford,2012 Ford Fusion,175,56
+Ford,2012 Ford Fusion,240,48
+Ford,2012 Ford Fusion,240,32
+Ford,2012 Ford Fusion,263,45
+Ford,2012 Ford Fusion,263,42
+Volkswagen,2011 Volkswagen CC,200,52
+Volkswagen,2011 Volkswagen CC,200,52
+Volkswagen,2011 Volkswagen CC,280,53
+Ford,2011 Ford Fusion,175,51
+Ford,2011 Ford Fusion,175,56
+Ford,2011 Ford Fusion,175,51
+Ford,2011 Ford Fusion,175,56
+Ford,2011 Ford Fusion,240,35
+Ford,2011 Ford Fusion,240,32
+Ford,2011 Ford Fusion,263,45
+Ford,2011 Ford Fusion,263,41
+Ford,2011 Ford Fusion,240,35
+Ford,2011 Ford Fusion,175,56
+Ford,2010 Ford Fusion,175,53
+Ford,2010 Ford Fusion,175,57
+Ford,2010 Ford Fusion,175,51
+Ford,2010 Ford Fusion,240,46
+Ford,2010 Ford Fusion,175,53
+Ford,2010 Ford Fusion,240,33
+Ford,2010 Ford Fusion,240,31
+Ford,2010 Ford Fusion,263,45
+Ford,2010 Ford Fusion,263,41
+Ford,2010 Ford Fusion,175,53
+Kia,2011 Kia Forte,156,59
+Kia,2011 Kia Forte,156,62
+Kia,2011 Kia Forte,156,62
+Kia,2011 Kia Forte,173,55
+Audi,2009 Audi Q7,225,42
+Kia,2011 Kia Forte 5-Door,156,59
+Kia,2011 Kia Forte 5-Door,156,62
+Kia,2011 Kia Forte 5-Door,173,54
+Kia,2011 Kia Forte 5-Door,173,55
+Kia,2011 Kia Forte Koup,156,57
+Kia,2011 Kia Forte Koup,156,59
+Kia,2011 Kia Forte Koup,173,54
+Kia,2011 Kia Forte Koup,173,54
+Audi,2011 Audi R8 Coupe,420,31
+Audi,2011 Audi R8 Coupe,525,31
+Kia,2010 Kia Forte,156,59
+Kia,2010 Kia Forte,156,59
+Kia,2010 Kia Forte,156,59
+Kia,2010 Kia Forte,156,59
+Kia,2010 Kia Forte,156,63
+Kia,2010 Kia Forte,173,54
+Kia,2010 Kia Forte,173,54
+Audi,2012 Audi R8 Coupe,430,31
+Audi,2012 Audi R8 Coupe,525,31
+Hyundai,2012 Hyundai Elantra Touring,138,53
+Hyundai,2012 Hyundai Elantra Touring,138,54
+Hyundai,2012 Hyundai Elantra Touring,138,54
+Hyundai,2012 Hyundai Elantra Touring,138,53
+Hyundai,2011 Hyundai Elantra Touring,138,54
+Hyundai,2011 Hyundai Elantra Touring,138,53
+Hyundai,2011 Hyundai Elantra Touring,138,53
+Hyundai,2011 Hyundai Elantra Touring,138,54
+Hyundai,2010 Hyundai Elantra Touring,138,54
+Hyundai,2010 Hyundai Elantra Touring,138,53
+Hyundai,2010 Hyundai Elantra Touring,138,54
+Hyundai,2010 Hyundai Elantra Touring,138,53
+Hyundai,2009 Hyundai Elantra Touring,138,54
+Hyundai,2009 Hyundai Elantra Touring,138,53
+Hyundai,2011 Hyundai Equus,385,40
+Hyundai,2011 Hyundai Equus,385,40
+Hyundai,2012 Hyundai Genesis Sedan,385,43
+Hyundai,2012 Hyundai Genesis Sedan,333,48
+Hyundai,2012 Hyundai Genesis Sedan,429,43
+Kia,2010 Kia Forte Koup,156,59
+Kia,2010 Kia Forte Koup,156,59
+Kia,2010 Kia Forte Koup,173,54
+Kia,2010 Kia Forte Koup,173,54
+Kia,2011 Kia Optima,200,59
+Kia,2011 Kia Optima,200,58
+Kia,2011 Kia Optima,200,58
+Kia,2011 Kia Optima,274,56
+Kia,2011 Kia Optima,274,56
+Honda,2010 Honda Civic Coup,140,60
+Honda,2010 Honda Civic Coup,140,61
+Honda,2010 Honda Civic Coup,140,60
+Honda,2010 Honda Civic Coup,140,61
+Honda,2010 Honda Civic Coup,140,60
+Honda,2010 Honda Civic Coup,140,61
+Honda,2010 Honda Civic Coup,140,60
+Honda,2010 Honda Civic Coup,140,61
+Honda,2010 Honda Civic Coup,197,50
+Kia,2011 Kia Optima Hybrid,166,76
+Kia,2010 Kia Optima,175,54
+Kia,2010 Kia Optima,175,54
+Kia,2010 Kia Optima,175,54
+Kia,2010 Kia Optima,194,48
+Kia,2010 Kia Optima,175,54
+Kia,2010 Kia Optima,194,48
+Kia,2011 Kia Rio,110,62
+Kia,2011 Kia Rio,110,63
+Kia,2011 Kia Rio,110,63
+Hyundai,2011 Hyundai Genesis Sedan,290,45
+Hyundai,2011 Hyundai Genesis Sedan,385,42
+Hyundai,2010 Hyundai Genesis Sedan,368,42
+Hyundai,2010 Hyundai Genesis Sedan,290,45
+Hyundai,2012 Hyundai Genesis Coupe,210,51
+Hyundai,2012 Hyundai Genesis Coupe,306,43
+Hyundai,2012 Hyundai Genesis Coupe,306,44
+Hyundai,2012 Hyundai Genesis Coupe,210,51
+Hyundai,2012 Hyundai Genesis Coupe,210,50
+Hyundai,2012 Hyundai Genesis Coupe,306,43
+Hyundai,2012 Hyundai Genesis Coupe,306,44
+Hyundai,2012 Hyundai Genesis Coupe,210,50
+Hyundai,2011 Hyundai Genesis Coupe,210,50
+Hyundai,2011 Hyundai Genesis Coupe,210,51
+Hyundai,2011 Hyundai Genesis Coupe,210,50
+Hyundai,2011 Hyundai Genesis Coupe,306,44
+Hyundai,2011 Hyundai Genesis Coupe,306,43
+Hyundai,2011 Hyundai Genesis Coupe,210,51
+Hyundai,2011 Hyundai Genesis Coupe,306,43
+Hyundai,2011 Hyundai Genesis Coupe,306,44
+Hyundai,2010 Hyundai Genesis Coupe,210,51
+Hyundai,2010 Hyundai Genesis Coupe,306,44
+Hyundai,2010 Hyundai Genesis Coupe,306,44
+Hyundai,2010 Hyundai Genesis Coupe,210,51
+Hyundai,2010 Hyundai Genesis Coupe,210,50
+Hyundai,2010 Hyundai Genesis Coupe,210,51
+Hyundai,2010 Hyundai Genesis Coupe,306,43
+Hyundai,2010 Hyundai Genesis Coupe,306,44
+Hyundai,2010 Hyundai Genesis Coupe,306,43
+Hyundai,2010 Hyundai Genesis Coupe,210,50
+Hyundai,2010 Hyundai Genesis Coupe,306,43
+Hyundai,2010 Hyundai Genesis Coupe,210,51
+AMG,2010 Mercedes-Benz C-Class,451,31
+Volkswagen,2010 Volkswagen GTI 2-Door,200,52
+Volkswagen,2011 Volkswagen GTI 2-Door,200,52
+Ford,2012 Ford Mustang Coup,305,48
+Ford,2012 Ford Mustang Coup,305,50
+Ford,2012 Ford Mustang Coup,305,48
+Ford,2012 Ford Mustang Coup,305,50
+Ford,2012 Ford Mustang Coup,412,43
+Ford,2012 Ford Mustang Coup,412,43
+Ford,2012 Ford Mustang Coup,412,43
+Ford,2012 Ford Mustang Coup,412,43
+Ford,2012 Ford Mustang Coup,444,43
+Mercedes,2010 Mercedes-Benz C-Class,228,43
+Ford,2012 Ford Mustang Convertible,305,49
+Ford,2012 Ford Mustang Convertible,305,49
+Ford,2012 Ford Mustang Convertible,305,49
+Ford,2012 Ford Mustang Convertible,305,49
+Ford,2012 Ford Mustang Convertible,412,49
+Ford,2012 Ford Mustang Convertible,412,43
+Ford,2012 Ford Mustang Convertible,412,49
+Ford,2012 Ford Mustang Convertible,412,43
+Ford,2011 Ford Mustang Convertible,305,48
+Ford,2011 Ford Mustang Convertible,305,49
+Ford,2011 Ford Mustang Convertible,305,48
+Ford,2011 Ford Mustang Convertible,305,49
+Ford,2011 Ford Mustang Convertible,412,43
+Ford,2011 Ford Mustang Convertible,412,43
+Ford,2011 Ford Mustang Convertible,412,43
+Ford,2011 Ford Mustang Convertible,412,43
+Ford,2011 Ford Mustang Coup,305,48
+Ford,2011 Ford Mustang Coup,305,50
+Ford,2011 Ford Mustang Coup,305,48
+Ford,2011 Ford Mustang Coup,305,50
+Ford,2011 Ford Mustang Coup,412,43
+Ford,2011 Ford Mustang Coup,412,43
+Ford,2011 Ford Mustang Coup,412,43
+Ford,2011 Ford Mustang Coup,412,43
+Mercedes,2011 Mercedes-Benz C-Class,228,44
+AMG,2011 Mercedes-Benz C-Class,451,32
+Mercedes,2011 Mercedes-Benz C-Class,228,43
+Mercedes,2011 Mercedes-Benz C-Class,228,44
+Mercedes,2011 Mercedes-Benz C-Class,268,42
+Mercedes,2011 Mercedes-Benz C-Class,228,32
+Kia,2011 Kia Rio5,110,63
+Kia,2011 Kia Rio5,110,63
+Kia,2010 Kia Rio5,110,62
+Kia,2010 Kia Rio5,110,63
+Kia,2010 Kia Rio5,110,62
+Kia,2010 Kia Rio5,110,63
+Volkswagen,2011 Volkswagen GTI 4-Door,200,52
+Kia,2010 Kia Rio,110,62
+Kia,2010 Kia Rio,110,62
+Kia,2010 Kia Rio,110,63
+Kia,2010 Kia Rio,110,62
+Kia,2010 Kia Rio,110,63
+Kia,2011 Kia Soul,122,57
+Kia,2011 Kia Soul,142,54
+Kia,2011 Kia Soul,142,54
+Kia,2011 Kia Soul,142,54
+Kia,2011 Kia Soul,142,54
+Chevrolet,2011 Chevrolet Camaro Coupe,312,45
+Chevrolet,2011 Chevrolet Camaro Coupe,312,49
+Chevrolet,2011 Chevrolet Camaro Coupe,312,47
+Chevrolet,2011 Chevrolet Camaro Coupe,312,45
+Chevrolet,2011 Chevrolet Camaro Coupe,312,49
+Chevrolet,2011 Chevrolet Camaro Coupe,312,45
+Chevrolet,2011 Chevrolet Camaro Coupe,312,49
+Chevrolet,2011 Chevrolet Camaro Coupe,426,40
+Chevrolet,2011 Chevrolet Camaro Coupe,426,41
+Chevrolet,2011 Chevrolet Camaro Coupe,426,40
+Chevrolet,2011 Chevrolet Camaro Coupe,426,41
+Ford,2010 Ford Mustang Coup,210,44
+Ford,2010 Ford Mustang Coup,210,40
+Ford,2010 Ford Mustang Coup,210,44
+Ford,2010 Ford Mustang Coup,210,40
+Ford,2010 Ford Mustang Coup,315,40
+Ford,2010 Ford Mustang Coup,315,40
+Ford,2010 Ford Mustang Coup,315,40
+Ford,2010 Ford Mustang Coup,315,40
+Kia,2010 Kia Soul,122,57
+Kia,2010 Kia Soul,142,54
+Kia,2010 Kia Soul,142,54
+Kia,2010 Kia Soul,142,54
+Kia,2010 Kia Soul,142,54
+Kia,2010 Kia Soul,142,54
+Kia,2010 Kia Soul,142,54
+Ford,2010 Ford Mustang Convertible,210,44
+Ford,2010 Ford Mustang Convertible,210,40
+Ford,2010 Ford Mustang Convertible,210,44
+Ford,2010 Ford Mustang Convertible,210,40
+Ford,2010 Ford Mustang Convertible,315,40
+Ford,2010 Ford Mustang Convertible,315,40
+Ford,2010 Ford Mustang Convertible,315,40
+Ford,2010 Ford Mustang Convertible,315,40
+Audi,2010 Audi R8 Coupe,525,32
+Audi,2010 Audi R8 Coupe,420,31
+Kia,2012 Kia Sedona,271,43
+Kia,2012 Kia Sedona,271,43
+Ford,2012 Ford Mustang Shelby GT500 Convertible,550,38
+Ford,2012 Ford Mustang Shelby GT500 Coupe,550,38
+Ford,2011 Ford Mustang Shelby GT500 Convertible,550,38
+Ford,2011 Ford Shelby GT500 Coupe,550,38
+Ford,2010 Ford Mustang Shelby GT500 Coupe,550,38
+Ford,2010 Ford Mustang Shelby GT500 Convertible,550,36
+Kia,2011 Kia Sedona,271,43
+Kia,2011 Kia Sedona,271,43
+Kia,2010 Kia Sedona,244,40
+Kia,2010 Kia Sedona,244,40
+Kia,2010 Kia Sedona,244,40
+Audi,2011 Audi R8 Spyder,420,31
+Volkswagen,2010 Volkswagen GTI 4-Door,200,52
+Audi,2011 Audi R8 Spyder,525,31
+Kia,2012 Kia Sorento,175,47
+Kia,2012 Kia Sorento,175,50
+Kia,2012 Kia Sorento,175,48
+Kia,2012 Kia Sorento,276,46
+Kia,2012 Kia Sorento,276,42
+Kia,2012 Kia Sorento,191,54
+Kia,2012 Kia Sorento,191,49
+Kia,2012 Kia Sorento,276,46
+Kia,2012 Kia Sorento,276,42
+Kia,2012 Kia Sorento,276,46
+Kia,2012 Kia Sorento,276,42
+Audi,2012 Audi S4 Sedan,333,45
+Chevrolet,2010 Chevrolet Camaro Coupe,304,46
+Chevrolet,2010 Chevrolet Camaro Coupe,304,47
+Chevrolet,2010 Chevrolet Camaro Coupe,304,46
+Chevrolet,2010 Chevrolet Camaro Coupe,304,47
+Chevrolet,2010 Chevrolet Camaro Coupe,304,46
+Chevrolet,2010 Chevrolet Camaro Coupe,304,47
+Chevrolet,2010 Chevrolet Camaro Coupe,426,40
+Chevrolet,2010 Chevrolet Camaro Coupe,426,41
+Chevrolet,2010 Chevrolet Camaro Coupe,426,40
+Chevrolet,2010 Chevrolet Camaro Coupe,426,41
+Audi,2011 Audi S4 Sedan,333,45
+Kia,2011 Kia Sorento,175,47
+Kia,2011 Kia Sorento,175,50
+Kia,2011 Kia Sorento,175,48
+Kia,2011 Kia Sorento,276,46
+Kia,2011 Kia Sorento,276,42
+Kia,2011 Kia Sorento,175,50
+Kia,2011 Kia Sorento,175,48
+Kia,2011 Kia Sorento,276,46
+Kia,2011 Kia Sorento,276,42
+Kia,2011 Kia Sorento,276,46
+Kia,2011 Kia Sorento,276,42
+Kia,2012 Kia Sportage,176,50
+Kia,2012 Kia Sportage,176,54
+Kia,2012 Kia Sportage,176,49
+Kia,2012 Kia Sportage,176,54
+Kia,2012 Kia Sportage,176,49
+Kia,2012 Kia Sportage,260,51
+Kia,2012 Kia Sportage,260,47
+Volkswagen,2010 Volkswagen Golf 2-Door,140,71
+Volkswagen,2010 Volkswagen Golf 2-Door,170,52
+Volkswagen,2010 Volkswagen Golf 2-Door,170,53
+Kia,2011 Kia Sportage,176,50
+Kia,2011 Kia Sportage,176,53
+Kia,2011 Kia Sportage,176,49
+Kia,2011 Kia Sportage,176,53
+Kia,2011 Kia Sportage,176,49
+Kia,2011 Kia Sportage,260,49
+Kia,2011 Kia Sportage,260,46
+Audi,2010 Audi S4 Sedan,333,45
+Kia,2010 Kia Sportage,140,45
+Kia,2010 Kia Sportage,140,45
+Kia,2010 Kia Sportage,140,43
+Kia,2010 Kia Sportage,173,41
+Kia,2010 Kia Sportage,173,41
+Kia,2010 Kia Sportage,173,41
+Kia,2010 Kia Sportage,173,41
+Honda,2010 Honda Civic Sedan,140,60
+Honda,2010 Honda Civic Sedan,140,61
+Honda,2010 Honda Civic Sedan,140,60
+Honda,2010 Honda Civic Sedan,140,61
+Honda,2010 Honda Civic Sedan,140,60
+Honda,2010 Honda Civic Sedan,140,61
+Honda,2010 Honda Civic Sedan,140,60
+Honda,2010 Honda Civic Sedan,140,61
+Honda,2010 Honda Civic Sedan,140,60
+Honda,2010 Honda Civic Sedan,140,61
+Honda,2010 Honda Civic Sedan,140,60
+Honda,2010 Honda Civic Sedan,140,61
+Honda,2010 Honda Civic Sedan,197,50
+Honda,2010 Honda Civic Sedan,113,60
+Nissan,2011 Nissan Pathfinder,266,37
+Nissan,2011 Nissan Pathfinder,266,37
+Nissan,2011 Nissan Pathfinder,266,34
+Nissan,2011 Nissan Pathfinder,266,34
+Nissan,2011 Nissan Pathfinder,266,37
+Nissan,2011 Nissan Pathfinder,266,34
+Nissan,2011 Nissan Pathfinder,266,37
+Nissan,2011 Nissan Pathfinder,310,31
+Nissan,2011 Nissan Pathfinder,266,34
+Hyundai,2011 Hyundai Santa Fe,175,48
+Hyundai,2011 Hyundai Santa Fe,276,46
+Hyundai,2011 Hyundai Santa Fe,276,46
+Hyundai,2011 Hyundai Santa Fe,276,46
+Hyundai,2011 Hyundai Santa Fe,175,45
+Hyundai,2011 Hyundai Santa Fe,276,46
+Hyundai,2011 Hyundai Santa Fe,175,48
+Hyundai,2011 Hyundai Santa Fe,175,45
+Hyundai,2011 Hyundai Santa Fe,276,46
+Hyundai,2011 Hyundai Santa Fe,276,46
+Hyundai,2010 Hyundai Santa Fe,276,46
+Hyundai,2010 Hyundai Santa Fe,276,46
+Hyundai,2010 Hyundai Santa Fe,175,48
+Hyundai,2010 Hyundai Santa Fe,175,48
+Hyundai,2010 Hyundai Santa Fe,276,46
+Hyundai,2010 Hyundai Santa Fe,276,46
+Hyundai,2010 Hyundai Santa Fe,175,48
+Hyundai,2010 Hyundai Santa Fe,175,45
+Ford,2012 Ford Taurus,263,46
+Ford,2012 Ford Taurus,263,45
+Ford,2012 Ford Taurus,263,43
+Ford,2012 Ford Taurus,263,45
+Ford,2012 Ford Taurus,263,43
+Ford,2011 Ford Taurus,263,46
+Ford,2011 Ford Taurus,263,45
+Ford,2011 Ford Taurus,263,42
+Ford,2011 Ford Taurus,263,45
+Ford,2011 Ford Taurus,263,42
+Ford,2010 Ford Taurus,263,46
+Ford,2010 Ford Taurus,263,45
+Ford,2010 Ford Taurus,263,42
+Ford,2010 Ford Taurus,263,45
+Ford,2010 Ford Taurus,263,42
+Volkswagen,2010 Volkswagen Golf 4-Door,170,53
+Volkswagen,2010 Volkswagen Golf 4-Door,140,71
+Volkswagen,2011 Volkswagen Golf 2-Door,170,56
+Volkswagen,2011 Volkswagen Golf 2-Door,170,55
+Volkswagen,2011 Volkswagen Golf 2-Door,140,72
+Ford,2011 Ford Edge,285,45
+Ford,2011 Ford Edge,285,45
+Ford,2011 Ford Edge,285,44
+Ford,2011 Ford Edge,285,45
+Ford,2011 Ford Edge,285,44
+Ford,2011 Ford Edge,305,43
+Ford,2011 Ford Edge,305,40
+Volkswagen,2011 Volkswagen Golf 4-Door,170,55
+Volkswagen,2011 Volkswagen Golf 4-Door,140,72
+Audi,2012 Audi S5 Coupe,354,40
+Audi,2012 Audi S5 Coupe,354,36
+Ford,2012 Ford Edge,285,46
+Ford,2012 Ford Edge,285,46
+Ford,2012 Ford Edge,285,43
+Ford,2012 Ford Edge,285,46
+Ford,2012 Ford Edge,285,43
+Ford,2012 Ford Edge,305,45
+Ford,2012 Ford Edge,305,40
+Ford,2010 Ford Edge,265,43
+Ford,2010 Ford Edge,265,40
+Ford,2010 Ford Edge,265,43
+Ford,2010 Ford Edge,265,40
+Ford,2010 Ford Edge,265,43
+Ford,2010 Ford Edge,265,40
+Ford,2010 Ford Edge,265,43
+Ford,2010 Ford Edge,265,40
+Audi,2011 Audi S5 Coupe,354,40
+Audi,2011 Audi S5 Coupe,354,36
+Ford,2012 Ford Edge,240,51
+Ford,2012 Ford Edge,240,51
+Ford,2012 Ford Edge,240,51
+Audi,2010 Audi S5 Coupe,354,40
+Audi,2010 Audi S5 Coupe,354,36
+Audi,2011 Audi S6,435,35
+Audi,2010 Audi S6,435,33
+Honda,2011 Honda Civic Sedan,140,60
+Honda,2011 Honda Civic Sedan,140,61
+Honda,2011 Honda Civic Sedan,140,60
+Honda,2011 Honda Civic Sedan,140,61
+Honda,2011 Honda Civic Sedan,140,60
+Honda,2011 Honda Civic Sedan,140,61
+Honda,2011 Honda Civic Sedan,140,60
+Honda,2011 Honda Civic Sedan,140,61
+Honda,2011 Honda Civic Sedan,140,60
+Honda,2011 Honda Civic Sedan,140,61
+Honda,2011 Honda Civic Sedan,140,61
+Honda,2011 Honda Civic Sedan,197,50
+Honda,2011 Honda Civic Sedan,113,60
+Chevrolet,2012 Chevrolet Corvette Z06,505,39
+Chevrolet,2012 Chevrolet Corvette Z06,505,39
+Chevrolet,2012 Chevrolet Corvette Z06,505,39
+Chevrolet,2011 Chevrolet Corvette Z06,505,39
+Chevrolet,2011 Chevrolet Corvette Z06,505,39
+Chevrolet,2011 Chevrolet Corvette Z06,505,39
+Chevrolet,2010 Chevrolet Corvette Z06,505,39
+Chevrolet,2010 Chevrolet Corvette Z06,505,39
+Chevrolet,2010 Chevrolet Corvette Z06,505,39
+Chevrolet,2012 Chevrolet Corvette Convertible,430,42
+Chevrolet,2012 Chevrolet Corvette Convertible,430,40
+Chevrolet,2012 Chevrolet Corvette Convertible,430,42
+Chevrolet,2012 Chevrolet Corvette Convertible,430,40
+Chevrolet,2012 Chevrolet Corvette Convertible,430,42
+Chevrolet,2012 Chevrolet Corvette Convertible,430,40
+Chevrolet,2012 Chevrolet Corvette Convertible,430,42
+Chevrolet,2012 Chevrolet Corvette Convertible,430,40
+Nissan,2010 Nissan Pathfinder,266,34
+Nissan,2010 Nissan Pathfinder,266,37
+Nissan,2010 Nissan Pathfinder,266,37
+Nissan,2010 Nissan Pathfinder,266,34
+Nissan,2010 Nissan Pathfinder,310,31
+Nissan,2010 Nissan Pathfinder,266,34
+Nissan,2010 Nissan Pathfinder,266,37
+Volkswagen,2010  Volkswagen Routan,197,39
+Volkswagen,2010  Volkswagen Routan,197,39
+Volkswagen,2010  Volkswagen Routan,251,42
+Volkswagen,2010  Volkswagen Routan,251,42
+Nissan,2009 Nissan Pathfinder,266,37
+Nissan,2009 Nissan Pathfinder,266,34
+Nissan,2009 Nissan Pathfinder,266,34
+Nissan,2009 Nissan Pathfinder,310,31
+Nissan,2009 Nissan Pathfinder,266,37
+Nissan,2009 Nissan Pathfinder,266,34
+Nissan,2009 Nissan Pathfinder,266,34
+Nissan,2009 Nissan Pathfinder,266,37
+Volkswagen,2011 Volkswagen Routan,283,42
+Volkswagen,2011 Volkswagen Routan,283,42
+Volkswagen,2011 Volkswagen Routan,283,42
+Volkswagen,2011 Volkswagen Routan,283,42
+Volkswagen,2010 Volkswagen Tiguan,200,45
+Volkswagen,2010 Volkswagen Tiguan,200,42
+Volkswagen,2010 Volkswagen Tiguan,200,42
+Volkswagen,2010 Volkswagen Tiguan,200,42
+Hyundai,2012 Hyundai Sonata,198,59
+Hyundai,2012 Hyundai Sonata,190,59
+Hyundai,2012 Hyundai Sonata,200,59
+Hyundai,2012 Hyundai Sonata,190,59
+Hyundai,2012 Hyundai Sonata,198,59
+Hyundai,2012 Hyundai Sonata,274,56
+Hyundai,2012 Hyundai Sonata,198,59
+Hyundai,2012 Hyundai Sonata,274,56
+Hyundai,2011 Hyundai Sonata,200,57
+Hyundai,2011 Hyundai Sonata,274,55
+Hyundai,2011 Hyundai Sonata,198,57
+Hyundai,2011 Hyundai Sonata,198,59
+Hyundai,2011 Hyundai Sonata,274,57
+Hyundai,2011 Hyundai Sonata,190,57
+Hyundai,2011 Hyundai Sonata,190,57
+Hyundai,2011 Hyundai Sonata,200,57
+Hyundai,2010 Hyundai Sonata,175,54
+Hyundai,2010 Hyundai Sonata,175,53
+Hyundai,2010 Hyundai Sonata,168,54
+Hyundai,2010 Hyundai Sonata,168,54
+Hyundai,2010 Hyundai Sonata,175,54
+Hyundai,2010 Hyundai Sonata,175,54
+Hyundai,2010 Hyundai Sonata,168,54
+Hyundai,2010 Hyundai Sonata,249,48
+Hyundai,2010 Hyundai Sonata,249,48
+Honda,2011 Honda CR-Z,122,68
+Honda,2011 Honda CR-Z,122,68
+Hyundai,2011 Hyundai Veracruz,260,39
+Hyundai,2011 Hyundai Veracruz,260,39
+Hyundai,2011 Hyundai Veracruz,260,37
+Hyundai,2011 Hyundai Veracruz,260,37
+Hyundai,2010 Hyundai Veracruz,260,38
+Hyundai,2010 Hyundai Veracruz,260,40
+Hyundai,2010 Hyundai Veracruz,260,38
+Hyundai,2010 Hyundai Veracruz,260,40
+Honda,2011 Honda Fit,117,60
+Honda,2011 Honda Fit,117,63
+Honda,2011 Honda Fit,117,60
+Honda,2011 Honda Fit,117,60
+Hyundai,2011 Hyundai Sonata Hybrid,166,75
+Hyundai,2012 Hyundai Tucson,165,54
+Hyundai,2012 Hyundai Tucson,176,54
+Hyundai,2012 Hyundai Tucson,170,49
+Hyundai,2012 Hyundai Tucson,176,54
+Hyundai,2012 Hyundai Tucson,170,49
+Hyundai,2012 Hyundai Tucson,170,54
+Hyundai,2012 Hyundai Tucson,165,47
+Hyundai,2012 Hyundai Tucson,176,49
+Hyundai,2012 Hyundai Tucson,170,54
+Hyundai,2012 Hyundai Tucson,170,49
+Mazda,2011 Mazda CX-7,161,48
+Mazda,2011 Mazda CX-7,161,48
+Mazda,2011 Mazda CX-7,244,42
+Mazda,2011 Mazda CX-7,244,38
+Mazda,2011 Mazda CX-7,161,48
+Mazda,2011 Mazda CX-7,244,42
+Mazda,2011 Mazda CX-7,244,38
+Ford,2012 Ford Flex,262,41
+Ford,2012 Ford Flex,262,41
+Ford,2012 Ford Flex,262,39
+Ford,2012 Ford Flex,262,41
+Ford,2012 Ford Flex,262,39
+Ford,2012 Ford Flex,355,38
+Ford,2012 Ford Flex,262,41
+Ford,2012 Ford Flex,262,39
+Ford,2012 Ford Flex,355,38
+Honda,2010 Honda Fit,117,60
+Honda,2010 Honda Fit,117,63
+Honda,2010 Honda Fit,117,60
+Honda,2010 Honda Fit,117,60
+Ford,2011 Ford Flex,262,41
+Ford,2011 Ford Flex,262,41
+Ford,2011 Ford Flex,262,38
+Ford,2011 Ford Flex,355,38
+Ford,2011 Ford Flex,262,41
+Ford,2011 Ford Flex,262,38
+Ford,2011 Ford Flex,355,38
+Ford,2011 Ford Flex,262,41
+Ford,2011 Ford Flex,262,38
+Ford,2011 Ford Flex,355,38
+Mazda,2010 Mazda CX-7,161,48
+Mazda,2010 Mazda CX-7,161,48
+Mazda,2010 Mazda CX-7,244,43
+Mazda,2010 Mazda CX-7,244,40
+Mazda,2010 Mazda CX-7,244,43
+Mazda,2010 Mazda CX-7,244,40
+Hyundai,2011 Hyundai Tucson,165,54
+Hyundai,2011 Hyundai Tucson,176,53
+Hyundai,2011 Hyundai Tucson,170,53
+Hyundai,2011 Hyundai Tucson,176,49
+Hyundai,2011 Hyundai Tucson,170,49
+Hyundai,2011 Hyundai Tucson,176,49
+Hyundai,2011 Hyundai Tucson,170,53
+Hyundai,2011 Hyundai Tucson,165,47
+Hyundai,2011 Hyundai Tucson,170,49
+Hyundai,2011 Hyundai Tucson,176,53
+Audi,2012 Audi R8 Spyder,430,31
+Audi,2012 Audi R8 Spyder,525,31
+Ford,2010 Ford Flex,262,41
+Ford,2010 Ford Flex,262,41
+Ford,2010 Ford Flex,262,38
+Ford,2010 Ford Flex,355,38
+Ford,2010 Ford Flex,262,41
+Ford,2010 Ford Flex,262,38
+Ford,2010 Ford Flex,355,38
+Mazda,2011 Mazda CX-9,273,41
+Mazda,2011 Mazda CX-9,273,38
+Mazda,2011 Mazda CX-9,273,41
+Mazda,2011 Mazda CX-9,273,38
+Mazda,2011 Mazda CX-9,273,41
+Mazda,2011 Mazda CX-9,273,38
+Volkswagen,2011 Volkswagen Tiguan,200,44
+Volkswagen,2011 Volkswagen Tiguan,200,45
+Volkswagen,2011 Volkswagen Tiguan,200,45
+Volkswagen,2011 Volkswagen Tiguan,200,45
+Volkswagen,2010 Volkswagen Touareg,280,33
+Volkswagen,2010 Volkswagen Touareg,225,43
+Mercedes,2010 Mercedes-Benz CL-Class,382,35
+Mercedes-Benz,2010 Mercedes-Benz CL-Class,510,28
+AMG,2010 Mercedes-Benz CL-Class,518,29
+AMG,2010 Mercedes-Benz CL-Class,621,28
+BMW Motorrad,2011 BMW 1 Series Convertible,230,46
+BMW Motorrad,2011 BMW 1 Series Convertible,230,45
+BMW,2011 BMW 1 Series Convertible,300,47
+Mercedes-Benz,2011 Mercedes-Benz CL-Class,510,30
+AMG,2011 Mercedes-Benz CL-Class,536,36
+Mercedes-Benz,2011 Mercedes-Benz CL-Class,429,38
+AMG,2011 Mercedes-Benz CL-Class,621,30
+BMW Motorrad,2010 BMW 1 Series Coupe,300,43
+BMW Motorrad,2010 BMW 1 Series Coupe,300,43
+BMW Motorrad,2010 BMW 1 Series Coupe,230,46
+BMW Motorrad,2010 BMW 1 Series Coupe,230,46
+Hyundai,2010 Hyundai Tucson,176,54
+Hyundai,2010 Hyundai Tucson,176,52
+Hyundai,2010 Hyundai Tucson,170,49
+Hyundai,2010 Hyundai Tucson,176,49
+Hyundai,2010 Hyundai Tucson,176,49
+Hyundai,2010 Hyundai Tucson,170,49
+Hyundai,2010 Hyundai Tucson,170,54
+Hyundai,2010 Hyundai Tucson,176,54
+Hyundai,2010 Hyundai Tucson,170,54
+BMW Motorrad,2011 BMW 1 Series Coupe,300,48
+BMW Motorrad,2011 BMW 1 Series Coupe,230,46
+BMW Motorrad,2011 BMW 1 Series Coupe,230,46
+Mercedes,2010 Mercedes-Benz CLS-Class,382,35
+AMG,2010 Mercedes-Benz CLS-Class,507,30
+Chevrolet,2011 Chevrolet Corvette Convertible,430,42
+Chevrolet,2011 Chevrolet Corvette Convertible,430,40
+Chevrolet,2011 Chevrolet Corvette Convertible,430,42
+Chevrolet,2011 Chevrolet Corvette Convertible,430,40
+Chevrolet,2011 Chevrolet Corvette Convertible,430,42
+Chevrolet,2011 Chevrolet Corvette Convertible,430,40
+Chevrolet,2011 Chevrolet Corvette Convertible,430,42
+Chevrolet,2011 Chevrolet Corvette Convertible,430,40
+Mercedes-AMG,2011 Mercedes-Benz CLS-Class,507,30
+Chevrolet,2010 Chevrolet Corvette Convertible,430,42
+Chevrolet,2010 Chevrolet Corvette Convertible,430,40
+Chevrolet,2010 Chevrolet Corvette Convertible,430,42
+Chevrolet,2010 Chevrolet Corvette Convertible,430,40
+Chevrolet,2010 Chevrolet Corvette Convertible,430,42
+Chevrolet,2010 Chevrolet Corvette Convertible,430,40
+Chevrolet,2010 Chevrolet Corvette Convertible,430,42
+Chevrolet,2010 Chevrolet Corvette Convertible,430,40
+Mitsubishi,2012 Mitsubishi Eclipse Coupe,265,42
+Mitsubishi,2012 Mitsubishi Eclipse Coupe,162,48
+Mitsubishi,2012 Mitsubishi Eclipse Coupe,162,48
+Mitsubishi,2012 Mitsubishi Eclipse Coupe,162,48
+Mitsubishi,2012 Mitsubishi Eclipse Coupe,162,48
+Mitsubishi,2011 Mitsubishi Eclipse Coupe,162,48
+Mitsubishi,2011 Mitsubishi Eclipse Coupe,162,48
+Mitsubishi,2011 Mitsubishi Eclipse Coupe,162,48
+Mitsubishi,2011 Mitsubishi Eclipse Coupe,265,42
+Mitsubishi,2010 Mitsubishi Eclipse Coupe,265,40
+Mitsubishi,2010 Mitsubishi Eclipse Coupe,162,48
+Mitsubishi,2010 Mitsubishi Eclipse Coupe,162,47
+Mitsubishi,2010 Mitsubishi Eclipse Coupe,162,47
+Mitsubishi,2010 Mitsubishi Eclipse Coupe,265,41
+Chevrolet,2012 Chevrolet Corvette Coupe,430,42
+Chevrolet,2012 Chevrolet Corvette Coupe,430,40
+Chevrolet,2012 Chevrolet Corvette Coupe,430,42
+Chevrolet,2012 Chevrolet Corvette Coupe,430,40
+Chevrolet,2012 Chevrolet Corvette Coupe,430,42
+Chevrolet,2012 Chevrolet Corvette Coupe,430,40
+Chevrolet,2012 Chevrolet Corvette Coupe,430,42
+Chevrolet,2012 Chevrolet Corvette Coupe,430,40
+Toyota,2010 Toyota RAV4,179,50
+Toyota,2010 Toyota RAV4,179,48
+Toyota,2010 Toyota RAV4,269,46
+Toyota,2010 Toyota RAV4,269,45
+Toyota,2010 Toyota RAV4,179,50
+Toyota,2010 Toyota RAV4,179,48
+Toyota,2010 Toyota RAV4,269,46
+Toyota,2010 Toyota RAV4,269,45
+Toyota,2010 Toyota RAV4,179,50
+Toyota,2010 Toyota RAV4,179,48
+Toyota,2010 Toyota RAV4,269,46
+Toyota,2010 Toyota RAV4,269,45
+Mitsubishi,2012 Mitsubishi Eclipse Spyder,162,47
+Mitsubishi,2012 Mitsubishi Eclipse Spyder,162,47
+Mitsubishi,2012 Mitsubishi Eclipse Spyder,265,40
+Chevrolet,2011 Chevrolet Corvette Coupe,430,42
+Chevrolet,2011 Chevrolet Corvette Coupe,430,40
+Chevrolet,2011 Chevrolet Corvette Coupe,430,42
+Chevrolet,2011 Chevrolet Corvette Coupe,430,40
+Chevrolet,2011 Chevrolet Corvette Coupe,430,42
+Chevrolet,2011 Chevrolet Corvette Coupe,430,40
+Chevrolet,2011 Chevrolet Corvette Coupe,430,42
+Chevrolet,2011 Chevrolet Corvette Coupe,430,40
+Mitsubishi,2011 Mitsubishi Eclipse Spyder,162,47
+Mitsubishi,2011 Mitsubishi Eclipse Spyder,265,40
+Mitsubishi,2010 Mitsubishi Eclipse Spyder,265,40
+Mitsubishi,2010 Mitsubishi Eclipse Spyder,162,45
+Mitsubishi,2011 Mitsubishi Endeavor,225,36
+Mitsubishi,2011 Mitsubishi Endeavor,225,36
+Mitsubishi,2011 Mitsubishi Endeavor,225,34
+Mitsubishi,2010 Mitsubishi Endeavor,225,36
+Mitsubishi,2010 Mitsubishi Endeavor,225,36
+Mitsubishi,2010 Mitsubishi Endeavor,225,34
+Mitsubishi,2011 Mitsubishi Galant,160,51
+Mitsubishi,2011 Mitsubishi Galant,160,51
+Mitsubishi,2010 Mitsubishi Galant,160,51
+Mitsubishi,2010 Mitsubishi Galant,160,51
+Cadillac,2011 Cadillac CTS-V Sedan,556,33
+Cadillac,2011 Cadillac CTS-V Sedan,556,30
+Mitsubishi,2011 Mitsubishi Lancer,148,57
+Mitsubishi,2011 Mitsubishi Lancer,148,57
+Mitsubishi,2011 Mitsubishi Lancer,168,53
+Mitsubishi,2010 Mitsubishi Lancer,152,53
+Mitsubishi,2010 Mitsubishi Lancer,168,48
+Mitsubishi,2010 Mitsubishi Lancer,152,53
+Hyundai,2011 Hyundai Veracruz,260,37
+Cadillac,2010 Cadillac CTS-V Sedan,556,33
+Cadillac,2010 Cadillac CTS-V Sedan,556,30
+Cadillac,2011 Cadillac CTS-V Coupe,556,30
+Cadillac,2011 Cadillac CTS-V Coupe,556,33
+Cadillac,2011 Cadillac CTS-V Wagon,556,33
+Cadillac,2011 Cadillac CTS-V Wagon,556,30
+Cadillac,2011 Cadillac CTS Sport Sedan,270,42
+Cadillac,2011 Cadillac CTS Sport Sedan,270,45
+Cadillac,2011 Cadillac CTS Sport Sedan,270,45
+Cadillac,2011 Cadillac CTS Sport Sedan,270,42
+Cadillac,2011 Cadillac CTS Sport Sedan,270,45
+Cadillac,2011 Cadillac CTS Sport Sedan,270,45
+Cadillac,2011 Cadillac CTS Sport Sedan,270,45
+Cadillac,2011 Cadillac CTS Sport Sedan,304,41
+Cadillac,2011 Cadillac CTS Sport Sedan,304,45
+Cadillac,2010 Cadillac CTS Sport Sedan,270,45
+Cadillac,2011 Cadillac CTS Sport Sedan,304,41
+Cadillac,2011 Cadillac CTS Sport Sedan,304,45
+Cadillac,2011 Cadillac CTS Sport Sedan,304,45
+Cadillac,2011 Cadillac CTS Sport Sedan,270,42
+Toyota,2011 Toyota Sequoia,310,34
+Toyota,2011 Toyota Sequoia,310,33
+Toyota,2011 Toyota Sequoia,381,31
+Toyota,2011 Toyota Sequoia,381,29
+Toyota,2011 Toyota Sequoia,381,32
+Toyota,2011 Toyota Sequoia,381,31
+Toyota,2011 Toyota Sequoia,381,29
+Toyota,2011 Toyota Sequoia,381,32
+Toyota,2011 Toyota Sequoia,381,31
+Toyota,2011 Toyota Sequoia,381,29
+BMW Motorrad,2010 BMW 3 Series Convertible,230,43
+BMW,2010 BMW 3 Series Convertible,300,43
+BMW,2010 BMW 3 Series Convertible,300,43
+BMW Motorrad,2010 BMW 3 Series Convertible,230,45
+Infiniti,2009 Infiniti EX,297,41
+Infiniti,2009 Infiniti EX,297,39
+Infiniti,2009 Infiniti EX,297,41
+Infiniti,2009 Infiniti EX,297,39
+Mercedes,2011 Mercedes-Benz E-Class Cabriolet,382,37
+Mercedes,2011 Mercedes-Benz E-Class Cabriolet,268,42
+BMW Motorrad,2011 BMW 3 Series Convertible,230,43
+BMW,2011 BMW 3 Series Convertible,300,47
+BMW Motorrad,2011 BMW 3 Series Convertible,230,45
+BMW,2011 BMW 3 Series Convertible,320,44
+BMW,2011 BMW 3 Series Convertible,300,47
+Infiniti,2010 Infiniti EX,297,41
+Infiniti,2010 Infiniti EX,297,39
+Infiniti,2010 Infiniti EX,297,41
+Infiniti,2010 Infiniti EX,297,39
+Mercedes,2010 Mercedes-Benz E-Class Coupe,382,38
+Mercedes,2010 Mercedes-Benz E-Class Coupe,268,43
+Mercedes,2011 Mercedes-Benz E-Class Coupe,268,43
+Mercedes,2011 Mercedes-Benz E-Class Coupe,382,38
+Chevrolet,2010 Chevrolet Corvette Coupe,430,42
+Chevrolet,2010 Chevrolet Corvette Coupe,430,40
+Chevrolet,2010 Chevrolet Corvette Coupe,430,42
+Chevrolet,2010 Chevrolet Corvette Coupe,430,40
+Chevrolet,2010 Chevrolet Corvette Coupe,430,42
+Chevrolet,2010 Chevrolet Corvette Coupe,430,40
+Chevrolet,2010 Chevrolet Corvette Coupe,430,42
+Chevrolet,2010 Chevrolet Corvette Coupe,430,40
+Mercedes,2010 Mercedes-Benz E-Class Sedan,268,41
+Mercedes,2010 Mercedes-Benz E-Class Sedan,382,38
+Mercedes,2010 Mercedes-Benz E-Class Sedan,382,40
+Mercedes,2010 Mercedes-Benz E-Class Sedan,268,44
+AMG,2010 Mercedes-Benz E-Class Sedan,518,33
+BMW Motorrad,2010 BMW 3 Series Coup,230,46
+BMW,2010 BMW 3 Series Coup,300,42
+BMW Motorrad,2010 BMW 3 Series Coup,230,42
+BMW,2010 BMW 3 Series Coup,300,43
+BMW,2010 BMW 3 Series Coup,300,43
+BMW Motorrad,2010 BMW 3 Series Coup,230,46
+BMW Motorrad,2010 BMW 3 Series Coup,230,42
+BMW,2010 BMW 3 Series Coup,300,41
+Chevrolet,2012 Chevrolet Corvette ZR1,638,35
+Chevrolet,2012 Chevrolet Corvette ZR1,638,35
+Chevrolet,2011 Chevrolet Corvette ZR1,638,34
+Chevrolet,2011 Chevrolet Corvette ZR1,638,34
+Chevrolet,2010 Chevrolet Corvette ZR1,638,34
+Chevrolet,2010 Chevrolet Corvette ZR1,638,34
+Nissan,2011 Nissan Sentra,200,49
+Nissan,2011 Nissan Sentra,140,55
+Chevrolet,2012 Chevrolet Corvette Grand Sport Coupe,430,42
+Chevrolet,2012 Chevrolet Corvette Grand Sport Coupe,430,40
+Chevrolet,2012 Chevrolet Corvette Grand Sport Coupe,430,42
+Chevrolet,2012 Chevrolet Corvette Grand Sport Coupe,430,40
+Chevrolet,2012 Chevrolet Corvette Grand Sport Coupe,430,42
+Chevrolet,2012 Chevrolet Corvette Grand Sport Coupe,430,40
+Chevrolet,2012 Chevrolet Corvette Grand Sport Coupe,430,42
+Chevrolet,2012 Chevrolet Corvette Grand Sport Coupe,430,40
+BMW,2011 BMW 3 Series Coup,300,45
+BMW Motorrad,2011 BMW 3 Series Coup,230,46
+BMW Motorrad,2011 BMW 3 Series Coup,230,42
+BMW,2011 BMW 3 Series Coup,300,47
+BMW Motorrad,2011 BMW 3 Series Coup,230,46
+BMW Motorrad,2011 BMW 3 Series Coup,230,43
+BMW,2011 BMW 3 Series Coup,320,44
+BMW,2011 BMW 3 Series Coup,300,45
+BMW,2011 BMW 3 Series Coup,300,47
+Chevrolet,2011 Chevrolet Corvette Grand Sport Coupe,430,42
+Chevrolet,2011 Chevrolet Corvette Grand Sport Coupe,430,40
+Chevrolet,2011 Chevrolet Corvette Grand Sport Coupe,430,42
+Chevrolet,2011 Chevrolet Corvette Grand Sport Coupe,430,40
+Chevrolet,2011 Chevrolet Corvette Grand Sport Coupe,430,42
+Chevrolet,2011 Chevrolet Corvette Grand Sport Coupe,430,40
+Chevrolet,2011 Chevrolet Corvette Grand Sport Coupe,430,42
+Chevrolet,2011 Chevrolet Corvette Grand Sport Coupe,430,40
+Mercedes,2011 Mercedes-Benz E-Class Sedan,382,38
+Mercedes,2011 Mercedes-Benz E-Class Sedan,382,38
+Mercedes,2011 Mercedes-Benz E-Class Sedan,268,41
+AMG,2011 Mercedes-Benz E-Class Sedan,518,33
+Mercedes,2011 Mercedes-Benz E-Class Sedan,210,55
+Mercedes,2011 Mercedes-Benz E-Class Sedan,268,41
+Chevrolet,2010 Chevrolet Corvette Grand Sport Coupe,430,42
+Chevrolet,2010 Chevrolet Corvette Grand Sport Coupe,430,40
+Chevrolet,2010 Chevrolet Corvette Grand Sport Coupe,430,42
+Chevrolet,2010 Chevrolet Corvette Grand Sport Coupe,430,40
+Chevrolet,2010 Chevrolet Corvette Grand Sport Coupe,430,42
+Chevrolet,2010 Chevrolet Corvette Grand Sport Coupe,430,40
+Chevrolet,2010 Chevrolet Corvette Grand Sport Coupe,430,42
+Chevrolet,2010 Chevrolet Corvette Grand Sport Coupe,430,40
+Mercedes,2011 Mercedes-Benz E-Class Wagon,268,39
+Mercedes,2010 Mercedes-Benz G-Class,382,26
+Mercedes-AMG,2010 Mercedes-Benz G-Class,500,26
+Mercedes,2011 Mercedes-Benz G-Class,382,26
+Mercedes-AMG,2011 Mercedes-Benz G-Class,500,24
+Chevrolet,2012 Chevrolet Corvette Grand Sport Convertible,430,42
+Chevrolet,2012 Chevrolet Corvette Grand Sport Convertible,430,40
+Chevrolet,2012 Chevrolet Corvette Grand Sport Convertible,430,42
+Chevrolet,2012 Chevrolet Corvette Grand Sport Convertible,430,40
+Chevrolet,2012 Chevrolet Corvette Grand Sport Convertible,430,42
+Chevrolet,2012 Chevrolet Corvette Grand Sport Convertible,430,40
+Chevrolet,2012 Chevrolet Corvette Grand Sport Convertible,430,42
+Chevrolet,2012 Chevrolet Corvette Grand Sport Convertible,430,40
+Chevrolet,2011 Chevrolet Corvette Grand Sport Convertible,430,42
+Chevrolet,2011 Chevrolet Corvette Grand Sport Convertible,430,40
+Chevrolet,2011 Chevrolet Corvette Grand Sport Convertible,430,42
+Chevrolet,2011 Chevrolet Corvette Grand Sport Convertible,430,40
+Chevrolet,2011 Chevrolet Corvette Grand Sport Convertible,430,42
+Chevrolet,2011 Chevrolet Corvette Grand Sport Convertible,430,40
+Chevrolet,2011 Chevrolet Corvette Grand Sport Convertible,430,42
+Chevrolet,2011 Chevrolet Corvette Grand Sport Convertible,430,40
+Chevrolet,2010 Chevrolet Corvette Grand Sport Convertible,430,42
+Chevrolet,2010 Chevrolet Corvette Grand Sport Convertible,430,40
+Chevrolet,2010 Chevrolet Corvette Grand Sport Convertible,430,42
+Chevrolet,2010 Chevrolet Corvette Grand Sport Convertible,430,40
+Chevrolet,2010 Chevrolet Corvette Grand Sport Convertible,430,42
+Chevrolet,2010 Chevrolet Corvette Grand Sport Convertible,430,40
+Chevrolet,2010 Chevrolet Corvette Grand Sport Convertible,430,42
+Chevrolet,2010 Chevrolet Corvette Grand Sport Convertible,430,40
+Cadillac,2010 Cadillac CTS Sport Sedan,270,42
+Cadillac,2010 Cadillac CTS Sport Sedan,270,45
+Cadillac,2011 Cadillac Escalade ESV,403,32
+Cadillac,2010 Cadillac CTS Sport Sedan,270,42
+Cadillac,2010 Cadillac CTS Sport Sedan,270,45
+Cadillac,2010 Cadillac CTS Sport Sedan,270,45
+Cadillac,2010 Cadillac CTS Sport Sedan,270,45
+Cadillac,2010 Cadillac CTS Sport Sedan,304,41
+Cadillac,2010 Cadillac CTS Sport Sedan,304,45
+Cadillac,2010 Cadillac CTS Sport Sedan,304,41
+Cadillac,2010 Cadillac CTS Sport Sedan,304,45
+Cadillac,2010 Cadillac CTS Sport Sedan,304,45
+Cadillac,2010 Cadillac CTS Sport Sedan,304,45
+Mitsubishi,2011 Mitsubishi Lancer Evolution,291,40
+Mitsubishi,2010 Mitsubishi Lancer Evolution,291,38
+Mitsubishi,2011 Mitsubishi Lancer Sportback,148,56
+Mitsubishi,2011 Mitsubishi Lancer Sportback,168,53
+Mitsubishi,2010 Mitsubishi Lancer Sportback,168,47
+Mitsubishi,2011 Mitsubishi Outlander,230,45
+Mitsubishi,2010 Mitsubishi Outlander,230,42
+Mitsubishi,2010 Mitsubishi Outlander,230,44
+Mitsubishi,2010 Mitsubishi Outlander,230,42
+Cadillac,2011 Cadillac CTS Coupe,304,45
+Cadillac,2011 Cadillac CTS Coupe,304,45
+Cadillac,2011 Cadillac CTS Coupe,304,41
+Cadillac,2011 Cadillac CTS Coupe,304,45
+Cadillac,2011 Cadillac CTS Coupe,304,45
+Cadillac,2011 Cadillac CTS Coupe,304,41
+Cadillac,2011 Cadillac CTS Coupe,304,45
+Cadillac,2011 Cadillac CTS Coupe,304,45
+Toyota,2010 Toyota Sequoia,310,33
+Toyota,2010 Toyota Sequoia,381,33
+Toyota,2010 Toyota Sequoia,310,31
+Toyota,2010 Toyota Sequoia,381,31
+Toyota,2010 Toyota Sequoia,381,31
+Toyota,2010 Toyota Sequoia,381,33
+Toyota,2010 Toyota Sequoia,381,31
+Toyota,2010 Toyota Sequoia,381,31
+Toyota,2010 Toyota Sequoia,381,33
+Toyota,2010 Toyota Sequoia,381,31
+Toyota,2010 Toyota Sequoia,381,31
+Mitsubishi,2011 Mitsubishi Outlander Sport,148,55
+Cadillac,2011 Cadillac DTS,275,38
+Cadillac,2011 Cadillac DTS,275,38
+Cadillac,2011 Cadillac DTS,275,38
+Cadillac,2011 Cadillac DTS,292,38
+Infiniti,2011 Infiniti EX,297,41
+Infiniti,2011 Infiniti EX,297,41
+Infiniti,2011 Infiniti EX,297,41
+Infiniti,2011 Infiniti EX,297,41
+BMW,2010 BMW 3 Series Sedan,300,43
+BMW,2010 BMW 3 Series Sedan,300,42
+BMW Motorrad,2010 BMW 3 Series Sedan,230,46
+BMW,2010 BMW 3 Series Sedan,265,59
+BMW Motorrad,2010 BMW 3 Series Sedan,230,42
+BMW,2010 BMW 3 Series Sedan,300,41
+BMW Motorrad,2010 BMW 3 Series Sedan,230,42
+BMW Motorrad,2010 BMW 3 Series Sedan,230,46
+BMW,2010 BMW 3 Series Sedan,300,43
+Mercedes,2010 Mercedes-Benz GL-Class,210,40
+Mercedes-Benz,2010 Mercedes-Benz GL-Class,335,30
+Mercedes,2010 Mercedes-Benz GL-Class,382,29
+Nissan,2010 Nissan Sentra,140,55
+Nissan,2010 Nissan Sentra,200,49
+Mercedes,2011 Mercedes-Benz GL-Class,382,29
+Mercedes-Benz,2011 Mercedes-Benz GL-Class,335,31
+Mercedes,2011 Mercedes-Benz GL-Class,210,38
+Nissan,2011 Nissan Versa Hatchback,122,57
+Nissan,2011 Nissan Versa Hatchback,122,56
+Nissan,2010 Nissan Versa Hatchback,122,56
+Nissan,2010 Nissan Versa Hatchback,122,57
+Mercedes,2010 Mercedes-Benz GLK-Class,268,38
+Mercedes,2010 Mercedes-Benz GLK-Class,268,37
+Mercedes,2011 Mercedes-Benz GLK-Class,268,37
+Mercedes,2011 Mercedes-Benz GLK-Class,268,39
+BMW,2011 BMW 3 Series Sedan,265,59
+BMW,2011 BMW 3 Series Sedan,300,45
+BMW Motorrad,2011 BMW 3 Series Sedan,230,46
+BMW Motorrad,2011 BMW 3 Series Sedan,230,43
+BMW Motorrad,2011 BMW 3 Series Sedan,230,42
+BMW Motorrad,2011 BMW 3 Series Sedan,230,46
+BMW,2011 BMW 3 Series Sedan,300,47
+BMW,2011 BMW 3 Series Sedan,300,45
+BMW,2011 BMW 3 Series Sedan,300,47
+Ford,2012 Ford Escape,171,51
+Ford,2012 Ford Escape,171,49
+Ford,2012 Ford Escape,171,47
+Ford,2012 Ford Escape,171,49
+Ford,2012 Ford Escape,240,33
+Ford,2012 Ford Escape,171,47
+Ford,2012 Ford Escape,240,30
+Ford,2012 Ford Escape,171,49
+Ford,2012 Ford Escape,240,33
+Ford,2012 Ford Escape,171,47
+Ford,2012 Ford Escape,240,30
+Ford,2011 Ford Escape,171,51
+Ford,2011 Ford Escape,171,49
+Ford,2011 Ford Escape,171,48
+Ford,2011 Ford Escape,171,49
+Ford,2011 Ford Escape,240,44
+Ford,2011 Ford Escape,171,48
+Ford,2011 Ford Escape,240,30
+Ford,2011 Ford Escape,171,49
+Ford,2011 Ford Escape,240,44
+Ford,2011 Ford Escape,171,48
+Mercedes,2010 Mercedes-Benz R-Class,210,42
+Mercedes,2010 Mercedes-Benz R-Class,268,33
+Mercedes,2011 Mercedes-Benz R-Class,210,42
+Mercedes,2011 Mercedes-Benz R-Class,268,34
+Chevrolet,2012 Chevrolet Cruze,138,61
+Chevrolet,2012 Chevrolet Cruze,138,57
+Chevrolet,2012 Chevrolet Cruze,138,64
+Chevrolet,2012 Chevrolet Cruze,138,64
+Chevrolet,2012 Chevrolet Cruze,138,70
+Chevrolet,2012 Chevrolet Cruze,138,65
+Chevrolet,2012 Chevrolet Cruze,138,64
+Chevrolet,2012 Chevrolet Cruze,138,64
+Chevrolet,2012 Chevrolet Cruze,138,64
+BMW Motorrad,2010 BMW 3 Series Sports Wagon,230,42
+BMW Motorrad,2010 BMW 3 Series Sports Wagon,230,43
+BMW Motorrad,2010 BMW 3 Series Sports Wagon,230,42
+BMW Motorrad,2010 BMW 3 Series Sports Wagon,230,45
+Chevrolet,2011 Chevrolet Cruze,136,62
+Chevrolet,2011 Chevrolet Cruze,136,57
+Chevrolet,2011 Chevrolet Cruze,138,60
+Chevrolet,2011 Chevrolet Cruze,138,70
+Chevrolet,2011 Chevrolet Cruze,138,63
+Chevrolet,2011 Chevrolet Cruze,138,60
+Chevrolet,2011 Chevrolet Cruze,138,60
+Cadillac,2011 Cadillac SRX,265,43
+Cadillac,2011 Cadillac SRX,265,43
+Cadillac,2011 Cadillac SRX,265,43
+Cadillac,2011 Cadillac SRX,265,40
+Cadillac,2011 Cadillac SRX,265,43
+Cadillac,2011 Cadillac SRX,265,40
+Cadillac,2011 Cadillac SRX,265,40
+Ford,2010 Ford Escape,171,50
+Ford,2010 Ford Escape,171,49
+Ford,2010 Ford Escape,171,48
+Ford,2010 Ford Escape,171,49
+Ford,2010 Ford Escape,240,44
+Ford,2010 Ford Escape,171,48
+Ford,2010 Ford Escape,240,30
+Ford,2010 Ford Escape,171,49
+Ford,2010 Ford Escape,240,44
+Ford,2010 Ford Escape,171,48
+Ford,2010 Ford Escape,240,30
+Nissan,2011 Nissan Versa Sedan,122,56
+Nissan,2011 Nissan Versa Sedan,122,57
+Nissan,2011 Nissan Versa Sedan,122,56
+Nissan,2011 Nissan Versa Sedan,107,60
+Nissan,2011 Nissan Versa Sedan,107,58
+Nissan,2011 Nissan Versa Sedan,107,60
+Cadillac,2011 Cadillac Escalade ESV,403,31
+Cadillac,2011 Cadillac Escalade ESV,403,25
+Cadillac,2011 Cadillac Escalade ESV,403,22
+Cadillac,2011 Cadillac Escalade ESV,403,25
+Cadillac,2011 Cadillac Escalade ESV,403,31
+Cadillac,2011 Cadillac Escalade ESV,403,25
+Cadillac,2011 Cadillac Escalade ESV,403,31
+Nissan,2010 Nissan Versa Sedan,122,57
+Nissan,2010 Nissan Versa Sedan,107,59
+Nissan,2010 Nissan Versa Sedan,122,56
+Nissan,2010 Nissan Versa Sedan,107,60
+Nissan,2010 Nissan Versa Sedan,122,56
+Nissan,2010 Nissan Versa Sedan,107,60
+BMW Motorrad,2011 BMW 3 Series Sports Wagon,230,43
+BMW Motorrad,2011 BMW 3 Series Sports Wagon,230,45
+BMW Motorrad,2011 BMW 3 Series Sports Wagon,230,42
+BMW Motorrad,2011 BMW 3 Series Sports Wagon,230,43
+Cadillac,2010 Cadillac Escalade ESV,403,34
+Cadillac,2010 Cadillac Escalade ESV,403,25
+Cadillac,2010 Cadillac Escalade ESV,403,34
+Cadillac,2010 Cadillac Escalade ESV,403,25
+Cadillac,2010 Cadillac Escalade ESV,403,26
+Cadillac,2010 Cadillac Escalade ESV,403,25
+Cadillac,2010 Cadillac Escalade ESV,403,34
+Cadillac,2010 Cadillac Escalade ESV,403,33
+Cadillac,2011 Cadillac Escalade Hybrid,332,43
+Cadillac,2011 Cadillac Escalade Hybrid,332,43
+Cadillac,2011 Cadillac Escalade Hybrid,332,43
+Cadillac,2011 Cadillac Escalade Hybrid,332,43
+Dodge,2011 Dodge Avenger,173,51
+Dodge,2011 Dodge Avenger,173,51
+Dodge,2011 Dodge Avenger,283,48
+Dodge,2011 Dodge Avenger,173,51
+Honda,2011 Honda CR-V,180,49
+Honda,2011 Honda CR-V,180,48
+Honda,2011 Honda CR-V,180,49
+Honda,2011 Honda CR-V,180,48
+Honda,2011 Honda CR-V,180,49
+Honda,2011 Honda CR-V,180,48
+Honda,2011 Honda CR-V,180,49
+Honda,2011 Honda CR-V,180,48
+Dodge,2010 Dodge Avenger,173,51
+Dodge,2010 Dodge Avenger,173,51
+Dodge,2010 Dodge Avenger,173,51
+Honda,2010 Honda CR-V,180,49
+Honda,2010 Honda CR-V,180,48
+Honda,2010 Honda CR-V,180,49
+Honda,2010 Honda CR-V,180,48
+Honda,2010 Honda CR-V,180,49
+Honda,2010 Honda CR-V,180,48
+Cadillac,2010 Cadillac Escalade Hybrid,332,43
+Cadillac,2010 Cadillac Escalade Hybrid,332,43
+Cadillac,2010 Cadillac DTS,275,38
+Cadillac,2010 Cadillac DTS,275,38
+Cadillac,2010 Cadillac DTS,275,38
+Cadillac,2010 Cadillac DTS,292,37
+Honda,2011 Honda Element,166,45
+Honda,2011 Honda Element,166,43
+Honda,2011 Honda Element,166,45
+Honda,2011 Honda Element,166,43
+Cadillac,2010 Cadillac SRX,265,43
+Cadillac,2010 Cadillac SRX,265,43
+Cadillac,2010 Cadillac SRX,265,40
+Cadillac,2010 Cadillac SRX,265,43
+Cadillac,2010 Cadillac SRX,265,40
+Cadillac,2010 Cadillac SRX,300,37
+Cadillac,2010 Cadillac SRX,265,43
+Cadillac,2010 Cadillac SRX,265,40
+Cadillac,2010 Cadillac SRX,300,37
+Cadillac,2011 Cadillac Escalade,403,25
+Cadillac,2011 Cadillac Escalade,403,24
+Cadillac,2011 Cadillac Escalade,403,25
+Cadillac,2011 Cadillac Escalade,403,24
+Cadillac,2011 Cadillac Escalade,403,25
+Cadillac,2011 Cadillac Escalade,403,24
+Cadillac,2011 Cadillac Escalade,403,25
+Cadillac,2011 Cadillac Escalade,403,31
+Nissan,2011 Nissan Xterra,261,36
+Nissan,2011 Nissan Xterra,261,38
+Nissan,2011 Nissan Xterra,261,35
+Nissan,2011 Nissan Xterra,261,35
+Nissan,2011 Nissan Xterra,261,38
+Nissan,2011 Nissan Xterra,261,36
+Nissan,2011 Nissan Xterra,261,35
+Nissan,2010 Nissan Xterra,261,35
+Nissan,2010 Nissan Xterra,261,35
+Nissan,2010 Nissan Xterra,261,36
+Nissan,2010 Nissan Xterra,261,36
+Nissan,2010 Nissan Xterra,261,36
+Nissan,2010 Nissan Xterra,261,35
+Nissan,2010 Nissan Xterra,261,36
+Nissan,2010 Nissan Xterra,261,36
+Nissan,2010 Nissan Xterra,261,36
+Nissan,2012 Nissan Altima Coupe,175,54
+Nissan,2012 Nissan Altima Coupe,270,45
+BMW,2010 BMW 5 Series Sedan,300,41
+BMW Motorrad,2010 BMW 5 Series Sedan,230,45
+BMW,2010 BMW 5 Series Sedan,360,38
+BMW Motorrad,2010 BMW 5 Series Sedan,230,46
+BMW,2010 BMW 5 Series Sedan,300,42
+BMW Motorrad,2010 BMW 5 Series Sedan,230,42
+BMW,2010 BMW 5 Series Sedan,360,37
+BMW Motorrad,2010 BMW 5 Series Sedan,230,42
+BMW,2010 BMW 5 Series Sedan,300,43
+BMW,2010 BMW 5 Series Sedan,300,43
+Mercedes,2010 Mercedes-Benz M-Class,382,31
+Mercedes,2010 Mercedes-Benz M-Class,210,43
+Mercedes-AMG,2010 Mercedes-Benz M-Class,503,26
+Mercedes,2010 Mercedes-Benz M-Class,268,35
+Mercedes,2010 Mercedes-Benz M-Class,268,37
+Mercedes,2011 Mercedes-Benz M-Class,268,36
+Mercedes,2010 BMW 5 Series Sedan,300,42
+Mercedes,2011 Mercedes-Benz M-Class,210,43
+BMW Motorrad,2010 BMW 5 Series Sedan,230,42
+Mercedes,2011 Mercedes-Benz M-Class,382,31
+BMW,2010 BMW 5 Series Sedan,360,37
+Nissan,2012 Nissan Sentra,200,49
+Nissan,2012 Nissan Sentra,140,55
+Nissan,2012 Nissan Versa Hatchback,122,56
+Nissan,2012 Nissan Versa Hatchback,122,57
+Toyota,2011 Toyota Sienna,187,43
+Toyota,2011 Toyota Sienna,266,42
+Toyota,2011 Toyota Sienna,187,43
+Toyota,2011 Toyota Sienna,266,42
+Toyota,2011 Toyota Sienna,266,38
+Toyota,2011 Toyota Sienna,266,42
+Toyota,2011 Toyota Sienna,266,42
+Toyota,2011 Toyota Sienna,266,42
+Toyota,2011 Toyota Sienna,266,38
+Toyota,2011 Toyota Sienna,266,42
+Toyota,2011 Toyota Sienna,266,42
+Toyota,2011 Toyota Sienna,266,38
+BMW,2011 BMW 5 Series Sedan,400,37
+BMW,2011 BMW 5 Series Sedan,300,50
+BMW,2011 BMW 5 Series Sedan,300,47
+BMW,2011 BMW 5 Series Sedan,400,42
+Nissan,2012 Nissan Versa Sedan,109,63
+Mercedes,2011 Mercedes-Benz SL-Class,382,36
+AMG,2011 Mercedes-Benz SL-Class,518,31
+Mercedes-AMG,2011 Mercedes-Benz SL-Class,604,30
+Mercedes,2010 Mercedes-Benz SLK-Class,228,44
+Mercedes-Benz,2010 Mercedes-Benz SLK-Class,300,43
+Mercedes-AMG,2010 Mercedes-Benz SLK-Class,355,36
+Mercedes,2011 Mercedes-Benz SLK-Class,228,43
+Mercedes-Benz,2011 Mercedes-Benz SLK-Class,300,44
+Mercedes,2010 Mercedes-Benz SLK-Class,228,45
+Lincoln,2011 Lincoln MKS,273,39
+Lincoln,2011 Lincoln MKS,355,42
+Lincoln,2011 Lincoln MKS,273,41
+Lincoln,2010 Lincoln MKS,273,41
+Lincoln,2010 Lincoln MKS,355,42
+Lincoln,2010 Lincoln MKS,273,39
+BMW,2010 BMW 5 Series Sports Wagon,300,40
+BMW,2010 BMW 5 Series Sports Wagon,300,39
+Mercedes,2011 Mercedes-Benz SLK-Class,228,45
+Lincoln,2011 Lincoln MKT,355,37
+Lincoln,2011 Lincoln MKT,268,38
+Lincoln,2011 Lincoln MKT,268,40
+Lincoln,2010 Lincoln MKT,268,40
+Lincoln,2010 Lincoln MKT,268,38
+Lincoln,2010 Lincoln MKT,355,38
+Lincoln,2011 Lincoln MKX,305,45
+Lincoln,2011 Lincoln MKX,305,40
+Lincoln,2010 Lincoln MKX,265,40
+Lincoln,2010 Lincoln MKX,265,43
+Cadillac,2010 Cadillac Escalade,403,34
+Cadillac,2010 Cadillac Escalade,403,25
+Cadillac,2010 Cadillac Escalade,403,26
+Cadillac,2010 Cadillac Escalade,403,33
+Cadillac,2010 Cadillac Escalade,403,34
+Cadillac,2010 Cadillac Escalade,403,25
+Cadillac,2010 Cadillac Escalade,403,34
+Cadillac,2010 Cadillac Escalade,403,33
+Lincoln,2011 Lincoln MKZ Sedan,263,45
+Lincoln,2011 Lincoln MKZ Sedan,263,41
+Lincoln,2010 Lincoln MKZ Sedan,263,41
+Lincoln,2010 Lincoln MKZ Sedan,263,39
+Mazda,2010 Mazda CX-9,273,38
+Mazda,2010 Mazda CX-9,273,36
+Mazda,2010 Mazda CX-9,273,38
+Mazda,2010 Mazda CX-9,273,36
+Mazda,2010 Mazda CX-9,273,38
+Mazda,2010 Mazda CX-9,273,36
+Toyota,2010 Toyota Sienna,266,40
+Toyota,2010 Toyota Sienna,266,40
+Toyota,2010 Toyota Sienna,266,40
+Toyota,2010 Toyota Sienna,266,37
+Toyota,2010 Toyota Sienna,266,40
+Toyota,2010 Toyota Sienna,266,40
+Toyota,2010 Toyota Sienna,266,40
+Toyota,2010 Toyota Sienna,266,40
+Toyota,2010 Toyota Sienna,266,37
+Honda,2010 Honda Element,166,45
+Honda,2010 Honda Element,166,43
+Honda,2010 Honda Element,166,45
+Honda,2010 Honda Element,166,41
+Honda,2010 Honda Element,166,43
+Honda,2010 Honda Element,166,41
+Honda,2010 Honda Element,166,45
+Mazda,2011 Mazda Mazda2,100,64
+Mazda,2011 Mazda Mazda2,100,60
+Mazda,2011 Mazda Mazda2,100,64
+Mazda,2011 Mazda Mazda2,100,60
+Mazda,2011 Mazda Mazda3 4-Door,148,58
+Mazda,2011 Mazda Mazda3 4-Door,148,58
+Mazda,2011 Mazda Mazda3 4-Door,148,57
+Mazda,2011 Mazda Mazda3 4-Door,148,58
+Mazda,2011 Mazda Mazda3 4-Door,148,57
+Mazda,2011 Mazda Mazda3 4-Door,167,48
+Mazda,2011 Mazda Mazda3 4-Door,167,51
+Mazda,2011 Mazda Mazda3 4-Door,167,48
+Mazda,2011 Mazda Mazda3 4-Door,167,49
+Mazda,2011 Mazda Mazda3 5-Door,167,48
+Mazda,2011 Mazda Mazda3 5-Door,167,51
+Mazda,2011 Mazda Mazda3 5-Door,167,48
+Mazda,2011 Mazda Mazda3 5-Door,167,51
+Ford,2012 Ford Explorer,290,43
+Ford,2012 Ford Explorer,240,48
+Ford,2012 Ford Explorer,290,40
+Ford,2012 Ford Explorer,290,43
+Ford,2012 Ford Explorer,240,48
+Ford,2012 Ford Explorer,290,40
+Ford,2012 Ford Explorer,290,43
+Ford,2012 Ford Explorer,240,48
+Ford,2012 Ford Explorer,290,40
+Mazda,2010 Mazda Mazda3 5-Door,167,50
+Mazda,2010 Mazda Mazda3 5-Door,167,51
+Mazda,2010 Mazda Mazda3 5-Door,167,50
+Mazda,2010 Mazda Mazda3 5-Door,167,51
+Ford,2011 Ford Explorer,290,42
+Ford,2011 Ford Explorer,290,40
+Ford,2011 Ford Explorer,290,42
+Ford,2011 Ford Explorer,290,40
+Ford,2011 Ford Explorer,290,42
+Ford,2011 Ford Explorer,290,40
+Mazda,2010 Mazda Mazda3 4-Door,148,58
+Mazda,2010 Mazda Mazda3 4-Door,148,58
+Mazda,2010 Mazda Mazda3 4-Door,148,57
+Mazda,2010 Mazda Mazda3 4-Door,148,58
+Mazda,2010 Mazda Mazda3 4-Door,148,57
+Mazda,2010 Mazda Mazda3 4-Door,167,50
+Mazda,2010 Mazda Mazda3 4-Door,167,51
+Mazda,2010 Mazda Mazda3 4-Door,167,50
+Mazda,2010 Mazda Mazda3 4-Door,167,51
+Mazda,2011 Mazda Mazdaspeed3,263,43
+Mazda,2010 Mazda Mazdaspeed3,263,43
+Ford,2010 Ford Explorer,210,34
+Ford,2010 Ford Explorer,210,32
+Ford,2010 Ford Explorer,210,32
+Ford,2010 Ford Explorer,292,33
+Ford,2010 Ford Explorer,210,34
+Ford,2010 Ford Explorer,210,32
+Ford,2010 Ford Explorer,292,33
+Ford,2010 Ford Explorer,210,34
+Ford,2010 Ford Explorer,210,32
+Ford,2010 Ford Explorer,210,32
+Ford,2010 Ford Explorer,292,33
+Mazda,2012 Mazda Mazda5,157,49
+Mazda,2012 Mazda Mazda5,157,49
+Mazda,2012 Mazda Mazda5,157,49
+Mazda,2012 Mazda Mazda5,157,49
+Mazda,2010 Mazda Mazda5,153,50
+Mazda,2010 Mazda Mazda5,153,48
+Mazda,2010 Mazda Mazda5,153,48
+Mazda,2010 Mazda Mazda5,153,48
+Honda,2011 Honda Pilot,250,40
+Honda,2011 Honda Pilot,250,38
+Honda,2011 Honda Pilot,250,40
+Honda,2011 Honda Pilot,250,38
+Honda,2011 Honda Pilot,250,40
+Honda,2011 Honda Pilot,250,38
+Honda,2011 Honda Pilot,250,40
+Honda,2011 Honda Pilot,250,38
+Mazda,2012 Mazda Mazda6,170,51
+Mazda,2012 Mazda Mazda6,170,53
+Mazda,2012 Mazda Mazda6,170,53
+Mazda,2012 Mazda Mazda6,170,53
+Mazda,2012 Mazda Mazda6,170,53
+Mazda,2012 Mazda Mazda6,272,45
+Mazda,2012 Mazda Mazda6,272,45
+Cadillac,2011 Cadillac CTS Sport Wagon,270,45
+Cadillac,2011 Cadillac CTS Sport Wagon,270,44
+Cadillac,2011 Cadillac CTS Sport Wagon,270,45
+Cadillac,2011 Cadillac CTS Sport Wagon,270,44
+Cadillac,2011 Cadillac CTS Sport Wagon,270,45
+Cadillac,2011 Cadillac CTS Sport Wagon,270,44
+Cadillac,2011 Cadillac CTS Sport Wagon,304,44
+Cadillac,2011 Cadillac CTS Sport Wagon,304,44
+Cadillac,2011 Cadillac CTS Sport Wagon,304,44
+Cadillac,2011 Cadillac CTS Sport Wagon,304,44
+Lincoln,2011 Lincoln Navigator,310,22
+Lincoln,2011 Lincoln Navigator,310,31
+Lincoln,2011 Lincoln Navigator,310,25
+Lincoln,2011 Lincoln Navigator,310,34
+Lincoln,2010 Lincoln Navigator,310,22
+Lincoln,2010 Lincoln Navigator,310,34
+Lincoln,2011 Lincoln Town Car,239,29
+Lincoln,2011 Lincoln Town Car,239,29
+Lincoln,2010 Lincoln Town Car,239,40
+Lincoln,2010 Lincoln Town Car,239,29
+Mercedes,2011 Mercedes-Benz C-Class,228,44
+BMW,2010 BMW 5 Series Gran Turismo,300,47
+BMW,2010 BMW 5 Series Gran Turismo,400,37
+BMW,2010 BMW 5 Series Gran Turismo,400,37
+Infiniti,2010 Infiniti FX,303,37
+Infiniti,2010 Infiniti FX,303,37
+Infiniti,2010 Infiniti FX,390,34
+Mercedes,2011 Mercedes-Benz C-Class,228,44
+Mercedes,2011 Mercedes-Benz C-Class,228,43
+Cadillac,2010 Cadillac CTS Sport Wagon,270,45
+Cadillac,2010 Cadillac CTS Sport Wagon,270,44
+Cadillac,2010 Cadillac CTS Sport Wagon,270,45
+Cadillac,2010 Cadillac CTS Sport Wagon,270,44
+Cadillac,2010 Cadillac CTS Sport Wagon,270,45
+Cadillac,2010 Cadillac CTS Sport Wagon,270,44
+Cadillac,2010 Cadillac CTS Sport Wagon,304,44
+Cadillac,2010 Cadillac CTS Sport Wagon,304,44
+Cadillac,2010 Cadillac CTS Sport Wagon,304,44
+Cadillac,2010 Cadillac CTS Sport Wagon,304,44
+Infiniti,2011 Infiniti FX,303,39
+Infiniti,2011 Infiniti FX,303,37
+Infiniti,2011 Infiniti FX,390,34
+Mercedes,2010 Mercedes-Benz C-Class,228,44
+Infiniti,2012 Infiniti M Hybrid,302,59
+Cadillac,2011 Cadillac STS,302,45
+Cadillac,2011 Cadillac STS,302,45
+Cadillac,2011 Cadillac STS,302,45
+Cadillac,2011 Cadillac STS,302,45
+Cadillac,2011 Cadillac STS,302,45
+Infiniti,2009 Infiniti M,303,42
+Dodge,2011 Dodge Caliber,158,56
+Dodge,2011 Dodge Caliber,158,56
+Dodge,2011 Dodge Caliber,172,52
+Mercedes,2011 Mercedes-Benz C-Class,228,44
+Dodge,2010 Dodge Caliber,158,54
+Dodge,2010 Dodge Caliber,158,54
+Dodge,2010 Dodge Caliber,172,52
+Dodge,2010 Dodge Caliber,172,52
+Dodge,2010 Dodge Caliber,158,54
+Dodge,2010 Dodge Caliber,158,54
+BMW,2011 BMW 5 Series Gran Turismo,400,37
+BMW,2011 BMW 5 Series Gran Turismo,400,37
+BMW,2011 BMW 5 Series Gran Turismo,300,46
+BMW,2011 BMW 5 Series Gran Turismo,300,50
+Dodge,2011 Dodge Challenger,305,45
+Dodge,2011 Dodge Challenger,379,39
+Dodge,2011 Dodge Challenger,470,37
+BMW,2010 BMW 6 Series Convertible,360,35
+Infiniti,2010 Infiniti M,303,42
+Infiniti,2010 Infiniti M,303,38
+Infiniti,2010 Infiniti M,325,37
+Infiniti,2010 Infiniti M,325,34
+Dodge,2010 Dodge Challenger,250,42
+Dodge,2010 Dodge Challenger,425,32
+Dodge,2010 Dodge Challenger,372,41
+Infiniti,2011 Infiniti M,330,44
+Infiniti,2011 Infiniti M,330,41
+Infiniti,2011 Infiniti M,420,41
+Infiniti,2011 Infiniti M,420,39
+Toyota,2011 Toyota Venza,182,48
+Toyota,2011 Toyota Venza,182,45
+Toyota,2011 Toyota Venza,268,45
+Toyota,2011 Toyota Venza,268,43
+Infiniti,2012 Infiniti M,330,44
+Infiniti,2012 Infiniti M,330,41
+Infiniti,2012 Infiniti M,420,40
+Infiniti,2012 Infiniti M,420,39
+Cadillac,2010 Cadillac STS,302,45
+Cadillac,2010 Cadillac STS,302,45
+Cadillac,2010 Cadillac STS,302,45
+Cadillac,2010 Cadillac STS,302,45
+Cadillac,2010 Cadillac STS,302,45
+Cadillac,2010 Cadillac STS,320,39
+Cadillac,2010 Cadillac STS,320,39
+Cadillac,2010 Cadillac STS,320,37
+Ford,2011 Ford Expedition,310,25
+Ford,2011 Ford Expedition,310,31
+Ford,2011 Ford Expedition,310,25
+Ford,2011 Ford Expedition,310,22
+Ford,2011 Ford Expedition,310,25
+Ford,2011 Ford Expedition,310,31
+Ford,2011 Ford Expedition,310,25
+Ford,2011 Ford Expedition,310,22
+Ford,2011 Ford Expedition,310,34
+Ford,2011 Ford Expedition,310,22
+Ford,2011 Ford Expedition,310,25
+Ford,2011 Ford Expedition,310,31
+Ford,2011 Ford Expedition,310,34
+Ford,2011 Ford Expedition,310,22
+Ford,2011 Ford Expedition,310,25
+Ford,2011 Ford Expedition,310,34
+Dodge,2011 Dodge Charger,292,45
+Dodge,2011 Dodge Charger,370,41
+Dodge,2011 Dodge Charger,292,45
+Mazda,2011 Mazda Mazda6,170,51
+Mazda,2011 Mazda Mazda6,170,53
+Mazda,2011 Mazda Mazda6,170,53
+Mazda,2011 Mazda Mazda6,170,53
+Mazda,2011 Mazda Mazda6,170,53
+Mazda,2011 Mazda Mazda6,272,45
+Mazda,2011 Mazda Mazda6,272,45
+GMC,2011 GMC Acadia,288,41
+GMC,2011 GMC Acadia,288,39
+GMC,2011 GMC Acadia,288,41
+GMC,2011 GMC Acadia,288,39
+GMC,2011 GMC Acadia,288,41
+GMC,2011 GMC Acadia,288,39
+GMC,2011 GMC Acadia,288,41
+GMC,2011 GMC Acadia,288,39
+GMC,2011 GMC Acadia,288,41
+GMC,2011 GMC Acadia,288,39
+Mazda,2010 Mazda Mazda6,170,49
+Mazda,2010 Mazda Mazda6,170,49
+Mazda,2010 Mazda Mazda6,170,50
+Mazda,2010 Mazda Mazda6,170,49
+Mazda,2010 Mazda Mazda6,170,51
+Mazda,2010 Mazda Mazda6,170,51
+Mazda,2010 Mazda Mazda6,170,51
+Mazda,2010 Mazda Mazda6,272,42
+Mazda,2010 Mazda Mazda6,272,42
+Dodge,2010 Dodge Charger,250,42
+Dodge,2010 Dodge Charger,250,40
+Dodge,2010 Dodge Charger,250,40
+Dodge,2010 Dodge Charger,425,32
+Dodge,2010 Dodge Charger,368,39
+Dodge,2010 Dodge Charger,368,41
+Dodge,2010 Dodge Charger,368,39
+Dodge,2010 Dodge Charger,250,40
+Dodge,2010 Dodge Charger,250,42
+Dodge,2011 Dodge Durango,290,39
+Dodge,2011 Dodge Durango,290,38
+Dodge,2011 Dodge Durango,290,38
+Dodge,2011 Dodge Durango,290,39
+Dodge,2011 Dodge Durango,290,39
+Ford,2010 Ford Expedition,310,34
+Ford,2010 Ford Expedition,310,22
+Ford,2010 Ford Expedition,310,22
+Ford,2010 Ford Expedition,310,22
+Ford,2010 Ford Expedition,310,34
+Ford,2010 Ford Expedition,310,22
+Ford,2010 Ford Expedition,310,34
+Ford,2010 Ford Expedition,310,22
+Ford,2010 Ford Expedition,310,22
+Ford,2010 Ford Expedition,310,22
+Ford,2010 Ford Expedition,310,22
+Ford,2010 Ford Expedition,310,29
+Ford,2010 Ford Expedition,310,22
+Ford,2010 Ford Expedition,310,29
+Ford,2010 Ford Expedition,310,22
+Ford,2010 Ford Expedition,310,29
+Ford,2010 Ford Expedition,310,34
+Ford,2010 Ford Expedition,310,29
+Ford,2010 Ford Expedition,310,22
+Ford,2010 Ford Expedition,310,29
+Mazda,2011 Mazda MX-5 Miata,167,50
+Mazda,2011 Mazda MX-5 Miata,158,49
+Mazda,2011 Mazda MX-5 Miata,167,49
+Mazda,2011 Mazda MX-5 Miata,158,49
+Mazda,2011 Mazda MX-5 Miata,167,49
+Mazda,2011 Mazda MX-5 Miata,167,49
+Mazda,2011 Mazda MX-5 Miata,167,49
+Mazda,2011 Mazda MX-5 Miata,158,49
+Mazda,2011 Mazda MX-5 Miata,167,49
+Mazda,2011 Mazda MX-5 Miata,158,49
+Mazda,2011 Mazda MX-5 Miata,167,49
+Mazda,2011 Mazda MX-5 Miata,158,49
+Mazda,2010 Mazda MX-5 Miata,167,50
+Mazda,2010 Mazda MX-5 Miata,167,49
+Mazda,2010 Mazda MX-5 Miata,167,49
+Mazda,2010 Mazda MX-5 Miata,167,49
+Mazda,2010 Mazda MX-5 Miata,167,49
+Mazda,2010 Mazda MX-5 Miata,167,49
+Mazda,2010 Mazda MX-5 Miata,167,49
+Mazda,2010 Mazda MX-5 Miata,167,49
+Mazda,2010 Mazda MX-5 Miata,167,49
+Mazda,2010 Mazda MX-5 Miata,167,49
+Mazda,2011 Mazda RX-8,232,38
+Mazda,2011 Mazda RX-8,212,39
+Mazda,2011 Mazda RX-8,232,38
+Mazda,2011 Mazda RX-8,212,39
+Mazda,2011 Mazda RX-8,232,38
+Infiniti,2011 Infiniti G25,218,49
+Infiniti,2011 Infiniti G25,218,49
+Infiniti,2011 Infiniti G25,218,46
+Mazda,2010 Mazda RX-8,232,38
+Mazda,2010 Mazda RX-8,212,39
+Mazda,2010 Mazda RX-8,232,38
+Mazda,2010 Mazda RX-8,212,39
+Mazda,2010 Mazda RX-8,232,38
+Toyota,2010 Toyota Venza,182,50
+Toyota,2010 Toyota Venza,182,48
+Toyota,2010 Toyota Venza,268,45
+Toyota,2010 Toyota Venza,268,43
+Toyota,2011 Toyota Yaris 5-Door Liftback,106,65
+Toyota,2011 Toyota Yaris 5-Door Liftback,106,64
+Chevrolet,2012 Chevrolet Equinox,182,37
+Chevrolet,2012 Chevrolet Equinox,182,49
+Chevrolet,2012 Chevrolet Equinox,182,37
+Chevrolet,2012 Chevrolet Equinox,182,49
+Chevrolet,2012 Chevrolet Equinox,264,41
+Chevrolet,2012 Chevrolet Equinox,182,54
+Chevrolet,2012 Chevrolet Equinox,182,49
+Chevrolet,2012 Chevrolet Equinox,264,30
+Chevrolet,2012 Chevrolet Equinox,264,29
+Chevrolet,2012 Chevrolet Equinox,182,37
+Chevrolet,2012 Chevrolet Equinox,182,49
+Chevrolet,2012 Chevrolet Equinox,264,41
+Chevrolet,2012 Chevrolet Equinox,264,29
+Chevrolet,2012 Chevrolet Equinox,264,39
+Toyota,2010 Toyota Yaris 5-Door Liftback,106,65
+Toyota,2010 Toyota Yaris 5-Door Liftback,106,64
+Nissan,2012 Nissan Altima Coupe,170,54
+Toyota,2011 Toyota Yaris 3-Door Liftback,106,65
+Toyota,2011 Toyota Yaris 3-Door Liftback,106,64
+Nissan,2011 Nissan Armada,317,32
+Chevrolet,2011 Chevrolet Equinox,182,54
+Chevrolet,2011 Chevrolet Equinox,182,49
+Chevrolet,2011 Chevrolet Equinox,182,54
+Chevrolet,2011 Chevrolet Equinox,182,49
+Chevrolet,2011 Chevrolet Equinox,264,41
+Chevrolet,2011 Chevrolet Equinox,264,38
+Chevrolet,2011 Chevrolet Equinox,264,30
+Chevrolet,2011 Chevrolet Equinox,264,29
+Chevrolet,2011 Chevrolet Equinox,182,54
+Chevrolet,2011 Chevrolet Equinox,182,49
+Chevrolet,2011 Chevrolet Equinox,264,41
+Chevrolet,2011 Chevrolet Equinox,264,38
+Chevrolet,2011 Chevrolet Equinox,264,30
+Chevrolet,2011 Chevrolet Equinox,264,29
+Chevrolet,2011 Chevrolet Equinox,182,54
+Chevrolet,2011 Chevrolet Equinox,182,49
+Chevrolet,2011 Chevrolet Equinox,264,41
+Chevrolet,2011 Chevrolet Equinox,264,38
+Chevrolet,2011 Chevrolet Equinox,264,41
+Chevrolet,2011 Chevrolet Equinox,264,29
+Toyota,2010 Toyota Yaris 3-Door Liftback,106,65
+Toyota,2010 Toyota Yaris 3-Door Liftback,106,64
+Toyota,2011 Toyota Yaris Sedan,106,65
+Toyota,2011 Toyota Yaris Sedan,106,64
+Ford,2012 Ford Transit Connect Van,136,48
+Ford,2012 Ford Transit Connect Van,136,48
+Ford,2012 Ford Transit Connect Wagon,136,49
+Ford,2012 Ford Transit Connect Wagon,136,49
+Ford,2011 Transit Connect Van,136,47
+Ford,2011 Transit Connect Van,136,47
+Ford,2011 Transit Connect Wagon,136,47
+Ford,2011 Transit Connect Wagon,136,47
+Ford,2010 Transit Connect Van,136,47
+Ford,2010 Transit Connect Van,136,47
+Ford,2010 Transit Connect Wagon,136,47
+Ford,2010 Transit Connect Wagon,136,47
+Nissan,2011 Nissan Armada,317,30
+Nissan,2011 Nissan Armada,317,32
+Ford,2010 Ford Crown Victoria,224,29
+Nissan,2011 Nissan Armada,317,30
+Nissan,2011 Nissan Armada,317,22
+Nissan,2011 Nissan Armada,317,30
+Porsche,2011 Porsche 911 Coupe,385,43
+Porsche,2011 Porsche 911 Coupe,345,43
+Porsche,2011 Porsche 911 Coupe,385,43
+Porsche,2011 Porsche 911 Coupe,345,42
+Porsche,2011 Porsche 911 Coupe,345,43
+Porsche,2011 Porsche 911 Coupe,500,40
+Porsche,2011 Porsche 911 Coupe,385,42
+Porsche,2011 Porsche 911 Coupe,408,43
+Infiniti,2009 Infiniti G37 Convertible,325,42
+Infiniti,2009 Infiniti G37 Convertible,325,40
+Nissan,2010 Nissan Armada,317,22
+Nissan,2010 Nissan Armada,317,22
+Nissan,2010 Nissan Armada,317,30
+Nissan,2010 Nissan Armada,317,30
+Mazda,2011 Mazda Tribute,171,51
+Mazda,2011 Mazda Tribute,171,49
+Mazda,2011 Mazda Tribute,171,46
+Mazda,2011 Mazda Tribute,171,49
+Mazda,2011 Mazda Tribute,171,46
+Mazda,2011 Mazda Tribute,171,49
+Mazda,2011 Mazda Tribute,171,46
+Mazda,2011 Mazda Tribute,240,33
+Mazda,2011 Mazda Tribute,240,30
+Nissan,2010 Nissan Armada,317,22
+Nissan,2010 Nissan Armada,317,22
+Mazda,2010 Mazda Tribute,171,50
+Mazda,2010 Mazda Tribute,171,49
+Mazda,2010 Mazda Tribute,171,46
+Mazda,2010 Mazda Tribute,171,49
+Mazda,2010 Mazda Tribute,171,46
+Mazda,2010 Mazda Tribute,171,49
+Mazda,2010 Mazda Tribute,171,46
+Mazda,2010 Mazda Tribute,240,44
+Mazda,2010 Mazda Tribute,240,41
+Toyota,2010 Toyota Yaris Sedan,106,65
+Toyota,2010 Toyota Yaris Sedan,106,64
+Toyota,2012 Toyota Yaris 3-Door Liftback,106,68
+Toyota,2012 Toyota Yaris 3-Door Liftback,106,65
+Toyota,2012 Toyota Yaris 3-Door Liftback,106,65
+Porsche,2011 Porsche 911 Cabriolet,500,40
+Porsche,2011 Porsche 911 Cabriolet,345,43
+Porsche,2011 Porsche 911 Cabriolet,385,44
+Porsche,2011 Porsche 911 Cabriolet,385,42
+Porsche,2011 Porsche 911 Cabriolet,345,44
+Porsche,2011 Porsche 911 Cabriolet,408,42
+Dodge,2011 Dodge Durango,360,34
+Dodge,2011 Dodge Durango,290,38
+Dodge,2011 Dodge Durango,290,38
+Dodge,2011 Dodge Durango,290,39
+Dodge,2011 Dodge Durango,360,33
+Dodge,2011 Dodge Grand Caravan,283,42
+Dodge,2011 Dodge Grand Caravan,283,42
+Dodge,2011 Dodge Grand Caravan,283,42
+Dodge,2011 Dodge Grand Caravan,283,42
+Dodge,2011 Dodge Grand Caravan,283,42
+Jeep,2010 Jeep Commander,210,35
+Jeep,2010 Jeep Commander,357,34
+Jeep,2010 Jeep Commander,210,33
+Jeep,2010 Jeep Commander,357,32
+Jeep,2010 Jeep Commander,357,34
+Jeep,2010 Jeep Commander,357,32
+Jeep,2011 Jeep Compass,158,52
+Jeep,2011 Jeep Compass,172,50
+GMC,2010 GMC Acadia,288,41
+GMC,2010 GMC Acadia,288,39
+GMC,2010 GMC Acadia,288,41
+GMC,2010 GMC Acadia,288,39
+GMC,2010 GMC Acadia,288,41
+GMC,2010 GMC Acadia,288,39
+GMC,2010 GMC Acadia,288,41
+GMC,2010 GMC Acadia,288,39
+GMC,2011 GMC Canyon,185,43
+GMC,2011 GMC Canyon,185,43
+GMC,2011 GMC Canyon,185,42
+GMC,2011 GMC Canyon,242,40
+GMC,2010 GMC Terrain,182,54
+GMC,2011 GMC Canyon,242,40
+GMC,2010 GMC Terrain,182,49
+GMC,2011 GMC Canyon,185,43
+GMC,2011 GMC Canyon,185,43
+GMC,2011 GMC Canyon,185,42
+GMC,2011 GMC Canyon,185,40
+GMC,2011 GMC Canyon,242,40
+GMC,2010 GMC Terrain,182,54
+GMC,2011 GMC Canyon,242,40
+GMC,2010 GMC Terrain,182,49
+GMC,2011 GMC Canyon,185,43
+GMC,2011 GMC Canyon,185,43
+GMC,2011 GMC Canyon,185,43
+GMC,2011 GMC Canyon,185,40
+GMC,2011 GMC Canyon,242,40
+GMC,2010 GMC Terrain,182,54
+GMC,2011 GMC Canyon,242,40
+GMC,2010 GMC Terrain,182,49
+GMC,2011 GMC Canyon,185,43
+GMC,2011 GMC Canyon,185,43
+GMC,2011 GMC Canyon,185,42
+GMC,2011 GMC Canyon,185,40
+GMC,2011 GMC Canyon,242,40
+GMC,2011 GMC Canyon,300,34
+GMC,2011 GMC Canyon,242,40
+GMC,2011 GMC Canyon,185,43
+GMC,2011 GMC Canyon,185,43
+GMC,2011 GMC Canyon,300,34
+GMC,2011 GMC Canyon,242,37
+GMC,2011 GMC Canyon,300,33
+GMC,2011 GMC Canyon,242,40
+GMC,2010 GMC Terrain,182,49
+GMC,2010 GMC Canyon,185,43
+GMC,2010 GMC Terrain,182,54
+GMC,2011 GMC Canyon,242,40
+GMC,2011 GMC Canyon,242,40
+GMC,2011 GMC Canyon,300,34
+GMC,2011 GMC Canyon,300,33
+GMC,2011 GMC Canyon,242,40
+GMC,2011 GMC Canyon,242,37
+GMC,2011 GMC Canyon,300,34
+GMC,2011 GMC Canyon,300,33
+GMC,2011 GMC Canyon,185,40
+Infiniti,2010 Infiniti G37 Convertible,325,42
+Infiniti,2010 Infiniti G37 Convertible,325,40
+Honda,2010 Honda Pilot,250,40
+Honda,2010 Honda Pilot,250,38
+Honda,2010 Honda Pilot,250,40
+Honda,2010 Honda Pilot,250,40
+Honda,2010 Honda Pilot,250,38
+Honda,2010 Honda Pilot,250,40
+Honda,2010 Honda Pilot,250,38
+Toyota,2012 Toyota Yaris 5-Door Liftback,106,65
+Toyota,2012 Toyota Yaris 5-Door Liftback,106,65
+Toyota,2012 Toyota Yaris 5-Door Liftback,106,68
+Toyota,2012 Toyota Yaris 5-Door Liftback,106,65
+Toyota,2012 Toyota Highlander,187,45
+Toyota,2012 Toyota Highlander,270,42
+Toyota,2012 Toyota Highlander,270,39
+Toyota,2012 Toyota Highlander,187,45
+Toyota,2012 Toyota Highlander,270,42
+Toyota,2012 Toyota Highlander,270,39
+Toyota,2012 Toyota Highlander,270,42
+Toyota,2012 Toyota Highlander,270,39
+Dodge,2010 Dodge Grand Caravan,251,42
+Dodge,2010 Dodge Grand Caravan,197,39
+Dodge,2010 Dodge Grand Caravan,175,41
+Dodge,2010 Dodge Grand Caravan,175,41
+Dodge,2010 Dodge Grand Caravan,197,39
+Jeep,2010 Jeep Compass,158,52
+Jeep,2010 Jeep Compass,172,51
+Jeep,2010 Jeep Compass,172,51
+Jeep,2010 Jeep Compass,158,52
+Jeep,2010 Jeep Compass,172,51
+Jeep,2010 Jeep Compass,172,51
+Jeep,2011 Chevrolet Equinox,182,49
+Jeep,2010 Jeep Compass,172,51
+Dodge,2011 Dodge Journey,173,45
+Dodge,2011 Dodge Journey,280,40
+Dodge,2011 Dodge Journey,280,40
+Dodge,2011 Dodge Journey,280,40
+Infiniti,2011 Infiniti G37 Convertible,325,42
+Infiniti,2011 Infiniti G37 Convertible,325,40
+Infiniti,2010 Infiniti G37 Sedan,328,46
+Infiniti,2010 Infiniti G37 Sedan,328,46
+Infiniti,2010 Infiniti G37 Sedan,328,43
+Infiniti,2010 Infiniti G37 Sedan,328,42
+BMW,2010 BMW 6 Series Coup,360,37
+Infiniti,2011 Infiniti G37 Sedan,328,46
+Infiniti,2011 Infiniti G37 Sedan,328,43
+Infiniti,2011 Infiniti G37 Sedan,328,42
+BMW,2009 BMW 7 Series,400,37
+BMW,2009 BMW 7 Series,400,35
+BMW,2010 BMW 7 Series,400,34
+BMW,2010 BMW 7 Series,400,34
+BMW,2010 BMW 7 Series,535,32
+BMW,2010 BMW 7 Series,400,35
+BMW,2010 BMW 7 Series,400,37
+Chevrolet,2010 Chevrolet Equinox,182,54
+Chevrolet,2010 Chevrolet Equinox,182,49
+Chevrolet,2010 Chevrolet Equinox,182,54
+Chevrolet,2010 Chevrolet Equinox,182,54
+Chevrolet,2010 Chevrolet Equinox,182,49
+Chevrolet,2010 Chevrolet Equinox,182,54
+Chevrolet,2010 Chevrolet Equinox,182,49
+Chevrolet,2010 Chevrolet Equinox,182,49
+BMW,2011 BMW 7 Series,400,34
+BMW,2011 BMW 7 Series,535,32
+BMW,2011 BMW 7 Series,400,36
+BMW,2011 BMW 7 Series,400,34
+BMW,2011 BMW 7 Series,400,37
+BMW,2011 BMW 7 Series,315,42
+BMW,2011 BMW 7 Series,315,42
+Mercedes,2011 BMW 7 Series,400,34
+Dodge,2010 Dodge Journey,173,44
+Dodge,2010 Dodge Journey,235,38
+Dodge,2010 Dodge Journey,235,38
+Dodge,2010 Dodge Journey,235,38
+Dodge,2010 Dodge Journey,235,40
+Dodge,2010 Dodge Journey,235,40
+Dodge,2010 Dodge Journey,235,40
+BMW,2011 BMW ActiveHybrid 7 Sedan,455,41
+BMW,2011 BMW ActiveHybrid 7 Sedan,455,41
+Dodge,2011 Dodge Nitro,260,37
+Dodge,2011 Dodge Nitro,260,37
+Dodge,2011 Dodge Nitro,260,37
+Dodge,2011 Dodge Nitro,260,36
+Dodge,2011 Dodge Nitro,260,37
+Dodge,2011 BMW ActiveHybrid 7 Sedan,455,41
+Chevrolet,2011 Dodge Nitro,260,36
+BMW,2011 BMW ALPINA B7 Sedan,500,34
+BMW,2011 BMW ALPINA B7 Sedan,500,36
+BMW,2011 BMW ALPINA B7 Sedan,500,36
+BMW,2011 BMW ALPINA B7 Sedan,500,34
+Lexus,2010 Lexus ES,272,46
+Dodge,2010 Dodge Nitro,210,38
+Dodge,2010 Dodge Nitro,210,38
+Dodge,2010 Dodge Nitro,260,37
+Dodge,2010 Dodge Nitro,210,36
+Dodge,2010 Dodge Nitro,210,38
+Dodge,2010 Dodge Nitro,210,36
+Dodge,2010 Dodge Nitro,260,37
+Dodge,2010 Dodge Nitro,210,36
+Dodge,2010 Dodge Nitro,260,36
+Dodge,2010 Dodge Nitro,260,36
+Chevrolet,2012 Chevrolet Express,195,35
+Chevrolet,2012 Chevrolet Express,310,31
+Chevrolet,2012 Chevrolet Express,310,30
+Infiniti,2011 Infiniti G37 Coupe,330,46
+Infiniti,2011 Infiniti G37 Coupe,330,46
+Infiniti,2011 Infiniti G37 Coupe,330,43
+Infiniti,2011 Infiniti G37 Coupe,330,42
+Infiniti,2011 Infiniti IPL G Coupe,348,42
+GMC,2011 GMC Terrain,182,54
+GMC,2011 GMC Terrain,182,49
+GMC,2011 GMC Terrain,182,54
+GMC,2011 GMC Terrain,182,49
+GMC,2011 GMC Terrain,264,30
+GMC,2011 GMC Terrain,264,38
+GMC,2011 GMC Terrain,182,54
+GMC,2011 GMC Terrain,182,49
+GMC,2011 GMC Terrain,264,30
+GMC,2011 GMC Terrain,264,38
+GMC,2011 GMC Terrain,182,54
+GMC,2011 GMC Terrain,182,49
+GMC,2011 GMC Terrain,182,49
+GMC,2011 GMC Terrain,264,41
+Dodge,2011 Dodge Nitro,260,37
+Dodge,2011 Dodge Nitro,260,37
+GMC,2011 GMC Yukon,320,27
+GMC,2011 GMC Yukon,320,36
+GMC,2011 GMC Yukon,403,32
+GMC,2011 GMC Yukon,320,27
+GMC,2011 GMC Yukon,320,27
+GMC,2011 GMC Yukon,403,31
+Porsche,2010 Porsche 911 Coupe,345,43
+Porsche,2010 Porsche 911 Coupe,385,43
+Porsche,2010 Porsche 911 Coupe,500,40
+Porsche,2010 Porsche 911 Coupe,345,43
+Porsche,2010 Porsche 911 Coupe,385,43
+Porsche,2010 Porsche 911 Coupe,385,43
+Porsche,2010 Porsche 911 Coupe,345,43
+GMC,2010 GMC Yukon,320,36
+GMC,2010 GMC Yukon,320,27
+GMC,2010 GMC Yukon,403,32
+GMC,2010 GMC Yukon,320,36
+GMC,2010 GMC Yukon,320,36
+GMC,2010 GMC Yukon,403,25
+Infiniti,2010 Infiniti G37 Coupe,330,46
+Infiniti,2010 Infiniti G37 Coupe,330,46
+Infiniti,2010 Infiniti G37 Coupe,330,43
+Infiniti,2010 Infiniti G37 Coupe,330,42
+GMC,2011 GMC Yukon XL,320,36
+GMC,2011 GMC Yukon XL,320,36
+GMC,2011 GMC Yukon XL,352,26
+GMC,2011 GMC Yukon XL,352,25
+GMC,2011 GMC Yukon XL,320,36
+GMC,2011 GMC Yukon XL,320,36
+GMC,2011 GMC Yukon XL,352,26
+GMC,2011 GMC Yukon XL,352,25
+GMC,2011 GMC Yukon XL,403,32
+GMC,2011 GMC Yukon XL,403,31
+Infiniti,2011 Infiniti IPL G Coupe,348,46
+GMC,2010 GMC Yukon XL,320,27
+GMC,2010 GMC Yukon XL,320,27
+GMC,2010 GMC Yukon XL,352,26
+GMC,2010 GMC Yukon XL,352,25
+GMC,2010 GMC Yukon XL,320,36
+GMC,2010 GMC Yukon XL,320,27
+GMC,2010 GMC Yukon XL,352,26
+GMC,2010 GMC Yukon XL,352,25
+GMC,2010 GMC Yukon XL,403,34
+GMC,2010 GMC Yukon XL,403,25
+Infiniti,2010 Infiniti QX56,320,30
+Infiniti,2010 Infiniti QX56,320,29
+Infiniti,2011 Infiniti QX56,400,34
+Infiniti,2011 Infiniti QX56,400,34
+Acura,2010 Acura MDX,300,37
+Acura,2011 Acura MDX,300,37
+Acura,2010 Acura RDX,240,43
+Acura,2010 Acura RDX,240,39
+Acura,2011 Acura RDX,240,43
+Acura,2011 Acura RDX,240,39
+BMW,2010 BMW M3 Convertible,414,33
+Acura,2010 Acura ZDX,300,39
+Acura,2011 Acura ZDX,300,39
+BMW,2011 BMW M3 Convertible,414,33
+Acura,2010 Acura RL,300,38
+Acura,2011 Acura RL,300,41
+Acura,2010 Acura TL,280,44
+Acura,2010 Acura TL,305,42
+Acura,2010 Acura TL,305,42
+BMW,2010 BMW M3 Coup,414,34
+BMW,2011 BMW M3 Coup,414,34
+Acura,2011 Acura TL,280,44
+Acura,2011 Acura TL,305,42
+Acura,2011 Acura TL,305,42
+BMW,2010 BMW M3 Sedan,414,34
+BMW,2011 BMW M3 Sedan,414,34
+Chevrolet,2011 Chevrolet Express,324,27
+Chevrolet,2011 Chevrolet Express,195,35
+Chevrolet,2011 Chevrolet Express,310,31
+Chevrolet,2011 Chevrolet Express,310,23
+Chevrolet,2011 Chevrolet Express,280,28
+Chevrolet,2011 Chevrolet Express,324,27
+Chevrolet,2011 Chevrolet Express,280,20
+Nissan,2012 Nissan Sentra,135,55
+Acura,2010 Acura TSX,201,51
+Acura,2010 Acura TSX,201,48
+Acura,2010 Acura TSX,280,45
+Nissan,2011 Nissan Sentra,135,55
+Acura,2011 Acura TSX,201,53
+Acura,2011 Acura TSX,201,50
+Acura,2011 Acura TSX,280,47
+Acura,2011 Acura TSX Sport Wagon,201,52
+Chevrolet,2010 Chevrolet Express,195,35
+Chevrolet,2010 Chevrolet Express,310,23
+Chevrolet,2010 Chevrolet Express,310,23
+GMC,2011 GMC Yukon Hybrid,332,43
+GMC,2011 GMC Yukon Hybrid,332,43
+GMC,2011 GMC Yukon Hybrid,332,43
+GMC,2011 GMC Yukon Hybrid,332,43
+GMC,2010 GMC Yukon Hybrid,332,43
+GMC,2010 GMC Yukon Hybrid,332,43
+GMC,2010 GMC Yukon Hybrid,332,43
+GMC,2010 GMC Yukon Hybrid,332,43
+Porsche,2010 Porsche 911 Cabriolet,345,43
+Porsche,2010 Porsche 911 Cabriolet,345,43
+Porsche,2010 Porsche 911 Cabriolet,500,40
+Porsche,2010 Porsche 911 Cabriolet,385,43
+Porsche,2010 Porsche 911 Cabriolet,385,43
+GMC,2011 GMC Savana,310,23
+GMC,2011 GMC Savana,310,30
+GMC,2011 GMC Savana,310,21
+GMC,2011 GMC Savana,310,30
+Porsche,2011 Porsche Boxster,310,45
+Porsche,2011 Porsche Boxster,320,46
+Porsche,2011 Porsche Boxster,255,46
+Dodge,2010 Dodge Viper Coup,600,35
+Dodge,2010 Dodge Viper Convertible,600,35
+Porsche,2010 Porsche Boxster,310,45
+Porsche,2010 Porsche Boxster,255,46
+Porsche,2011 Porsche Cayenne S Hybrid,380,44
+Porsche,2011 Porsche Cayenne,300,37
+Porsche,2011 Porsche Cayenne,500,37
+Porsche,2011 Porsche Cayenne,300,39
+Porsche,2011 Porsche Cayenne,400,38
+Porsche,2010 Porsche Cayenne,550,31
+Porsche,2010 Porsche Cayenne,500,31
+Porsche,2010 Porsche Cayenne,405,28
+Porsche,2010 Porsche Cayenne,405,31
+Porsche,2010 Porsche Cayenne,405,28
+Porsche,2010 Porsche Cayenne,290,34
+Porsche,2010 Porsche Cayenne,385,32
+Porsche,2010 Porsche Cayenne,290,34
+Nissan,2010 Nissan Sentra,135,55
+GMC,2011 GMC Savana,280,20
+GMC,2011 GMC Savana,324,27
+GMC,2011 GMC Savana,280,20
+GMC,2011 GMC Savana,324,27
+Chevrolet,2011 Chevrolet HHR Wagon,155,54
+Chevrolet,2011 Chevrolet HHR Wagon,155,52
+Chevrolet,2011 Chevrolet HHR Wagon,155,39
+Chevrolet,2011 Chevrolet HHR Wagon,155,52
+Chevrolet,2011 Chevrolet HHR Wagon,172,39
+Chevrolet,2011 Chevrolet HHR Wagon,172,52
+Chevrolet,2010 Chevrolet HHR Wagon,155,54
+Chevrolet,2010 Chevrolet HHR Wagon,155,52
+Chevrolet,2010 Chevrolet HHR Wagon,155,39
+Chevrolet,2010 Chevrolet HHR Wagon,155,52
+Chevrolet,2010 Chevrolet HHR Wagon,172,38
+Chevrolet,2010 Chevrolet HHR Wagon,172,36
+Chevrolet,2010 Chevrolet HHR Wagon,260,50
+Chevrolet,2010 Chevrolet HHR Wagon,260,48
+Chevrolet,2011 Chevrolet HHR Panel,155,39
+Chevrolet,2011 Chevrolet HHR Panel,155,52
+Chevrolet,2010 Chevrolet HHR Panel,155,39
+Chevrolet,2010 Chevrolet HHR Panel,155,52
+Chevrolet,2010 Chevrolet HHR Panel,155,54
+Chevrolet,2010 Chevrolet HHR Panel,155,38
+Chevrolet,2010 Chevrolet HHR Panel,172,52
+Chevrolet,2010 Chevrolet HHR Panel,172,36
+Porsche,2011 Porsche 911 Cabriolet,408,44
+Porsche,2011 Porsche Cayman,265,46
+Porsche,2011 Porsche Cayman,330,46
+Porsche,2011 Porsche Cayman,320,45
+Porsche,2010 Porsche Cayman,265,46
+Porsche,2010 Porsche Cayman,320,45
+Chevrolet,2012 Chevrolet Impala,300,35
+Chevrolet,2012 Chevrolet Impala,300,48
+Chevrolet,2012 Chevrolet Impala,300,48
+Chevrolet,2011 Chevrolet Impala,211,36
+Chevrolet,2011 Chevrolet Impala,211,36
+Chevrolet,2011 Chevrolet Impala,230,44
+Subaru,2011 Subaru Forester,224,43
+Subaru,2011 Subaru Forester,170,48
+Subaru,2011 Subaru Forester,170,48
+Subaru,2011 Subaru Forester,170,48
+Subaru,2011 Subaru Forester,170,48
+Subaru,2011 Subaru Forester,224,43
+Chevrolet,2010 Chevrolet Impala,211,36
+Chevrolet,2010 Chevrolet Impala,211,47
+Chevrolet,2010 Chevrolet Impala,230,33
+Buick,2011 Buick Enclave,288,38
+Buick,2011 Buick Enclave,288,41
+Buick,2011 Buick Enclave,288,41
+Buick,2011 Buick Enclave,288,41
+Buick,2011 Buick Enclave,288,38
+Buick,2011 Buick Enclave,288,38
+Buick,2010 Buick Enclave,288,41
+Buick,2010 Buick Enclave,288,38
+Buick,2010 Buick Enclave,288,38
+Buick,2010 Buick Enclave,288,41
+Buick,2010 Buick Enclave,288,38
+Buick,2010 Buick Enclave,288,41
+Suzuki,2011 Suzuki Grand Vitara,166,45
+Suzuki,2011 Suzuki Grand Vitara,166,44
+Suzuki,2011 Suzuki Grand Vitara,166,42
+Suzuki,2011 Suzuki Grand Vitara,166,44
+Suzuki,2011 Suzuki Grand Vitara,166,42
+Buick,2011 Buick Lacrosse,182,49
+Buick,2011 Buick Lacrosse,280,44
+Buick,2011 Buick Lacrosse,280,42
+Buick,2011 Buick Lacrosse,182,49
+Buick,2010 Buick Lacrosse,182,49
+Buick,2010 Buick Lacrosse,252,41
+Buick,2010 Buick Lacrosse,280,44
+Buick,2010 Buick Lacrosse,255,43
+Buick,2010 Buick Lacrosse,255,43
+Suzuki,2010 Suzuki Grand Vitara,166,45
+Suzuki,2010 Suzuki Grand Vitara,166,44
+Suzuki,2010 Suzuki Grand Vitara,166,42
+Suzuki,2010 Suzuki Grand Vitara,166,44
+Suzuki,2010 Suzuki Grand Vitara,230,40
+Suzuki,2010 Suzuki Grand Vitara,166,44
+Suzuki,2010 Suzuki Grand Vitara,166,42
+Suzuki,2010 Suzuki Grand Vitara,230,40
+Suzuki,2010 Suzuki Grand Vitara,166,42
+GMC,2011 GMC Savana,324,27
+GMC,2011 GMC Savana,324,20
+Honda,2011 Honda Odyssey,248,45
+Honda,2011 Honda Odyssey,248,45
+Honda,2011 Honda Odyssey,248,45
+Honda,2011 Honda Odyssey,248,47
+Honda,2011 Honda Odyssey,248,47
+GMC,2011 GMC Savana,324,27
+GMC,2011 GMC Savana,324,27
+GMC,2011 GMC Savana,195,35
+GMC,2011 GMC Savana,310,23
+GMC,2011 GMC Savana,310,23
+GMC,2011 GMC Savana,280,20
+GMC,2011 GMC Savana,324,20
+GMC,2010 GMC Sierra 1500,302,24
+GMC,2011 GMC Savana,280,26
+GMC,2011 GMC Savana,280,20
+GMC,2010 GMC Sierra 1500,195,35
+GMC,2011 GMC Savana,280,20
+Subaru,2011 Subaru Forester,170,48
+Subaru,2011 Subaru Forester,170,48
+Honda,2010 Honda Odyssey,244,39
+Honda,2010 Honda Odyssey,244,39
+Honda,2010 Honda Odyssey,244,42
+Honda,2010 Honda Odyssey,244,42
+GMC,2010 GMC Savana,310,23
+GMC,2010 GMC Savana,310,30
+GMC,2010 GMC Savana,310,23
+GMC,2010 GMC Savana,310,21
+Suzuki,2011 Suzuki Kizashi,185,52
+Suzuki,2011 Suzuki Kizashi,185,49
+GMC,2010 GMC Savana,195,35
+GMC,2010 GMC Savana,310,31
+Suzuki,2010 Suzuki Kizashi,185,52
+Suzuki,2010 Suzuki Kizashi,185,49
+Suzuki,2010 Suzuki Kizashi,185,49
+Saab,2011 Saab 9-3 Convertible,210,49
+Saab,2011 Saab 9-3 Convertible,210,49
+Saab,2011 Saab 9-3 Convertible,210,46
+Saab,2011 Saab 9-3 Convertible,210,46
+Saab,2010 Saab 9-3 Convertible,210,46
+Saab,2010 Saab 9-3 Convertible,210,49
+Saab,2010 Saab 9-3 Convertible,210,49
+Saab,2010 Saab 9-3 Convertible,210,46
+Suzuki,2011 Suzuki SX4 Sedan,150,56
+Suzuki,2011 Suzuki SX4 Sedan,150,55
+Suzuki,2011 Suzuki SX4 Sedan,150,56
+Suzuki,2010 Suzuki SX4 Sportback,150,52
+Suzuki,2011 Suzuki SX4 Sportback,150,52
+Suzuki,2011 Suzuki SX4 Sportback,150,52
+Suzuki,2010 Suzuki SX4 Sedan,150,56
+Suzuki,2010 Suzuki SX4 Sedan,150,55
+Suzuki,2010 Suzuki SX4 Sedan,150,56
+Saab,2011 Saab 9-3 Sport Sedan,210,47
+Saab,2011 Saab 9-3 Sport Sedan,210,47
+Saab,2011 Saab 9-3 Sport Sedan,210,52
+Saab,2011 Saab 9-3 Sport Sedan,210,44
+Saab,2011 Saab 9-3 Sport Sedan,210,44
+Saab,2011 Saab 9-3 Sport Sedan,210,52
+Saab,2011 Saab 9-3 Sport Sedan,210,49
+Saab,2011 Saab 9-3 Sport Sedan,210,49
+Subaru,2010 Subaru Forester,224,43
+Subaru,2010 Subaru Forester,170,47
+Subaru,2010 Subaru Forester,170,46
+Subaru,2010 Subaru Forester,170,46
+Subaru,2010 Subaru Forester,224,43
+Subaru,2010 Subaru Forester,170,47
+Subaru,2010 Subaru Forester,170,46
+Lexus,2011 Lexus ES,268,46
+Lexus,2010 Lexus GS,303,43
+Lexus,2010 Lexus GS,303,45
+Lexus,2010 Lexus GS,342,41
+Subaru,2012 Subaru Impreza Sedan,148,59
+Subaru,2012 Subaru Impreza Sedan,148,59
+Subaru,2012 Subaru Impreza Sedan,148,59
+Subaru,2012 Subaru Impreza Sedan,148,59
+Buick,2011 Buick Lucerne,227,33
+Buick,2011 Buick Lucerne,227,33
+Buick,2011 Buick Lucerne,292,38
+Buick,2011 Buick Lucerne,227,33
+Buick,2010 Buick Lucerne,227,43
+Buick,2010 Buick Lucerne,227,43
+Buick,2010 Buick Lucerne,227,43
+Buick,2010 Buick Lucerne,227,33
+Buick,2010 Buick Lucerne,227,43
+Buick,2010 Buick Lucerne,227,43
+Buick,2010 Buick Lucerne,227,43
+Buick,2010 Buick Lucerne,292,37
+Buick,2010 Buick Lucerne,227,43
+Buick,2011 Buick Regal,220,34
+Buick,2011 Buick Regal,182,49
+Aston Martin,2011 Aston Martin DB9 Volante,470,28
+Aston Martin,2011 Aston Martin DB9 Volante,470,33
+Saab,2010 Saab 9-3 Sport Sedan,210,47
+Saab,2010 Saab 9-3 Sport Sedan,210,44
+Saab,2010 Saab 9-3 Sport Sedan,210,44
+Saab,2010 Saab 9-3 Sport Sedan,210,49
+Saab,2010 Saab 9-3 Sport Sedan,210,47
+Saab,2010 Saab 9-3 Sport Sedan,210,52
+Grand Cherokee,2011 Jeep Grand Cherokee,290,39
+Grand Cherokee,2011 Jeep Grand Cherokee,290,38
+Grand Cherokee,2011 Jeep Grand Cherokee,290,39
+Grand Cherokee,2011 Jeep Grand Cherokee,360,34
+Grand Cherokee,2011 Jeep Grand Cherokee,290,28
+Grand Cherokee,2011 Jeep Grand Cherokee,360,32
+Grand Cherokee,2011 Jeep Grand Cherokee,290,30
+Grand Cherokee,2011 Jeep Grand Cherokee,360,34
+Grand Cherokee,2011 Jeep Grand Cherokee,290,28
+Grand Cherokee,2011 Jeep Grand Cherokee,360,32
+Grand Cherokee,2011 Jeep Grand Cherokee,290,39
+Grand Cherokee,2011 Jeep Grand Cherokee,360,34
+Grand Cherokee,2011 Jeep Grand Cherokee,290,38
+Grand Cherokee,2011 Jeep Grand Cherokee,360,32
+Grand Cherokee,2011 Jeep Grand Cherokee,290,39
+Grand Cherokee,2011 Jeep Grand Cherokee,360,34
+Grand Cherokee,2011 Jeep Grand Cherokee,290,38
+Grand Cherokee,2011 Jeep Grand Cherokee,360,32
+Grand Cherokee,2011 Jeep Grand Cherokee,290,28
+Grand Cherokee,2011 Jeep Grand Cherokee,360,32
+Saab,2010 Saab 9-3 Sport Sedan,210,49
+Saab,2010 Saab 9-3 Sport Sedan,210,52
+Aston Martin,2010 Aston Martin DB9 Volante,470,28
+Aston Martin,2010 Aston Martin DB9 Volante,470,33
+Subaru,2010 Subaru Impreza WRX Sedan,265,43
+Subaru,2011 Subaru Impreza WRX Sedan,265,44
+Subaru,2010 Subaru Impreza Sedan,170,46
+Subaru,2010 Subaru Impreza Sedan,170,47
+Subaru,2011 Subaru Impreza Sedan,170,46
+Subaru,2011 Subaru Impreza Sedan,170,47
+Subaru,2011 Subaru Impreza WRX Sedan,305,40
+Subaru,2011 Subaru Impreza Sedan,170,47
+Subaru,2011 Subaru Impreza Sedan,170,46
+Grand Cherokee,2010 Jeep Grand Cherokee,210,37
+Grand Cherokee,2010 Jeep Grand Cherokee,357,34
+Grand Cherokee,2010 Jeep Grand Cherokee,210,35
+Grand Cherokee,2010 Jeep Grand Cherokee,357,32
+Grand Cherokee,2010 Jeep Grand Cherokee,210,37
+Grand Cherokee,2010 Jeep Grand Cherokee,357,34
+Grand Cherokee,2010 Jeep Grand Cherokee,210,35
+Grand Cherokee,2010 Jeep Grand Cherokee,357,32
+Grand Cherokee,2010 Jeep Grand Cherokee,420,28
+Porsche,2011 Porsche 911 Coupe,620,39
+Jeep,2011 Jeep Liberty,210,38
+Jeep,2011 Jeep Liberty,210,36
+Jeep,2011 Jeep Liberty,210,38
+Jeep,2011 Jeep Liberty,210,36
+Jeep,2011 Jeep Liberty,210,38
+Jeep,2011 Jeep Liberty,210,36
+Jeep,2011 Jeep Liberty,210,38
+Jeep,2011 Jeep Liberty,210,36
+Jeep,2011 Jeep Liberty,210,38
+Jeep,2011 Jeep Liberty,210,36
+Jeep,2011 Jeep Liberty,210,38
+Jeep,2011 Jeep Liberty,210,36
+Jeep,2011 Jeep Liberty,210,36
+Land Rover,2011 Land Rover LR2,230,37
+Land Rover,2011 Land Rover LR2,230,37
+Land Rover,2011 Land Rover LR2,230,37
+Land Rover,2010 Land Rover LR2,230,37
+Land Rover,2011 Land Rover LR4,375,29
+Land Rover,2011 Land Rover LR4,375,29
+Land Rover,2011 Land Rover LR4,375,29
+Land Rover,2010 Land Rover LR4,375,29
+Jeep,2010 Jeep Liberty,210,38
+Jeep,2010 Jeep Liberty,210,36
+Jeep,2010 Jeep Liberty,210,38
+Jeep,2010 Jeep Liberty,210,36
+Jeep,2010 Jeep Liberty,210,36
+Land Rover,2011 Land Rover Range Rover,510,30
+Land Rover,2011 Land Rover Range Rover,375,30
+Land Rover,2011 Land Rover Range Rover,375,30
+Land Rover,2010 Land Rover Range Rover,510,30
+Land Rover,2010 Land Rover Range Rover,375,30
+Land Rover,2012 Land Rover Range Rover Evoque,240,46
+Land Rover,2012 Land Rover Range Rover Evoque,240,46
+Land Rover,2012 Land Rover Range Rover Evoque,240,46
+Land Rover,2012 Land Rover Range Rover Evoque,240,46
+Land Rover,2012 Land Rover Range Rover Evoque,240,46
+Chrysler,2011 Chrysler 200 Convertible,173,47
+Chrysler,2011 Chrysler 200 Convertible,283,35
+Chrysler,2011 Chrysler 200 Convertible,283,48
+Ferrari,2010 Ferrari 612 Scaglietti,540,25
+Land Rover,2011 Land Rover Range Rover Sport,375,31
+Land Rover,2011 Land Rover Range Rover Sport,510,29
+Land Rover,2011 Land Rover Range Rover Sport,375,31
+Chrysler,2010 Chrysler Sebring Convertible,173,49
+Chrysler,2010 Chrysler Sebring Convertible,186,32
+Chrysler,2010 Chrysler Sebring Convertible,235,43
+Land Rover,2010 Land Rover Range Rover Sport,375,31
+Land Rover,2010 Land Rover Range Rover Sport,510,29
+Chrysler,2010 Chrysler Sebring Sedan,173,51
+Chrysler,2010 Chrysler Sebring Sedan,173,51
+Land Rover,2011 Land Rover Range Rover Sport,510,29
+Saab,2011 Saab 9-3 SportCombi,210,52
+Saab,2011 Saab 9-3 SportCombi,210,52
+Saab,2011 Saab 9-3 SportCombi,210,44
+Saab,2011 Saab 9-3 SportCombi,210,47
+Saab,2011 Saab 9-3 SportCombi,210,46
+Saab,2011 Saab 9-3 SportCombi,210,49
+Scion,2012 Scion tC,180,54
+Scion,2012 Scion tC,180,54
+Scion,2012 Scion tC,180,54
+Scion,2012 Scion tC,180,54
+Scion,2011 Scion tC,180,54
+Scion,2011 Scion tC,180,54
+Scion,2010 Scion tC,161,47
+Scion,2010 Scion tC,161,50
+Aston Martin,2011 Aston Martin DB9 Coup,470,28
+Aston Martin,2011 Aston Martin DB9 Coup,470,33
+Scion,2010 Scion tC,161,47
+Scion,2010 Scion tC,161,50
+Aston Martin,2010 Aston Martin DB9 Coup,470,28
+Aston Martin,2010 Aston Martin DB9 Coup,470,33
+Saab,2010 Saab 9-3 SportCombi,210,49
+Saab,2010 Saab 9-3 SportCombi,210,46
+Saab,2010 Saab 9-3 SportCombi,210,52
+Saab,2010 Saab 9-3 SportCombi,210,44
+Saab,2010 Saab 9-3 SportCombi,210,46
+MINI,2012 MINI Cooper Hardtop,121,66
+MINI,2012 MINI Cooper Hardtop,121,64
+MINI,2012 MINI Cooper Hardtop,181,62
+MINI,2012 MINI Cooper Hardtop,181,60
+MINI,2012 MINI Cooper Hardtop,208,58
+MINI,2011 MINI Cooper Hardtop,121,66
+MINI,2011 MINI Cooper Hardtop,121,64
+MINI,2011 MINI Cooper Hardtop,181,62
+MINI,2011 MINI Cooper Hardtop,181,60
+MINI,2011 MINI Cooper Hardtop,208,58
+MINI,2010 MINI Cooper Hardtop,118,65
+MINI,2010 MINI Cooper Hardtop,118,58
+MINI,2010 MINI Cooper Hardtop,172,60
+MINI,2010 MINI Cooper Hardtop,172,56
+MINI,2010 MINI Cooper Hardtop,208,58
+MINI,2012 MINI Cooper Convertible,121,62
+MINI,2012 MINI Cooper Convertible,121,62
+MINI,2012 MINI Cooper Convertible,181,62
+MINI,2012 MINI Cooper Convertible,181,60
+MINI,2012 MINI Cooper Convertible,208,58
+MINI,2011 MINI Cooper Convertible,121,63
+MINI,2011 MINI Cooper Convertible,121,63
+MINI,2011 MINI Cooper Convertible,181,62
+MINI,2011 MINI Cooper Convertible,181,60
+MINI,2011 MINI Cooper Convertible,208,58
+MINI,2010 MINI Cooper Convertible,118,64
+MINI,2010 MINI Cooper Convertible,118,58
+MINI,2010 MINI Cooper Convertible,172,60
+MINI,2010 MINI Cooper Convertible,172,56
+MINI,2010 MINI Cooper Convertible,208,58
+Jaguar,2011 Jaguar XJ,385,39
+Jaguar,2011 Jaguar XJ,385,37
+Jaguar,2011 Jaguar XJ,470,36
+Jaguar,2011 Jaguar XJ,470,36
+Jaguar,2011 Jaguar XJ,510,36
+Jaguar,2011 Jaguar XJ,510,36
+Chevrolet,2012 Chevrolet Malibu,169,55
+Chevrolet,2012 Chevrolet Malibu,169,55
+Chevrolet,2012 Chevrolet Malibu,169,55
+Chevrolet,2012 Chevrolet Malibu,252,43
+Chevrolet,2012 Chevrolet Malibu,169,55
+Chevrolet,2012 Chevrolet Malibu,252,43
+Chrysler,2010 Chrysler Sebring Sedan,235,43
+MINI,2012 MINI Clubman,121,62
+MINI,2012 MINI Clubman,121,62
+MINI,2012 MINI Clubman,181,62
+MINI,2012 MINI Clubman,181,60
+MINI,2012 MINI Clubman,208,58
+Aston Martin,2011 Aston Martin DBS Volante,510,28
+Aston Martin,2011 Aston Martin DBS Volante,510,30
+MINI,2011 MINI Clubman,121,63
+MINI,2011 MINI Clubman,121,63
+MINI,2011 MINI Clubman,181,62
+MINI,2011 MINI Clubman,181,60
+MINI,2011 MINI Clubman,208,58
+MINI,2010 MINI Clubman,118,64
+MINI,2010 MINI Clubman,118,58
+MINI,2010 MINI Clubman,172,60
+MINI,2010 MINI Clubman,172,56
+MINI,2010 MINI Clubman,208,58
+Aston Martin,2011 Aston Martin Rapide,470,32
+Aston Martin,2011 Aston Martin Rapide,470,32
+Chrysler,2011 Chrysler 200 Sedan,173,51
+Chrysler,2011 Chrysler 200 Sedan,173,51
+Chrysler,2011 Chrysler 200 Sedan,173,51
+Chrysler,2011 Chrysler 200 Sedan,283,35
+Jaguar,2011 Jaguar XK Convertible,385,38
+Jaguar,2011 Jaguar XK Convertible,510,37
+Jaguar,2011 Jaguar XK Coup,385,40
+Jaguar,2011 Jaguar XK Coup,510,37
+Jaguar,2011 Jaguar XK Coup,510,37
+Chrysler,2011 Chrysler 300,292,45
+Chrysler,2011 Chrysler 300,292,45
+Chrysler,2011 Chrysler 300,363,41
+Chrysler,2011 Chrysler 300,363,38
+Jaguar,2010 Jaguar XK Convertible,385,38
+Jaguar,2010 Jaguar XK Convertible,510,37
+Subaru,2010 Subaru Impreza Sedan,170,46
+Subaru,2010 Subaru Impreza Sedan,170,47
+Subaru,2010 Subaru Impreza Sedan,224,43
+Jaguar,2010 Jaguar XK Coup,510,37
+Jaguar,2010 Jaguar XK Coup,385,40
+Jaguar,2011 Jaguar XF,385,39
+Jaguar,2011 Jaguar XF,385,39
+Jaguar,2011 Jaguar XF,510,36
+Jaguar,2011 Jaguar XF,470,36
+Jeep,2011 Jeep Patriot,158,52
+Jeep,2011 Jeep Patriot,172,51
+Jeep,2011 Jeep Patriot,172,50
+Jeep,2011 Jeep Patriot,158,52
+Jeep,2011 Jeep Patriot,172,51
+Jeep,2011 Jeep Patriot,172,50
+Jeep,2011 Jeep Patriot,172,51
+Jeep,2011 Jeep Patriot,172,50
+Jeep,2011 Jeep Patriot,172,51
+Jeep,2011 Jeep Patriot,172,50
+Chrysler,2010 Chrysler 300,178,44
+Chrysler Group LLC,2010 Chrysler 300,250,40
+Chrysler Group LLC,2010 Chrysler 300,250,42
+Chrysler Group LLC,2010 Chrysler 300,250,42
+Chrysler Group LLC,2010 Chrysler 300,250,40
+Chrysler,2010 Chrysler 300,360,41
+Chrysler,2010 Chrysler 300,360,39
+Chrysler Group LLC,2010 Chrysler 300,250,42
+Chrysler,2010 Chrysler 300,360,41
+Chrysler Group LLC,2010 Chrysler 300,425,32
+Chrysler,2011 Chrysler Town and Country,283,42
+Chrysler,2011 Chrysler Town and Country,283,42
+Chrysler,2011 Chrysler Town and Country,283,42
+Chrysler,2010 Chrysler Town and Country,197,39
+Chrysler,2010 Chrysler Town and Country,251,42
+Chrysler,2010 Chrysler Town and Country,197,39
+Chrysler,2010 Chrysler Town and Country,197,39
+Jaguar,2010 Jaguar XF,300,41
+Jaguar,2010 Jaguar XF,385,39
+Jaguar,2010 Jaguar XF,470,36
+Jaguar,2010 Jaguar XF,510,36
+Jeep,2010 Jeep Patriot,158,52
+Jeep,2010 Jeep Patriot,172,51
+Jeep,2010 Jeep Patriot,172,51
+Jeep,2010 Jeep Patriot,158,52
+Jeep,2010 Jeep Patriot,172,51
+Jeep,2010 Jeep Patriot,172,51
+Jeep,2010 Jeep Patriot,172,51
+Jeep,2010 Jeep Patriot,172,51
+Lotus,2011 Lotus Elise,189,48
+Lotus,2011 Lotus Elise,217,46
+Lotus,2010 Lotus Elise,218,46
+Lotus,2009 Lotus Elise,189,48
+Lotus,2009 Lotus Elise,218,46
+Chevrolet,2011 Chevrolet Malibu,169,55
+Chevrolet,2011 Chevrolet Malibu,169,55
+Chevrolet,2011 Chevrolet Malibu,169,55
+Chevrolet,2011 Chevrolet Malibu,252,43
+Chevrolet,2011 Chevrolet Malibu,169,55
+Chevrolet,2011 Chevrolet Malibu,252,43
+Lotus,2011 Lotus Evora,276,44
+MINI,2012 MINI Countryman,121,62
+MINI,2012 MINI Countryman,121,55
+MINI,2012 MINI Countryman,181,58
+MINI,2012 MINI Countryman,181,57
+MINI,2012 MINI Countryman,181,56
+MINI,2012 MINI Countryman,181,53
+MINI,2011 MINI Countryman,121,63
+MINI,2011 MINI Countryman,121,55
+MINI,2011 MINI Countryman,181,58
+MINI,2011 MINI Countryman,181,57
+MINI,2011 MINI Countryman,181,56
+MINI,2011 MINI Countryman,181,53
+Chevrolet,2010 Chevrolet Malibu,169,52
+Chevrolet,2010 Chevrolet Malibu,170,52
+Chevrolet,2010 Chevrolet Malibu,169,55
+Chevrolet,2010 Chevrolet Malibu,169,55
+Chevrolet,2010 Chevrolet Malibu,252,43
+Chevrolet,2010 Chevrolet Malibu,169,55
+Chevrolet,2010 Chevrolet Malibu,252,43
+Lotus,2011 Lotus Exige,240,46
+Lotus,2011 Lotus Exige,257,46
+Lotus,2010 Lotus Exige,240,46
+Lotus,2009 Lotus Exige,240,46
+Lotus,2009 Lotus Exige,257,48
+Chevrolet,2012 Chevrolet Sonic Sedan,138,61
+Chevrolet,2012 Chevrolet Sonic Sedan,138,60
+Chevrolet,2012 Chevrolet Sonic Sedan,138,61
+Chevrolet,2012 Chevrolet Sonic Sedan,138,60
+Chevrolet,2012 Chevrolet Sonic Sedan,138,61
+Chevrolet,2012 Chevrolet Sonic Sedan,138,60
+Chevrolet,2010 Chevrolet Malibu Hybrid,164,60
+Maserati,2011 Maserati GranTurismo Coup,405,33
+Maserati,2011 Maserati GranTurismo Coup,433,33
+Maserati,2010 Maserati GranTurismo Coup,405,31
+Maserati,2010 Maserati GranTurismo Coup,433,31
+Maserati,2011 Maserati GranTurismo Convertible,433,32
+Maserati,2010 Maserati GranTurismo Convertible,433,31
+Maserati,2011 Maserati Quattroporte,400,32
+Maserati,2011 Maserati Quattroporte,430,31
+Maserati,2011 Maserati Quattroporte,440,31
+Jeep,2011 Jeep Wrangler,202,34
+Jeep,2011 Jeep Wrangler,202,34
+Jeep,2011 Jeep Wrangler,202,34
+Jeep,2011 Jeep Wrangler,202,34
+Jeep,2011 Jeep Wrangler,202,34
+Jeep,2011 Jeep Wrangler,202,34
+Jeep,2011 Jeep Wrangler,202,34
+Jeep,2011 Jeep Wrangler,202,34
+Jeep,2011 Jeep Wrangler,202,34
+Jeep,2011 Jeep Wrangler,202,34
+Jeep,2011 Jeep Wrangler,202,34
+Jeep,2011 Jeep Wrangler,202,34
+Jeep,2011 Jeep Wrangler,202,34
+Jeep,2011 Jeep Wrangler,202,34
+Jeep,2011 Jeep Wrangler,202,34
+Jeep,2011 Jeep Wrangler,202,34
+Jeep,2011 Jeep Wrangler,202,34
+Jeep,2011 Jeep Wrangler,202,34
+Jeep,2011 Jeep Wrangler,202,34
+Jeep,2011 Jeep Wrangler,202,34
+Jeep,2011 Jeep Wrangler,202,34
+Jeep,2011 Jeep Wrangler,202,34
+Jeep,2011 Jeep Wrangler,202,34
+Jeep,2011 Jeep Wrangler,202,34
+Jeep,2011 Jeep Wrangler,202,34
+Jeep,2010 Jeep Wrangler,205,34
+Jeep,2010 Jeep Wrangler,205,34
+Jeep,2010 Jeep Wrangler,205,34
+Jeep,2010 Jeep Wrangler,205,34
+Jeep,2010 Jeep Wrangler,205,34
+Jeep,2010 Jeep Wrangler,205,34
+Jeep,2010 Jeep Wrangler,205,35
+Jeep,2010 Jeep Wrangler,205,34
+Jeep,2010 Jeep Wrangler,205,34
+Jeep,2010 Jeep Wrangler,205,35
+Jeep,2010 Jeep Wrangler,205,34
+Jeep,2010 Jeep Wrangler,205,34
+Jeep,2010 Jeep Wrangler,205,34
+Jeep,2010 Jeep Wrangler,205,34
+Jeep,2010 Jeep Wrangler,205,34
+GMC,2010 GMC Canyon,185,43
+GMC,2010 GMC Canyon,185,42
+GMC,2010 GMC Canyon,185,40
+GMC,2010 GMC Canyon,242,40
+GMC,2010 GMC Canyon,242,40
+Maserati,2010 Maserati Quattroporte,400,32
+Maserati,2010 Maserati Quattroporte,425,31
+Maserati,2010 Maserati Quattroporte,433,31
+Honda,2011 Honda Ridgeline,250,35
+Honda,2011 Honda Ridgeline,250,35
+Honda,2011 Honda Ridgeline,250,35
+Honda,2010 Honda Ridgeline,250,35
+Honda,2010 Honda Ridgeline,250,35
+Honda,2010 Honda Ridgeline,250,35
+MINI,2012 MINI Cooper Coupe,121,66
+MINI,2012 MINI Cooper Coupe,121,64
+MINI,2012 MINI Cooper Coupe,181,62
+MINI,2012 MINI Cooper Coupe,181,60
+MINI,2012 MINI Cooper Coupe,208,58
+Mercury,2011 Mercury Grand Marquis,224,29
+Mercury,2010 Mercury Grand Marquis,224,29
+Mercury,2011 Mercury Mariner,171,49
+Mercury,2011 Mercury Mariner,171,46
+Mercury,2011 Mercury Mariner,240,33
+Mercury,2011 Mercury Mariner,240,41
+Mercury,2011 Mercury Mariner,171,49
+Mercury,2011 Mercury Mariner,171,46
+Mercury,2011 Mercury Mariner,240,33
+Mercury,2011 Mercury Mariner,240,30
+Chrysler,2010 Chrysler Town and Country,175,41
+Chrysler,2010 Chrysler Town and Country,251,42
+BMW,2010 BMW M6 Convertible,500,28
+BMW,2010 BMW M6 Coup,500,28
+BMW,2010 BMW X3,260,41
+BMW,2010 BMW X3,260,41
+Toyota,2012 Toyota Camry,178,60
+Toyota,2012 Toyota Camry,178,60
+Toyota,2012 Toyota Camry,178,60
+Toyota,2012 Toyota Camry,268,51
+Toyota,2012 Toyota Camry,178,60
+Toyota,2012 Toyota Camry,268,51
+BMW,2011 BMW X3,240,44
+BMW,2011 BMW X3,300,45
+Toyota,2012 Toyota FJ Cruiser,260,37
+Toyota,2012 Toyota FJ Cruiser,260,33
+Toyota,2012 Toyota FJ Cruiser,260,37
+Chevrolet,2012 Chevrolet Sonic Hatchback,138,61
+Chevrolet,2012 Chevrolet Sonic Hatchback,138,60
+Chevrolet,2012 Chevrolet Sonic Hatchback,138,61
+Chevrolet,2012 Chevrolet Sonic Hatchback,138,69
+Chevrolet,2012 Chevrolet Sonic Hatchback,138,60
+Chevrolet,2012 Chevrolet Sonic Hatchback,138,61
+Chevrolet,2012 Chevrolet Sonic Hatchback,138,69
+Chevrolet,2012 Chevrolet Sonic Hatchback,138,60
+BMW,2010 BMW X5,260,36
+BMW,2010 BMW X5,265,45
+BMW,2010 BMW X5,350,33
+Chevrolet,2011 Chevrolet Suburban Half-Ton,320,36
+Chevrolet,2011 Chevrolet Suburban Half-Ton,320,27
+Chevrolet,2011 Chevrolet Suburban Half-Ton,320,27
+Chevrolet,2011 Chevrolet Suburban Half-Ton,320,36
+Chevrolet,2011 Chevrolet Suburban Half-Ton,320,36
+Chevrolet,2011 Chevrolet Suburban Half-Ton,320,36
+BMW,2011 BMW X5,265,45
+BMW,2011 BMW X5,400,34
+BMW,2011 BMW X5,300,39
+BMW,2011 BMW X5,300,39
+BMW,2011 BMW X5,300,39
+Chevrolet,2011 Chevrolet Suburban Three-Quarter-Ton,352,26
+Chevrolet,2011 Chevrolet Suburban Three-Quarter-Ton,352,25
+Chevrolet,2011 Chevrolet Suburban Three-Quarter-Ton,352,26
+Chevrolet,2011 Chevrolet Suburban Three-Quarter-Ton,352,25
+Chevrolet,2010 Chevrolet Suburban,320,36
+Chevrolet,2010 Chevrolet Suburban,320,36
+Chevrolet,2010 Chevrolet Suburban,320,36
+GMC,2010 GMC Canyon,185,43
+GMC,2010 GMC Canyon,185,43
+GMC,2010 GMC Canyon,185,42
+GMC,2010 GMC Canyon,185,40
+GMC,2010 GMC Canyon,242,40
+GMC,2010 GMC Canyon,242,40
+GMC,2010 GMC Canyon,185,43
+GMC,2010 GMC Canyon,185,43
+GMC,2010 GMC Canyon,185,42
+GMC,2010 GMC Canyon,185,40
+GMC,2010 GMC Canyon,242,40
+GMC,2010 GMC Canyon,242,40
+Subaru,2011 Subaru Impreza Hatchback,170,46
+Subaru,2011 Subaru Impreza Hatchback,170,47
+Subaru,2011 Subaru Impreza WRX Hatchback,305,40
+Subaru,2011 Subaru Impreza Hatchback,170,47
+Subaru,2011 Subaru Impreza Hatchback,170,46
+Subaru,2011 Subaru Impreza WRX Hatchback,265,44
+GMC,2010 GMC Canyon,185,43
+GMC,2010 GMC Canyon,185,43
+GMC,2010 GMC Canyon,185,42
+GMC,2010 GMC Canyon,185,40
+GMC,2010 GMC Canyon,242,40
+GMC,2010 GMC Canyon,300,35
+GMC,2010 GMC Canyon,242,40
+GMC,2010 GMC Canyon,300,33
+Subaru,2010 Subaru Impreza Hatchback,224,43
+Subaru,2010 Subaru Impreza Hatchback,170,46
+Subaru,2010 Subaru Impreza WRX Hatchback,305,40
+Subaru,2010 Subaru Impreza Hatchback,170,46
+Subaru,2010 Subaru Impreza Hatchback,170,47
+Subaru,2010 Subaru Impreza Hatchback,170,47
+Subaru,2010 Subaru Impreza WRX Hatchback,305,40
+Subaru,2010 Subaru Impreza WRX Hatchback,265,43
+GMC,2010 GMC Canyon,242,40
+GMC,2010 GMC Canyon,242,40
+GMC,2010 GMC Canyon,300,35
+GMC,2010 GMC Canyon,300,33
+GMC,2010 GMC Canyon,185,43
+GMC,2010 GMC Canyon,242,40
+GMC,2010 GMC Canyon,300,35
+GMC,2010 GMC Canyon,242,37
+GMC,2010 GMC Canyon,300,33
+GMC,2010 GMC Canyon,242,40
+GMC,2010 GMC Canyon,242,37
+GMC,2010 GMC Canyon,300,35
+GMC,2010 GMC Canyon,300,33
+Dodge,2011 Dodge Ram 1500,215,34
+Dodge,2011 Dodge Ram 1500,310,22
+Dodge,2011 Dodge Ram 1500,390,34
+Dodge,2011 Dodge Ram 1500,310,31
+Dodge,2011 Dodge Ram 1500,390,32
+Dodge,2011 Dodge Ram 1500,310,33
+Dodge,2011 Dodge Ram 1500,310,31
+Dodge,2011 Dodge Ram 1500,390,34
+Dodge,2011 Dodge Ram 1500,390,32
+Dodge,2011 Dodge Ram 1500,215,34
+Dodge,2011 Dodge Ram 1500,310,22
+Dodge,2011 Dodge Ram 1500,390,34
+Dodge,2011 Dodge Ram 1500,310,31
+Dodge,2011 Dodge Ram 1500,390,32
+Dodge,2011 Dodge Ram 1500,310,33
+Dodge,2011 Dodge Ram 1500,390,34
+Dodge,2011 Dodge Ram 1500,310,21
+Dodge,2011 Dodge Ram 1500,390,32
+Dodge,2011 Dodge Ram 1500,390,34
+Dodge,2011 Dodge Ram 1500,390,32
+Dodge,2011 Dodge Ram 1500,310,22
+Dodge,2011 Dodge Ram 1500,390,32
+Dodge,2011 Dodge Ram 1500,310,33
+Dodge,2011 Dodge Ram 1500,390,34
+Dodge,2011 Dodge Ram 1500,310,21
+Dodge,2011 Dodge Ram 1500,390,32
+Dodge,2011 Dodge Ram 1500,310,33
+Dodge,2011 Dodge Ram 1500,390,34
+Dodge,2011 Dodge Ram 1500,310,21
+Dodge,2011 Dodge Ram 1500,390,32
+Dodge,2011 Dodge Ram 1500,390,34
+Dodge,2011 Dodge Ram 1500,390,32
+Dodge,2011 Dodge Ram 1500,390,34
+Dodge,2011 Dodge Ram 1500,390,32
+Dodge,2011 Dodge Ram 1500,390,34
+Dodge,2011 Dodge Ram 1500,390,32
+GMC,2011 GMC Sierra 1500,195,35
+GMC,2011 GMC Sierra 1500,302,33
+GMC,2011 GMC Sierra 1500,315,27
+GMC,2011 GMC Sierra 1500,195,32
+GMC,2011 GMC Sierra 1500,302,23
+GMC,2011 GMC Sierra 1500,315,27
+GMC,2011 GMC Sierra 1500,302,33
+GMC,2011 GMC Sierra 1500,315,27
+GMC,2011 GMC Sierra 1500,302,31
+GMC,2011 GMC Sierra 1500,315,27
+Dodge,2011 Dodge Ram 1500,390,34
+Dodge,2011 Dodge Ram 1500,390,32
+Chevrolet,2011 Chevrolet Tahoe,320,36
+Chevrolet,2011 Chevrolet Tahoe,320,27
+Chevrolet,2011 Chevrolet Tahoe,320,27
+Chevrolet,2011 Chevrolet Tahoe,320,27
+Chevrolet,2011 Chevrolet Tahoe,320,36
+Chevrolet,2011 Chevrolet Tahoe,320,36
+BMW,2010 BMW X6,400,31
+BMW,2010 BMW X6,300,36
+Chevrolet,2010 Chevrolet Tahoe,320,36
+Chevrolet,2010 Chevrolet Tahoe,320,36
+Chevrolet,2010 Chevrolet Tahoe,320,36
+Chevrolet,2010 Chevrolet Tahoe,320,36
+Chevrolet,2010 Chevrolet Tahoe,320,36
+Chevrolet,2010 Chevrolet Tahoe,320,36
+BMW,2011 BMW X6,300,39
+BMW,2011 BMW X6,400,34
+Chevrolet,2011 Chevrolet Tahoe Hybrid,332,43
+Chevrolet,2011 Chevrolet Tahoe Hybrid,332,43
+Chevrolet,2010 Chevrolet Tahoe Hybrid,332,43
+Chevrolet,2010 Chevrolet Tahoe Hybrid,332,43
+BMW,2010 BMW Z4 Roadster,255,46
+BMW,2010 BMW Z4 Roadster,300,43
+Chevrolet,2012 Chevrolet Traverse,281,41
+Chevrolet,2012 Chevrolet Traverse,281,39
+Chevrolet,2012 Chevrolet Traverse,281,41
+Chevrolet,2012 Chevrolet Traverse,281,39
+Chevrolet,2012 Chevrolet Traverse,281,41
+Chevrolet,2012 Chevrolet Traverse,281,39
+Chevrolet,2012 Chevrolet Traverse,288,41
+Chevrolet,2012 Chevrolet Traverse,288,39
+BMW,2011 BMW Z4 Roadster,255,46
+BMW,2011 BMW Z4 Roadster,300,45
+BMW,2011 BMW Z4 Roadster,255,46
+Cadillac,2011 Cadillac Escalade EXT,403,31
+Cadillac,2011 Cadillac Escalade EXT,403,22
+Cadillac,2011 Cadillac Escalade EXT,403,31
+Cadillac,2010 Cadillac Escalade EXT,403,33
+Cadillac,2010 Cadillac Escalade EXT,403,25
+Cadillac,2010 Cadillac Escalade EXT,403,25
+Saab,2011 Saab 9-4X,265,43
+Saab,2011 Saab 9-4X,300,37
+Saab,2011 Saab 9-4X,265,43
+Saab,2011 Saab 9-4X,265,40
+Saab,2011 Saab 9-4X,265,40
+GMC,2011 GMC Sierra 1500,195,35
+GMC,2011 GMC Sierra 1500,302,24
+GMC,2011 GMC Sierra 1500,315,36
+GMC,2011 GMC Sierra 1500,195,32
+GMC,2011 GMC Sierra 1500,302,31
+GMC,2011 GMC Sierra 1500,315,27
+GMC,2011 GMC Sierra 1500,302,33
+GMC,2011 GMC Sierra 1500,315,36
+GMC,2011 GMC Sierra 1500,302,31
+GMC,2011 GMC Sierra 1500,315,27
+Aston Martin,2010 Aston Martin Rapide,470,32
+Aston Martin,2011 Aston Martin V12 Vantage,510,28
+Aston Martin,2011 Aston Martin V12 Vantage,510,28
+Saab,2011 Saab 9-5 Sedan,220,34
+Saab,2011 Saab 9-5 Sedan,220,53
+Saab,2011 Saab 9-5 Sedan,300,44
+Saab,2011 Saab 9-5 Sedan,300,44
+Saab,2011 Saab 9-5 Sedan,220,53
+Saab,2011 Saab 9-5 Sedan,220,46
+Saab,2010 Saab 9-5 Sedan,300,43
+Mercury,2010 Mercury Mariner,171,49
+Mercury,2010 Mercury Mariner,171,46
+Mercury,2010 Mercury Mariner,240,33
+Mercury,2010 Mercury Mariner,240,30
+Mercury,2010 Mercury Mariner,171,49
+Mercury,2010 Mercury Mariner,171,46
+Mercury,2010 Mercury Mariner,240,44
+Mercury,2010 Mercury Mariner,240,30
+Chevrolet,2011 Chevrolet Traverse,281,41
+Chevrolet,2011 Chevrolet Traverse,281,39
+Chevrolet,2011 Chevrolet Traverse,281,41
+Chevrolet,2011 Chevrolet Traverse,281,39
+Chevrolet,2011 Chevrolet Traverse,281,41
+Chevrolet,2011 Chevrolet Traverse,281,39
+Chevrolet,2011 Chevrolet Traverse,288,41
+Chevrolet,2011 Chevrolet Traverse,288,39
+Chevrolet,2010 Chevrolet Traverse,281,41
+Chevrolet,2010 Chevrolet Traverse,281,39
+Chevrolet,2010 Chevrolet Traverse,281,41
+Chevrolet,2010 Chevrolet Traverse,281,39
+Chevrolet,2010 Chevrolet Traverse,281,41
+Chevrolet,2010 Chevrolet Traverse,281,39
+Chevrolet,2010 Chevrolet Traverse,288,41
+Chevrolet,2010 Chevrolet Traverse,288,39
+Mercury,2011 Mercury Milan,175,51
+Mercury,2011 Mercury Milan,175,56
+Mercury,2011 Mercury Milan,175,56
+Mercury,2011 Mercury Milan,240,35
+Mercury,2011 Mercury Milan,240,32
+Mercury,2010 Mercury Milan,175,51
+Mercury,2010 Mercury Milan,175,53
+Mercury,2010 Mercury Milan,175,53
+Mercury,2010 Mercury Milan,240,46
+Mercury,2010 Mercury Milan,240,43
+Lexus,2011 Lexus GS,303,43
+Lexus,2011 Lexus GS,342,41
+Lexus,2011 Lexus GS,303,45
+Aston Martin,2011 Aston Martin V8 Vantage Roadster,420,32
+Aston Martin,2011 Aston Martin V8 Vantage Roadster,420,32
+Aston Martin,2010 Aston Martin V8 Vantage Roadster,420,31
+Aston Martin,2011 Aston Martin V8 Vantage Coup,420,32
+Aston Martin,2011 Aston Martin V8 Vantage Coup,420,32
+Aston Martin,2010 Aston Martin V8 Vantage Coup,420,31
+GMC,2011 GMC Sierra 1500,195,35
+GMC,2011 GMC Sierra 1500,302,24
+GMC,2011 GMC Sierra 1500,315,27
+GMC,2011 GMC Sierra 1500,302,31
+GMC,2011 GMC Sierra 1500,315,27
+GMC,2011 GMC Sierra 1500,302,33
+GMC,2011 GMC Sierra 1500,302,31
+GMC,2011 GMC Sierra 1500,302,24
+GMC,2011 GMC Sierra 1500,315,27
+GMC,2011 GMC Sierra 1500,403,31
+GMC,2011 GMC Sierra 1500,302,23
+GMC,2011 GMC Sierra 1500,315,36
+GMC,2011 GMC Sierra 1500,403,22
+GMC,2011 GMC Sierra 1500,315,27
+GMC,2011 GMC Sierra 1500,403,22
+GMC,2011 GMC Sierra 1500,315,27
+GMC,2011 GMC Sierra 1500,403,30
+Chevrolet,2011 Chevrolet Avalanche,320,36
+Chevrolet,2011 Chevrolet Avalanche,320,36
+Chevrolet,2011 Chevrolet Avalanche,320,36
+Chevrolet,2011 Chevrolet Avalanche,320,36
+Chevrolet,2011 Chevrolet Avalanche,320,36
+Chevrolet,2011 Chevrolet Avalanche,320,36
+Chevrolet,2010 Chevrolet Avalanche,320,27
+Chevrolet,2010 Chevrolet Avalanche,320,36
+Chevrolet,2010 Chevrolet Avalanche,320,36
+Chevrolet,2010 Chevrolet Avalanche,320,36
+Chevrolet,2010 Chevrolet Avalanche,320,27
+Chevrolet,2010 Chevrolet Avalanche,320,27
+Subaru,2011 Subaru Impreza Hatchback,170,46
+Subaru,2011 Subaru Impreza Hatchback,170,47
+GMC,2011 GMC Sierra 1500,315,27
+GMC,2011 GMC Sierra 1500,315,27
+GMC,2011 GMC Sierra 1500,315,27
+GMC,2011 GMC Sierra 1500,315,27
+GMC,2011 GMC Sierra 1500,315,27
+GMC,2011 GMC Sierra 1500,315,27
+Subaru,2010 Subaru Impreza Hatchback,170,46
+Subaru,2010 Subaru Impreza Hatchback,170,47
+Subaru,2011 Subaru Legacy,256,43
+Subaru,2011 Subaru Legacy,265,43
+Subaru,2011 Subaru Legacy,170,46
+Subaru,2011 Subaru Legacy,170,46
+GMC,2011 GMC Sierra 1500,302,24
+GMC,2011 GMC Sierra 1500,315,36
+GMC,2011 GMC Sierra 1500,302,23
+GMC,2011 GMC Sierra 1500,315,27
+GMC,2011 GMC Sierra 1500,302,33
+GMC,2011 GMC Sierra 1500,302,23
+GMC,2011 GMC Sierra 1500,302,24
+GMC,2011 GMC Sierra 1500,315,27
+GMC,2011 GMC Sierra 1500,403,31
+GMC,2011 GMC Sierra 1500,302,23
+GMC,2011 GMC Sierra 1500,315,36
+GMC,2011 GMC Sierra 1500,403,30
+GMC,2011 GMC Sierra 1500,315,37
+GMC,2011 GMC Sierra 1500,315,36
+GMC,2011 GMC Sierra 1500,403,22
+GMC,2011 GMC Sierra 1500,315,27
+GMC,2011 GMC Sierra 1500,403,30
+GMC,2011 GMC Sierra 1500,403,22
+GMC,2011 GMC Sierra 1500,403,30
+GMC,2010 GMC Sierra 1500,195,35
+GMC,2010 GMC Sierra 1500,302,24
+GMC,2010 GMC Sierra 1500,315,27
+GMC,2010 GMC Sierra 1500,195,32
+GMC,2010 GMC Sierra 1500,302,31
+GMC,2010 GMC Sierra 1500,315,36
+GMC,2010 GMC Sierra 1500,302,24
+GMC,2010 GMC Sierra 1500,315,36
+GMC,2010 GMC Sierra 1500,302,23
+GMC,2010 GMC Sierra 1500,315,36
+Dodge,2010 Dodge Ram 1500,215,34
+Dodge,2010 Dodge Ram 1500,310,22
+Dodge,2010 Dodge Ram 1500,390,34
+Dodge,2010 Dodge Ram 1500,310,31
+Dodge,2010 Dodge Ram 1500,390,31
+Dodge,2010 Dodge Ram 1500,310,33
+Dodge,2010 Dodge Ram 1500,310,21
+Dodge,2010 Dodge Ram 1500,215,34
+Dodge,2010 Dodge Ram 1500,310,33
+Dodge,2010 Dodge Ram 1500,390,34
+Dodge,2010 Dodge Ram 1500,310,21
+Dodge,2010 Dodge Ram 1500,390,31
+Dodge,2010 Dodge Ram 1500,310,22
+Dodge,2010 Dodge Ram 1500,390,34
+Dodge,2010 Dodge Ram 1500,310,21
+Dodge,2010 Dodge Ram 1500,390,31
+Dodge,2010 Dodge Ram 1500,390,34
+Dodge,2010 Dodge Ram 1500,390,31
+Dodge,2010 Dodge Ram 1500,310,22
+Dodge,2010 Dodge Ram 1500,390,34
+Dodge,2010 Dodge Ram 1500,310,21
+Dodge,2010 Dodge Ram 1500,390,31
+Dodge,2010 Dodge Ram 1500,310,22
+Dodge,2010 Dodge Ram 1500,390,34
+Dodge,2010 Dodge Ram 1500,390,31
+Dodge,2010 Dodge Ram 1500,390,34
+Dodge,2010 Dodge Ram 1500,390,31
+Dodge,2010 Dodge Ram 1500,310,21
+Lexus,2010 Lexus IS,204,44
+Lexus,2010 Lexus IS,204,50
+Lexus,2010 Lexus IS,204,46
+Lexus,2010 Lexus IS,306,43
+Lexus,2011 Lexus IS,306,43
+Dodge,2010 Dodge Ram 1500,390,34
+Dodge,2010 Dodge Ram 1500,390,31
+Toyota,2011 Toyota Tacoma,159,46
+Toyota,2011 Toyota Tacoma,159,44
+Toyota,2011 Toyota Tacoma,159,38
+Toyota,2011 Toyota Tacoma,159,39
+Toyota,2011 Toyota Tacoma,159,46
+Toyota,2011 Toyota Tacoma,159,44
+Toyota,2011 Toyota Tacoma,159,44
+Toyota,2011 Toyota Tacoma,236,38
+Toyota,2011 Toyota Tacoma,159,38
+Toyota,2011 Toyota Tacoma,159,39
+Toyota,2011 Toyota Tacoma,236,32
+Toyota,2011 Toyota Tacoma,236,36
+Toyota,2011 Toyota Tacoma,159,44
+Toyota,2011 Toyota Tacoma,159,44
+Toyota,2011 Toyota Tacoma,236,38
+Toyota,2011 Toyota Tacoma,236,38
+Toyota,2011 Toyota Tacoma,236,32
+Toyota,2011 Toyota Tacoma,236,36
+Toyota,2011 Toyota Tacoma,236,36
+Toyota,2011 Toyota Tacoma,236,34
+Lexus,2011 Lexus IS,204,46
+Lexus,2011 Lexus IS,204,51
+Lexus,2011 Lexus IS,204,47
+Lexus,2011 Lexus IS,306,47
+Toyota,2010 Toyota Tacoma,159,46
+Toyota,2010 Toyota Tacoma,159,44
+Toyota,2010 Toyota Tacoma,159,39
+Toyota,2010 Toyota Tacoma,159,46
+Toyota,2010 Toyota Tacoma,159,46
+Toyota,2010 Toyota Tacoma,159,44
+Toyota,2010 Toyota Tacoma,159,46
+Toyota,2010 Toyota Tacoma,236,33
+Toyota,2010 Toyota Tacoma,236,38
+Toyota,2010 Toyota Tacoma,159,39
+Toyota,2010 Toyota Tacoma,236,32
+Toyota,2010 Toyota Tacoma,236,36
+Toyota,2010 Toyota Tacoma,236,32
+Toyota,2010 Toyota Tacoma,236,36
+Toyota,2010 Toyota Tacoma,236,36
+Toyota,2010 Toyota Tacoma,236,38
+Toyota,2010 Toyota Tacoma,236,38
+Toyota,2010 Toyota Tacoma,236,33
+GMC,2010 GMC Sierra 1500,315,36
+GMC,2010 GMC Sierra 1500,195,32
+GMC,2010 GMC Sierra 1500,302,31
+GMC,2010 GMC Sierra 1500,315,36
+GMC,2010 GMC Sierra 1500,302,24
+GMC,2010 GMC Sierra 1500,315,36
+GMC,2010 GMC Sierra 1500,302,23
+GMC,2010 GMC Sierra 1500,315,36
+Chevrolet,2012 Chevrolet Colorado,185,43
+Chevrolet,2012 Chevrolet Colorado,242,40
+Chevrolet,2012 Chevrolet Colorado,185,43
+Chevrolet,2012 Chevrolet Colorado,242,40
+Chevrolet,2012 Chevrolet Colorado,185,42
+Chevrolet,2012 Chevrolet Colorado,185,40
+Chevrolet,2012 Chevrolet Colorado,242,40
+Chevrolet,2012 Chevrolet Colorado,185,40
+Chevrolet,2012 Chevrolet Colorado,242,40
+Chevrolet,2012 Chevrolet Colorado,242,40
+Chevrolet,2012 Chevrolet Colorado,242,40
+Chevrolet,2012 Chevrolet Colorado,300,34
+Chevrolet,2012 Chevrolet Colorado,300,34
+Chevrolet,2012 Chevrolet Colorado,242,37
+Chevrolet,2012 Chevrolet Colorado,242,37
+Chevrolet,2012 Chevrolet Colorado,300,33
+GMC,2010 GMC Sierra 1500,195,35
+GMC,2010 GMC Sierra 1500,302,24
+GMC,2010 GMC Sierra 1500,315,27
+GMC,2010 GMC Sierra 1500,302,23
+GMC,2010 GMC Sierra 1500,315,36
+GMC,2010 GMC Sierra 1500,302,33
+GMC,2010 GMC Sierra 1500,302,23
+GMC,2010 GMC Sierra 1500,302,33
+GMC,2010 GMC Sierra 1500,315,36
+GMC,2010 GMC Sierra 1500,403,32
+GMC,2010 GMC Sierra 1500,302,31
+GMC,2010 GMC Sierra 1500,315,27
+GMC,2010 GMC Sierra 1500,403,31
+GMC,2010 GMC Sierra 1500,315,27
+GMC,2010 GMC Sierra 1500,403,24
+GMC,2010 GMC Sierra 1500,315,27
+GMC,2010 GMC Sierra 1500,302,33
+Chevrolet,2012 Chevrolet Colorado,185,43
+Chevrolet,2012 Chevrolet Colorado,242,40
+Chevrolet,2012 Chevrolet Colorado,185,43
+Chevrolet,2012 Chevrolet Colorado,242,40
+Chevrolet,2012 Chevrolet Colorado,242,40
+Chevrolet,2012 Chevrolet Colorado,300,34
+Chevrolet,2012 Chevrolet Colorado,300,34
+Chevrolet,2012 Chevrolet Colorado,185,42
+Chevrolet,2012 Chevrolet Colorado,185,40
+Chevrolet,2012 Chevrolet Colorado,242,40
+Chevrolet,2012 Chevrolet Colorado,185,40
+Chevrolet,2012 Chevrolet Colorado,242,40
+Chevrolet,2012 Chevrolet Colorado,242,40
+Chevrolet,2012 Chevrolet Colorado,300,33
+GMC,2010 GMC Sierra 1500,315,27
+GMC,2010 GMC Sierra 1500,315,36
+GMC,2010 GMC Sierra 1500,315,27
+GMC,2010 GMC Sierra 1500,315,36
+GMC,2010 GMC Sierra 1500,315,27
+GMC,2010 GMC Sierra 1500,315,27
+Chevrolet,2011 Chevrolet Colorado,185,43
+Chevrolet,2011 Chevrolet Colorado,242,40
+Chevrolet,2011 Chevrolet Colorado,185,43
+Chevrolet,2011 Chevrolet Colorado,185,43
+Chevrolet,2011 Chevrolet Colorado,242,40
+Chevrolet,2011 Chevrolet Colorado,185,42
+Chevrolet,2011 Chevrolet Colorado,185,40
+Chevrolet,2011 Chevrolet Colorado,242,40
+Chevrolet,2011 Chevrolet Colorado,185,42
+Chevrolet,2011 Chevrolet Colorado,185,40
+Chevrolet,2011 Chevrolet Colorado,242,40
+Chevrolet,2011 Chevrolet Colorado,242,40
+Chevrolet,2011 Chevrolet Colorado,300,34
+Chevrolet,2011 Chevrolet Colorado,242,40
+Chevrolet,2011 Chevrolet Colorado,300,34
+Chevrolet,2011 Chevrolet Colorado,300,34
+Chevrolet,2011 Chevrolet Colorado,242,37
+Chevrolet,2011 Chevrolet Colorado,300,33
+Chevrolet,2011 Chevrolet Colorado,242,37
+Chevrolet,2011 Chevrolet Colorado,300,33
+Chevrolet,2011 Chevrolet Colorado,185,43
+Chevrolet,2011 Chevrolet Colorado,242,40
+Chevrolet,2011 Chevrolet Colorado,185,43
+Chevrolet,2011 Chevrolet Colorado,185,43
+Chevrolet,2011 Chevrolet Colorado,242,40
+Chevrolet,2011 Chevrolet Colorado,300,34
+Chevrolet,2011 Chevrolet Colorado,242,40
+Chevrolet,2011 Chevrolet Colorado,300,34
+Chevrolet,2011 Chevrolet Colorado,300,34
+Chevrolet,2011 Chevrolet Colorado,185,42
+Chevrolet,2011 Chevrolet Colorado,185,40
+Chevrolet,2011 Chevrolet Colorado,242,40
+Chevrolet,2011 Chevrolet Colorado,185,42
+Chevrolet,2011 Chevrolet Colorado,185,40
+Chevrolet,2011 Chevrolet Colorado,242,40
+Chevrolet,2011 Chevrolet Colorado,300,33
+Chevrolet,2011 Chevrolet Colorado,242,40
+Chevrolet,2011 Chevrolet Colorado,300,33
+GMC,2010 GMC Sierra 1500,302,24
+GMC,2010 GMC Sierra 1500,315,36
+GMC,2010 GMC Sierra 1500,302,23
+GMC,2010 GMC Sierra 1500,315,27
+GMC,2010 GMC Sierra 1500,302,33
+GMC,2010 GMC Sierra 1500,302,31
+GMC,2010 GMC Sierra 1500,302,33
+GMC,2010 GMC Sierra 1500,315,36
+GMC,2010 GMC Sierra 1500,403,24
+GMC,2010 GMC Sierra 1500,302,23
+GMC,2010 GMC Sierra 1500,315,27
+GMC,2010 GMC Sierra 1500,403,22
+GMC,2010 GMC Sierra 1500,315,27
+GMC,2010 GMC Sierra 1500,315,36
+GMC,2010 GMC Sierra 1500,403,24
+GMC,2010 GMC Sierra 1500,315,27
+GMC,2010 GMC Sierra 1500,403,31
+GMC,2010 GMC Sierra 1500,403,24
+GMC,2010 GMC Sierra 1500,403,22
+Scion,2012 Scion xB,158,50
+Scion,2012 Scion xB,158,50
+Scion,2011 Scion xB,158,50
+Scion,2011 Scion xB,158,50
+Scion,2011 Scion xB,158,50
+Scion,2011 Scion xB,158,50
+Scion,2010 Scion xB,158,50
+Scion,2010 Scion xB,158,50
+Scion,2010 Scion xB,158,50
+Scion,2010 Scion xB,158,50
+Scion,2011 Scion xD,128,60
+Scion,2011 Scion xD,128,60
+Scion,2011 Scion xD,128,60
+Scion,2011 Scion xD,128,60
+Aston Martin,2011 Aston Martin Virage Volante,490,31
+Scion,2010 Scion xD,128,60
+Scion,2010 Scion xD,128,60
+Aston Martin,2012 Aston Martin Virage Volante,490,31
+Toyota,2011 Toyota Tundra,236,36
+Toyota,2011 Toyota Tundra,310,35
+Toyota,2011 Toyota Tundra,381,30
+Toyota,2011 Toyota Tundra,381,30
+Toyota,2011 Toyota Tundra,236,36
+Toyota,2011 Toyota Tundra,381,32
+Toyota,2011 Toyota Tundra,381,30
+Toyota,2011 Toyota Tundra,381,30
+Toyota,2011 Toyota Tundra,236,36
+Toyota,2011 Toyota Tundra,310,35
+Toyota,2011 Toyota Tundra,310,33
+Toyota,2011 Toyota Tundra,381,32
+Toyota,2011 Toyota Tundra,381,30
+Toyota,2011 Toyota Tundra,381,30
+Toyota,2011 Toyota Tundra,381,32
+Toyota,2011 Toyota Tundra,381,30
+Toyota,2011 Toyota Tundra,310,35
+Toyota,2011 Toyota Tundra,310,33
+Toyota,2011 Toyota Tundra,381,30
+Toyota,2011 Toyota Tundra,381,30
+Toyota,2011 Toyota Tundra,310,35
+Toyota,2011 Toyota Tundra,310,33
+Toyota,2011 Toyota Tundra,381,32
+Toyota,2011 Toyota Tundra,381,30
+Toyota,2011 Toyota Tundra,381,30
+Toyota,2011 Toyota Tundra,381,32
+Lexus,2010 Lexus IS C,204,44
+Lexus,2010 Lexus IS C,306,43
+Lexus,2010 Lexus IS C,204,50
+Lexus,2011 Lexus IS C,204,46
+Lexus,2011 Lexus IS C,204,51
+Lexus,2011 Lexus IS C,306,47
+Jaguar,2010 Jaguar XJ,385,39
+Jaguar,2010 Jaguar XJ,385,37
+Jaguar,2010 Jaguar XJ,470,36
+Jaguar,2010 Jaguar XJ,470,36
+Jaguar,2010 Jaguar XJ,510,36
+Jaguar,2010 Jaguar XJ,510,36
+Toyota,2011 Toyota Tundra,381,30
+Toyota,2011 Toyota Tundra,381,30
+Subaru,2010 Subaru Legacy,170,46
+Subaru,2010 Subaru Legacy,265,43
+Subaru,2010 Subaru Legacy,256,43
+Subaru,2010 Subaru Legacy,170,46
+Aston Martin,2011 Aston Martin Virage Coup,490,31
+Aston Martin,2012 Aston Martin Virage Coup,490,31
+Suzuki,2011 Suzuki Equator,261,35
+Suzuki,2011 Suzuki Equator,261,33
+Suzuki,2011 Suzuki Equator,261,33
+Suzuki,2011 Suzuki Equator,152,42
+Suzuki,2011 Suzuki Equator,152,39
+Suzuki,2011 Suzuki Equator,261,35
+Chevrolet,2010 Chevrolet Colorado,185,43
+Chevrolet,2010 Chevrolet Colorado,242,40
+Chevrolet,2010 Chevrolet Colorado,185,43
+Chevrolet,2010 Chevrolet Colorado,185,43
+Chevrolet,2010 Chevrolet Colorado,242,40
+Chevrolet,2010 Chevrolet Colorado,185,42
+Chevrolet,2010 Chevrolet Colorado,185,40
+Chevrolet,2010 Chevrolet Colorado,242,40
+Chevrolet,2010 Chevrolet Colorado,185,42
+Chevrolet,2010 Chevrolet Colorado,185,40
+Chevrolet,2010 Chevrolet Colorado,242,40
+Chevrolet,2010 Chevrolet Colorado,242,40
+Chevrolet,2010 Chevrolet Colorado,300,35
+Chevrolet,2010 Chevrolet Colorado,242,40
+Chevrolet,2010 Chevrolet Colorado,300,35
+Chevrolet,2010 Chevrolet Colorado,300,35
+Chevrolet,2010 Chevrolet Colorado,242,37
+Chevrolet,2010 Chevrolet Colorado,300,33
+Chevrolet,2010 Chevrolet Colorado,242,37
+Chevrolet,2010 Chevrolet Colorado,300,33
+Chevrolet,2010 Chevrolet Colorado,185,41
+Chevrolet,2010 Chevrolet Colorado,242,40
+Chevrolet,2010 Chevrolet Colorado,185,46
+Chevrolet,2010 Chevrolet Colorado,185,41
+Chevrolet,2010 Chevrolet Colorado,242,40
+Chevrolet,2010 Chevrolet Colorado,300,35
+Chevrolet,2010 Chevrolet Colorado,242,40
+Chevrolet,2010 Chevrolet Colorado,300,35
+Chevrolet,2010 Chevrolet Colorado,300,35
+Chevrolet,2010 Chevrolet Colorado,185,42
+Chevrolet,2010 Chevrolet Colorado,185,39
+Chevrolet,2010 Chevrolet Colorado,242,38
+Chevrolet,2010 Chevrolet Colorado,185,42
+Chevrolet,2010 Chevrolet Colorado,185,39
+Chevrolet,2010 Chevrolet Colorado,242,38
+Chevrolet,2010 Chevrolet Colorado,185,41
+Chevrolet,2010 Chevrolet Colorado,242,38
+Chevrolet,2010 Chevrolet Colorado,300,33
+Nissan,2011 Nissan Frontier,152,42
+Subaru,2011 Subaru Outback,170,46
+Subaru,2011 Subaru Outback,256,43
+Subaru,2011 Subaru Outback,170,46
+Nissan,2011 Nissan Frontier,152,42
+Nissan,2011 Nissan Frontier,261,35
+Nissan,2011 Nissan Frontier,261,33
+Nissan,2011 Nissan Frontier,261,36
+Nissan,2011 Nissan Frontier,261,35
+Nissan,2011 Nissan Frontier,261,35
+Nissan,2011 Nissan Frontier,261,35
+Nissan,2011 Nissan Frontier,261,35
+Nissan,2011 Nissan Frontier,261,33
+Nissan,2011 Nissan Frontier,261,35
+Nissan,2011 Nissan Frontier,261,33
+Nissan,2011 Nissan Frontier,261,33
+Nissan,2011 Nissan Frontier,261,35
+Nissan,2011 Nissan Frontier,261,36
+Nissan,2011 Nissan Frontier,261,33
+Nissan,2011 Nissan Frontier,152,39
+Nissan,2011 Nissan Frontier,261,35
+Nissan,2011 Nissan Frontier,261,36
+Nissan,2011 Nissan Frontier,261,33
+Nissan,2011 Nissan Frontier,261,35
+Nissan,2011 Nissan Frontier,261,35
+Nissan,2011 Nissan Frontier,261,33
+Nissan,2011 Nissan Frontier,261,35
+Nissan,2011 Nissan Frontier,261,35
+Nissan,2011 Nissan Frontier,152,39
+Nissan,2011 Nissan Frontier,261,33
+Nissan,2011 Nissan Frontier,261,35
+Suzuki,2010 Suzuki Equator,261,35
+Suzuki,2010 Suzuki Equator,261,35
+Suzuki,2010 Suzuki Equator,261,34
+Suzuki,2010 Suzuki Equator,261,34
+Suzuki,2010 Suzuki Equator,152,42
+Suzuki,2010 Suzuki Equator,152,42
+Suzuki,2010 Suzuki Equator,152,42
+Suzuki,2010 Suzuki Equator,261,35
+Suzuki,2010 Suzuki Equator,261,34
+Subaru,2010 Subaru Outback,256,43
+Subaru,2010 Subaru Outback,170,46
+Subaru,2010 Subaru Outback,170,46
+Chevrolet,2011 Chevrolet Silverado 1500 Hybrid,332,243
+Chevrolet,2011 Chevrolet Silverado 1500 Hybrid,332,43
+Chevrolet,2011 Chevrolet Silverado 1500 Hybrid,332,43
+Chevrolet,2011 Chevrolet Silverado 1500 Hybrid,332,43
+Chevrolet,2010 Chevrolet Silverado 1500 Hybrid,332,43
+Chevrolet,2010 Chevrolet Silverado 1500 Hybrid,332,43
+Chevrolet,2010 Chevrolet Silverado 1500 Hybrid,332,43
+Chevrolet,2010 Chevrolet Silverado 1500 Hybrid,332,43
+Chevrolet,2009 Chevrolet Silverado 1500 Hybrid,332,43
+Chevrolet,2009 Chevrolet Silverado 1500 Hybrid,332,43
+Chevrolet,2009 Chevrolet Silverado 1500 Hybrid,332,40
+Chevrolet,2009 Chevrolet Silverado 1500 Hybrid,332,40
+Suzuki,2010 Suzuki Grand Vitara,230,42
+Ford,2011 Ford Ranger,143,49
+Ford,2010 Mercedes-Benz R-Class,210,42
+Ford,2011 Ford Ranger,143,49
+Ford,2011 Ford Ranger,143,43
+Ford,2011 Ford Ranger,143,49
+Ford,2010 Mercedes-Benz R-Class,210,42
+Ford,2011 Ford Ranger,143,49
+Ford,2011 Ford Ranger,143,43
+Ford,2011 Ford Ranger,207,37
+Ford,2011 Ford Ranger,207,35
+Ford,2011 Ford Ranger,143,49
+Ford,2011 Ford Ranger,143,43
+Ford,2011 Ford Ranger,207,34
+Ford,2011 Ford Ranger,207,32
+Ford,2011 Ford Ranger,207,37
+Ford,2011 Ford Ranger,207,35
+Ford,2011 Ford Ranger,207,37
+Ford,2011 Ford Ranger,207,35
+Ford,2011 Ford Ranger,207,34
+Ford,2011 Ford Ranger,207,32
+Chevrolet,2011 Chevrolet Silverado 1500,302,33
+Chevrolet,2011 Chevrolet Silverado 1500,315,36
+Chevrolet,2011 Chevrolet Silverado 1500,302,24
+Chevrolet,2011 Chevrolet Silverado 1500,315,27
+Chevrolet,2011 Chevrolet Silverado 1500,195,32
+Chevrolet,2011 Chevrolet Silverado 1500,302,23
+Chevrolet,2011 Chevrolet Silverado 1500,315,36
+Chevrolet,2011 Chevrolet Silverado 1500,302,31
+Chevrolet,2011 Chevrolet Silverado 1500,315,27
+Chevrolet,2011 Chevrolet Silverado 1500,195,35
+Chevrolet,2011 Chevrolet Silverado 1500,302,24
+Chevrolet,2011 Chevrolet Silverado 1500,315,27
+Chevrolet,2011 Chevrolet Silverado 1500,302,33
+Chevrolet,2011 Chevrolet Silverado 1500,315,36
+Chevrolet,2011 Chevrolet Silverado 1500,195,32
+Chevrolet,2011 Chevrolet Silverado 1500,302,31
+Chevrolet,2011 Chevrolet Silverado 1500,315,27
+Chevrolet,2011 Chevrolet Silverado 1500,302,23
+Chevrolet,2011 Chevrolet Silverado 1500,315,27
+Lexus,2010 Lexus IS F,416,39
+Lexus,2011 lexus IS F,416,39
+Nissan,2010 Nissan Frontier,261,35
+Nissan,2010 Nissan Frontier,261,35
+Nissan,2010 Nissan Frontier,152,39
+Nissan,2010 Nissan Frontier,261,34
+Nissan,2010 Nissan Frontier,152,42
+Nissan,2010 Nissan Frontier,261,33
+Nissan,2010 Nissan Frontier,261,35
+Nissan,2010 Nissan Frontier,261,36
+Nissan,2010 Nissan Frontier,152,42
+Nissan,2010 Nissan Frontier,261,33
+Nissan,2010 Nissan Frontier,261,33
+Nissan,2010 Nissan Frontier,261,34
+Nissan,2010 Nissan Frontier,152,39
+Buick,2011 Buick Regal,220,52
+Lexus,2010 Lexus LX,383,30
+Lexus,2011 Lexus LX,383,30
+Ford,2010 Ford Ranger,143,49
+Ford,2010 Ford Ranger,143,43
+Ford,2010 Ford Ranger,143,49
+Ford,2010 Ford Ranger,143,43
+Ford,2010 Ford Ranger,143,49
+Ford,2010 Ford Ranger,143,43
+Ford,2010 Ford Ranger,143,49
+Ford,2010 Ford Ranger,143,43
+Ford,2010 Ford Ranger,207,36
+Ford,2010 Ford Ranger,207,37
+Ford,2010 Ford Ranger,207,36
+Ford,2010 Ford Ranger,207,37
+Ford,2010 Ford Ranger,207,34
+Ford,2010 Ford Ranger,207,32
+Ford,2010 Ford Ranger,207,36
+Ford,2010 Ford Ranger,207,37
+Ford,2010 Ford Ranger,207,36
+Ford,2010 Ford Ranger,207,37
+Ford,2010 Ford Ranger,207,34
+Ford,2010 Ford Ranger,207,32
+Ford,2012 Ford E-150 Wagon,225,29
+Ford,2012 Ford E-150 Wagon,255,28
+Ford,2012 Ford E-150 Wagon,225,21
+Ford,2012 Ford E-150 Wagon,255,28
+Ford,2012 Ford E-150 Wagon,225,21
+Ford,2012 Ford E-150 Wagon,255,21
+Ford,2011 Ford E-150 Wagon,225,29
+Ford,2011 Ford E-150 Wagon,255,27
+Ford,2011 Ford E-150 Wagon,225,21
+Ford,2011 Ford E-150 Wagon,255,21
+Buick,2012 Buick Enclave,288,41
+Buick,2012 Buick Enclave,288,41
+Buick,2012 Buick Enclave,288,38
+Buick,2012 Buick Enclave,288,38
+Buick,2012 Buick Enclave,288,38
+Buick,2012 Buick Enclave,288,41
+Buick,2012 Buick Enclave,288,41
+Buick,2012 Buick Enclave,288,38
+Ford,2012 Ford E-350 Super Duty Wagon,255,20
+Ford,2012 Ford E-350 Super Duty Wagon,305,23
+Ford,2012 Ford E-350 Super Duty Wagon,255,26
+Ford,2012 Ford E-350 Super Duty Wagon,305,23
+Ford,2012 Ford E-350 Super Duty Wagon,255,26
+Ford,2012 Ford E-350 Super Duty Wagon,305,23
+Ford,2012 Ford E-350 Super Duty Wagon,255,26
+Ford,2012 Ford E-350 Super Duty Wagon,305,23
+Ford,2011 Ford E-350 Super Duty Wagon,255,26
+Ford,2011 Ford E-350 Super Duty Wagon,305,23
+Ford,2011 Ford E-350 Super Duty Wagon,255,26
+Ford,2011 Ford E-350 Super Duty Wagon,305,23
+Ford,2011 Ford E-350 Super Duty Wagon,255,26
+Ford,2011 Ford E-350 Super Duty Wagon,305,23
+Ford,2011 Ford E-350 Super Duty Wagon,255,20
+Ford,2011 Ford E-350 Super Duty Wagon,305,23
+Buick,2012 Buick Lacrosse,182,61
+Buick,2012 Buick Lacrosse,182,61
+Buick,2012 Buick Lacrosse,303,44
+Buick,2012 Buick Lacrosse,303,30
+Buick,2012 Buick Lacrosse,303,44
+Buick,2012 Buick Lacrosse,182,61
+Buick,2012 Buick Lacrosse,303,44
+Buick,2012 Buick Lacrosse,182,61
+Buick,2012 Buick Lacrosse,303,44
+Buick,2012 Buick Lacrosse,303,32
+Buick,2012 Buick Lacrosse,303,42
+Buick,2012 Buick Lacrosse,303,30
+Buick,2012 Buick Lacrosse,303,32
+Dodge,2011 Dodge Dakota,210,35
+Dodge,2011 Dodge Dakota,210,32
+Dodge,2011 Dodge Dakota,210,35
+Dodge,2011 Dodge Dakota,302,22
+Dodge,2011 Dodge Dakota,210,32
+Dodge,2011 Dodge Dakota,302,22
+Dodge,2011 Dodge Dakota,210,35
+Dodge,2011 Dodge Dakota,302,22
+Dodge,2011 Dodge Dakota,210,32
+Dodge,2011 Dodge Dakota,302,33
+Dodge,2011 Dodge Dakota,210,35
+Dodge,2011 Dodge Dakota,302,33
+Dodge,2011 Dodge Dakota,210,32
+Dodge,2011 Dodge Dakota,302,22
+Nissan,2010 Nissan Frontier,261,36
+Nissan,2010 Nissan Frontier,261,35
+Nissan,2010 Nissan Frontier,261,36
+Nissan,2010 Nissan Frontier,261,35
+Nissan,2010 Nissan Frontier,261,34
+Nissan,2010 Nissan Frontier,261,33
+Nissan,2010 Nissan Frontier,261,34
+Nissan,2010 Nissan Frontier,261,33
+Nissan,2010 Nissan Frontier,261,35
+Nissan,2010 Nissan Frontier,261,33
+Nissan,2010 Nissan Frontier,261,35
+Nissan,2010 Nissan Frontier,261,35
+Nissan,2010 Nissan Frontier,261,33
+Nissan,2010 Nissan Frontier,261,33
+Buick,2012 Buick Regal,220,47
+Buick,2012 Buick Regal,182,37
+Buick,2012 Buick Regal,220,47
+Buick,2012 Buick Regal,220,52
+Buick,2012 Buick Regal,182,50
+Buick,2012 Buick Regal,220,52
+Buick,2012 Buick Regal,182,37
+Buick,2012 Buick Regal,220,47
+Buick,2012 Buick Regal,220,52
+Buick,2012 Buick Regal,270,46
+Subaru,2011 Subaru Impreza WRX Sedan,265,44
+Subaru,2011 Subaru Impreza WRX Sedan,305,40
+Subaru,2011 Subaru Impreza WRX Sedan,265,44
+Ford,2012 Ford E-150 Van,225,30
+Ford,2012 Ford E-150 Van,255,21
+Ford,2012 Ford E-150 Van,225,21
+Ford,2012 Ford E-150 Van,255,28
+Ford,2012 Ford E-150 Van,225,30
+Ford,2012 Ford E-150 Van,255,21
+Toyota,2010 Toyota Tundra,236,34
+Toyota,2010 Toyota Tundra,310,35
+Toyota,2010 Toyota Tundra,310,33
+Toyota,2010 Toyota Tundra,381,32
+Toyota,2010 Toyota Tundra,381,30
+Toyota,2010 Toyota Tundra,381,30
+Toyota,2010 Toyota Tundra,236,34
+Toyota,2010 Toyota Tundra,310,35
+Toyota,2010 Toyota Tundra,310,33
+Toyota,2010 Toyota Tundra,381,32
+Toyota,2010 Toyota Tundra,381,30
+Toyota,2010 Toyota Tundra,381,30
+Toyota,2010 Toyota Tundra,236,34
+Toyota,2010 Toyota Tundra,310,35
+Toyota,2010 Toyota Tundra,310,33
+Toyota,2010 Toyota Tundra,381,32
+Toyota,2010 Toyota Tundra,381,30
+Toyota,2010 Toyota Tundra,381,30
+Toyota,2010 Toyota Tundra,310,35
+Toyota,2010 Toyota Tundra,310,33
+Toyota,2010 Toyota Tundra,381,32
+Toyota,2010 Toyota Tundra,381,30
+Toyota,2010 Toyota Tundra,381,23
+Toyota,2010 Toyota Tundra,310,35
+Toyota,2010 Toyota Tundra,310,33
+Toyota,2010 Toyota Tundra,381,32
+Toyota,2010 Toyota Tundra,381,30
+Toyota,2010 Toyota Tundra,381,23
+Toyota,2010 Toyota Tundra,310,35
+Toyota,2010 Toyota Tundra,310,33
+Toyota,2010 Toyota Tundra,381,32
+Toyota,2010 Toyota Tundra,381,30
+Toyota,2010 Toyota Tundra,381,23
+Toyota,2010 Toyota Tundra,310,35
+Toyota,2010 Toyota Tundra,310,33
+Toyota,2010 Toyota Tundra,381,32
+Toyota,2010 Toyota Tundra,381,30
+Toyota,2010 Toyota Tundra,381,30
+Ford,2011 Ford E-150 Van,225,30
+Ford,2011 Ford E-150 Van,255,21
+Ford,2011 Ford E-150 Van,225,22
+Ford,2011 Ford E-150 Van,255,21
+Ford,2011 Ford E-150 Van,225,30
+Ford,2011 Ford E-150 Van,255,21
+Subaru,2010 Subaru Impreza WRX Sedan,265,43
+Subaru,2010 Subaru Impreza WRX Sedan,265,43
+Nissan,2011 Nissan Titan,317,31
+Nissan,2011 Nissan Titan,317,29
+Nissan,2011 Nissan Titan,317,31
+Nissan,2011 Nissan Titan,317,29
+Nissan,2011 Nissan Titan,317,29
+Nissan,2011 Nissan Titan,317,31
+Nissan,2011 Nissan Titan,317,29
+Nissan,2011 Nissan Titan,317,31
+Nissan,2011 Nissan Titan,317,31
+Nissan,2011 Nissan Titan,317,29
+Nissan,2011 Nissan Titan,317,29
+Nissan,2011 Nissan Titan,317,29
+Nissan,2011 Nissan Titan,317,31
+Nissan,2011 Nissan Titan,317,29
+Nissan,2011 Nissan Titan,317,31
+Nissan,2011 Nissan Titan,317,29
+Dodge,2010 Dodge Dakota,210,35
+Dodge,2010 Dodge Dakota,210,32
+Dodge,2010 Dodge Dakota,210,35
+Dodge,2010 Dodge Dakota,302,33
+Dodge,2010 Dodge Dakota,210,32
+Dodge,2010 Dodge Dakota,302,28
+Dodge,2010 Dodge Dakota,210,35
+Dodge,2010 Dodge Dakota,302,33
+Dodge,2010 Dodge Dakota,210,32
+Dodge,2010 Dodge Dakota,302,21
+Dodge,2010 Dodge Dakota,210,35
+Dodge,2010 Dodge Dakota,302,33
+Dodge,2010 Dodge Dakota,210,32
+Dodge,2010 Dodge Dakota,302,33
+Subaru,2011 Subaru Impreza WRX Hatchback,265,44
+Subaru,2011 Subaru Impreza WRX Hatchback,265,44
+Subaru,2010 Subaru Impreza WRX Hatchback,265,43
+Subaru,2010 Subaru Impreza WRX Hatchback,265,43
+Chevrolet,2011 Chevrolet Silverado 1500,315,36
+Chevrolet,2011 Chevrolet Silverado 1500,302,33
+Chevrolet,2011 Chevrolet Silverado 1500,302,24
+Chevrolet,2011 Chevrolet Silverado 1500,403,31
+Chevrolet,2011 Chevrolet Silverado 1500,315,27
+Chevrolet,2011 Chevrolet Silverado 1500,315,27
+Chevrolet,2011 Chevrolet Silverado 1500,403,22
+Chevrolet,2011 Chevrolet Silverado 1500,302,31
+Chevrolet,2011 Chevrolet Silverado 1500,315,36
+Chevrolet,2011 Chevrolet Silverado 1500,302,31
+Chevrolet,2011 Chevrolet Silverado 1500,302,23
+Chevrolet,2011 Chevrolet Silverado 1500,403,30
+Chevrolet,2011 Chevrolet Silverado 1500,315,36
+Chevrolet,2011 Chevrolet Silverado 1500,403,22
+Subaru,2011 Subaru Legacy,256,43
+Subaru,2011 Subaru Legacy,256,43
+Chevrolet,2011 Chevrolet Silverado 1500,302,24
+Chevrolet,2011 Chevrolet Silverado 1500,315,27
+Chevrolet,2011 Chevrolet Silverado 1500,302,33
+Chevrolet,2011 Chevrolet Silverado 1500,302,24
+Chevrolet,2011 Chevrolet Silverado 1500,403,22
+Chevrolet,2011 Chevrolet Silverado 1500,315,36
+Chevrolet,2011 Chevrolet Silverado 1500,403,22
+Chevrolet,2011 Chevrolet Silverado 1500,302,23
+Chevrolet,2011 Chevrolet Silverado 1500,315,27
+Chevrolet,2011 Chevrolet Silverado 1500,302,23
+Chevrolet,2011 Chevrolet Silverado 1500,302,23
+Chevrolet,2011 Chevrolet Silverado 1500,403,22
+Chevrolet,2011 Chevrolet Silverado 1500,315,36
+Chevrolet,2011 Chevrolet Silverado 1500,403,30
+Chevrolet,2011 Chevrolet Silverado 1500,315,27
+Chevrolet,2011 Chevrolet Silverado 1500,315,36
+Chevrolet,2011 Chevrolet Silverado 1500,315,36
+Chevrolet,2011 Chevrolet Silverado 1500,315,27
+Chevrolet,2011 Chevrolet Silverado 1500,315,36
+Chevrolet,2011 Chevrolet Silverado 1500,315,36
+Nissan,2011 Nissan Titan,317,31
+Nissan,2011 Nissan Titan,317,22
+Nissan,2011 Nissan Titan,317,22
+Nissan,2011 Nissan Titan,317,31
+Nissan,2011 Nissan Titan,317,29
+Nissan,2011 Nissan Titan,317,31
+Nissan,2011 Nissan Titan,317,31
+Nissan,2011 Nissan Titan,317,29
+Nissan,2011 Nissan Titan,317,29
+Nissan,2011 Nissan Titan,317,29
+Nissan,2011 Nissan Titan,317,31
+Nissan,2011 Nissan Titan,317,29
+Chevrolet,2010 Chevrolet Silverado 1500,302,33
+Chevrolet,2010 Chevrolet Silverado 1500,315,27
+Chevrolet,2010 Chevrolet Silverado 1500,302,24
+Chevrolet,2010 Chevrolet Silverado 1500,315,27
+Chevrolet,2010 Chevrolet Silverado 1500,195,32
+Chevrolet,2010 Chevrolet Silverado 1500,302,31
+Chevrolet,2010 Chevrolet Silverado 1500,315,27
+Chevrolet,2010 Chevrolet Silverado 1500,302,23
+Chevrolet,2010 Chevrolet Silverado 1500,315,27
+Chevrolet,2010 Chevrolet Silverado 1500,195,35
+Chevrolet,2010 Chevrolet Silverado 1500,302,33
+Chevrolet,2010 Chevrolet Silverado 1500,315,27
+Chevrolet,2010 Chevrolet Silverado 1500,302,33
+Chevrolet,2010 Chevrolet Silverado 1500,315,27
+Chevrolet,2010 Chevrolet Silverado 1500,195,32
+Chevrolet,2010 Chevrolet Silverado 1500,302,23
+Chevrolet,2010 Chevrolet Silverado 1500,315,36
+Chevrolet,2010 Chevrolet Silverado 1500,302,23
+Chevrolet,2010 Chevrolet Silverado 1500,315,27
+Ford,2012 Ford E-250 Van,225,30
+Ford,2012 Ford E-250 Van,255,28
+Ford,2012 Ford E-250 Van,225,30
+Ford,2012 Ford E-250 Van,255,28
+Ford,2012 Ford E-250 Van,225,21
+Ford,2012 Ford E-250 Van,255,28
+Ford,2012 Ford E-250 Van,225,21
+Ford,2012 Ford E-250 Van,255,28
+Chevrolet,2010 Chevrolet Silverado 1500,315,27
+Chevrolet,2010 Chevrolet Silverado 1500,302,33
+Chevrolet,2010 Chevrolet Silverado 1500,302,33
+Chevrolet,2010 Chevrolet Silverado 1500,315,36
+Chevrolet,2010 Chevrolet Silverado 1500,403,32
+Chevrolet,2010 Chevrolet Silverado 1500,315,37
+Chevrolet,2010 Chevrolet Silverado 1500,315,36
+Chevrolet,2010 Chevrolet Silverado 1500,403,32
+Chevrolet,2010 Chevrolet Silverado 1500,302,23
+Chevrolet,2010 Chevrolet Silverado 1500,315,36
+Chevrolet,2010 Chevrolet Silverado 1500,302,23
+Chevrolet,2010 Chevrolet Silverado 1500,302,23
+Chevrolet,2010 Chevrolet Silverado 1500,315,36
+Chevrolet,2010 Chevrolet Silverado 1500,403,31
+Chevrolet,2010 Chevrolet Silverado 1500,315,27
+Chevrolet,2010 Chevrolet Silverado 1500,403,31
+Ford,2011 Ford E-250 Van,225,30
+Ford,2011 Ford E-250 Van,255,21
+Ford,2011 Ford E-250 Van,225,30
+Ford,2011 Ford E-250 Van,255,21
+Ford,2011 Ford E-250 Van,225,30
+Ford,2011 Ford E-250 Van,255,21
+Ford,2011 Ford E-250 Van,225,22
+Ford,2011 Ford E-250 Van,255,21
+Chevrolet,2010 Chevrolet Silverado 1500,302,24
+Chevrolet,2010 Chevrolet Silverado 1500,315,27
+Chevrolet,2010 Chevrolet Silverado 1500,302,33
+Chevrolet,2010 Chevrolet Silverado 1500,302,33
+Chevrolet,2010 Chevrolet Silverado 1500,315,27
+Chevrolet,2010 Chevrolet Silverado 1500,403,32
+Chevrolet,2010 Chevrolet Silverado 1500,315,36
+Chevrolet,2010 Chevrolet Silverado 1500,403,32
+Chevrolet,2010 Chevrolet Silverado 1500,302,23
+Chevrolet,2010 Chevrolet Silverado 1500,315,36
+Chevrolet,2010 Chevrolet Silverado 1500,302,31
+Chevrolet,2010 Chevrolet Silverado 1500,302,23
+Chevrolet,2010 Chevrolet Silverado 1500,315,36
+Chevrolet,2010 Chevrolet Silverado 1500,403,22
+Chevrolet,2010 Chevrolet Silverado 1500,315,36
+Chevrolet,2010 Chevrolet Silverado 1500,403,31
+Chevrolet,2010 Chevrolet Silverado 1500,315,27
+Chevrolet,2010 Chevrolet Silverado 1500,315,36
+Chevrolet,2010 Chevrolet Silverado 1500,315,36
+Chevrolet,2010 Chevrolet Silverado 1500,315,36
+Chevrolet,2010 Chevrolet Silverado 1500,315,27
+Chevrolet,2010 Chevrolet Silverado 1500,315,36
+Ford,2012 Ford E-350 Super Duty Van,255,28
+Ford,2012 Ford E-350 Super Duty Van,305,24
+Ford,2012 Ford E-350 Super Duty Van,255,21
+Ford,2012 Ford E-350 Super Duty Van,305,24
+Ford,2012 Ford E-350 Super Duty Van,255,28
+Ford,2012 Ford E-350 Super Duty Van,305,24
+Ford,2012 Ford E-350 Super Duty Van,255,28
+Ford,2012 Ford E-350 Super Duty Van,305,24
+Ford,2011 Ford E-350 Super Duty Van,255,27
+Ford,2011 Ford E-350 Super Duty Van,305,24
+Ford,2011 Ford E-350 Super Duty Van,255,21
+Ford,2011 Ford E-350 Super Duty Van,305,24
+Ford,2011 Ford E-350 Super Duty Van,255,21
+Ford,2011 Ford E-350 Super Duty Van,305,24
+Ford,2011 Ford E-350 Super Duty Van,255,21
+Ford,2011 Ford E-350 Super Duty Van,305,24
+Nissan,2010 Nissan Titan,317,31
+Nissan,2010 Nissan Titan,317,31
+Nissan,2010 Nissan Titan,317,29
+Nissan,2010 Nissan Titan,317,29
+Nissan,2010 Nissan Titan,317,31
+Nissan,2010 Nissan Titan,317,22
+Nissan,2010 Nissan Titan,317,29
+Nissan,2010 Nissan Titan,317,21
+Nissan,2010 Nissan Titan,317,29
+Nissan,2010 Nissan Titan,317,29
+Nissan,2010 Nissan Titan,317,31
+Nissan,2010 Nissan Titan,317,22
+Nissan,2010 Nissan Titan,317,29
+Nissan,2010 Nissan Titan,317,29
+Nissan,2010 Nissan Titan,317,31
+Nissan,2010 Nissan Titan,317,31
+Nissan,2010 Nissan Titan,317,31
+Nissan,2010 Nissan Titan,317,22
+Nissan,2010 Nissan Titan,317,29
+Nissan,2010 Nissan Titan,317,21
+Nissan,2010 Nissan Titan,317,29
+Nissan,2010 Nissan Titan,317,21
+Nissan,2010 Nissan Titan,317,29
+Nissan,2010 Nissan Titan,317,29
+Nissan,2010 Nissan Titan,317,21
+Nissan,2010 Nissan Titan,317,22
+Nissan,2010 Nissan Titan,317,29
+Nissan,2010 Nissan Titan,317,29
+Subaru,2010 Subaru Legacy,265,43
+Subaru,2010 Subaru Legacy,256,43
+Subaru,2010 Subaru Legacy,256,43
+Subaru,2011 Subaru Outback,256,43
+Subaru,2011 Subaru Outback,256,43
+Subaru,2010 Subaru Outback,256,43
+Subaru,2010 Subaru Outback,256,43
+Nissan,2012 Nissan Titan,317,31
+Nissan,2012 Nissan Titan,317,29
+Nissan,2012 Nissan Titan,317,31
+Nissan,2012 Nissan Titan,317,29
+Nissan,2012 Nissan Titan,317,29
+Nissan,2012 Nissan Titan,317,31
+Nissan,2012 Nissan Titan,317,29
+Nissan,2012 Nissan Titan,317,31
+Nissan,2012 Nissan Titan,317,31
+Nissan,2012 Nissan Titan,317,29
+Nissan,2012 Nissan Titan,317,29
+Nissan,2012 Nissan Titan,317,29
+Nissan,2012 Nissan Titan,317,31
+Nissan,2012 Nissan Titan,317,29
+Dodge,2011 Dodge Ram 1500,210,34
+Dodge,2011 Dodge Ram 1500,390,32
+Dodge,2011 Dodge Ram 1500,390,34
+Dodge,2011 Dodge Ram 1500,310,22
+Dodge,2011 Dodge Ram 1500,390,34
+Dodge,2011 Dodge Ram 1500,310,20
+Dodge,2011 Dodge Ram 1500,390,32
+Dodge,2011 Dodge Ram 1500,390,32
+Dodge,2011 Dodge Ram 1500,310,31
+Dodge,2011 Dodge Ram 1500,390,32
+Dodge,2011 Dodge Ram 1500,390,34
+Dodge,2011 Dodge Ram 1500,310,33
+Dodge,2011 Dodge Ram 1500,390,34
+Dodge,2011 Dodge Ram 1500,310,22
+Dodge,2011 Dodge Ram 1500,390,34
+Dodge,2011 Dodge Ram 1500,390,32
+Dodge,2011 Dodge Ram 1500,310,31
+Dodge,2011 Dodge Ram 1500,390,32
+Dodge,2011 Dodge Ram 1500,310,31
+Dodge,2011 Dodge Ram 1500,390,32
+Dodge,2011 Dodge Ram 1500,390,34
+Dodge,2011 Dodge Ram 1500,390,34
+Dodge,2011 Dodge Ram 1500,310,22
+Dodge,2011 Dodge Ram 1500,390,34
+Dodge,2011 Dodge Ram 1500,390,32
+Dodge,2011 Dodge Ram 1500,390,32
+Dodge,2011 Dodge Ram 1500,310,31
+Dodge,2011 Dodge Ram 1500,390,32
+Dodge,2011 Dodge Ram 1500,310,31
+Ford,2011 Ford F-150,360,36
+Ford,2011 Ford F-150,365,38
+Ford,2011 Ford F-150,360,26
+Ford,2011 Ford F-150,365,38
+Ford,2011 Ford F-150,360,26
+Ford,2011 Ford F-150,365,38
+Ford,2011 Ford F-150,360,33
+Ford,2011 Ford F-150,365,36
+Ford,2011 Ford F-150,360,33
+Ford,2011 Ford F-150,365,36
+Ford,2011 Ford F-150,360,33
+Ford,2011 Ford F-150,365,36
+Ford,2011 Ford F-150,360,36
+Ford,2011 Ford F-150,365,38
+Ford,2011 Ford F-150,360,33
+Ford,2011 Ford F-150,365,36
+Ford,2011 Ford F-150,360,36
+Ford,2011 Ford F-150,365,38
+Ford,2011 Ford F-150,360,33
+Ford,2011 Ford F-150,365,36
+Ford,2011 Ford F-150,360,26
+Ford,2011 Ford F-150,360,24
+Ford,2011 Ford F-150,360,24
+Ford,2011 Ford F-150,365,36
+Ford,2011 Ford F-150,360,36
+Ford,2011 Ford F-150,365,38
+Ford,2011 Ford F-150,411,31
+Ford,2011 Ford F-150,360,24
+Ford,2011 Ford F-150,365,36
+Ford,2011 Ford F-150,411,28
+Ford,2011 Ford F-150,360,26
+Ford,2011 Ford F-150,360,26
+Ford,2011 Ford F-150,365,38
+Ford,2011 Ford F-150,365,36
+Ford,2011 Ford F-150,360,26
+Ford,2011 Ford F-150,365,38
+Ford,2011 Ford F-150,411,31
+Ford,2011 Ford F-150,360,24
+Ford,2011 Ford F-150,365,36
+Ford,2011 Ford F-150,411,28
+Ford,2011 Ford F-150,360,36
+Ford,2011 Ford F-150,365,38
+Ford,2011 Ford F-150,360,33
+Ford,2011 Ford F-150,365,36
+Ford,2011 Ford F-150,302,29
+Ford,2011 Ford F-150,360,36
+Ford,2011 Ford F-150,302,37
+Ford,2011 Ford F-150,360,24
+Ford,2011 Ford F-150,302,29
+Ford,2011 Ford F-150,360,36
+Ford,2011 Ford F-150,302,37
+Ford,2011 Ford F-150,360,24
+Ford,2011 Ford F-150,411,28
+Ford,2011 Ford F-150,411,28
+Ford,2011 Ford F-150,302,40
+Ford,2011 Ford F-150,360,36
+Ford,2011 Ford F-150,302,37
+Ford,2011 Ford F-150,360,24
+Ford,2011 Ford F-150,365,40
+Ford,2011 Ford F-150,360,36
+Ford,2011 Ford F-150,365,38
+Ford,2011 Ford F-150,302,37
+Ford,2011 Ford F-150,360,24
+Ford,2011 Ford F-150,365,36
+Ford,2011 Ford F-150,302,29
+Ford,2011 Ford F-150,360,36
+Ford,2011 Ford F-150,365,38
+Ford,2011 Ford F-150,302,37
+Ford,2011 Ford F-150,360,33
+Ford,2011 Ford F-150,302,29
+Ford,2011 Ford F-150,360,26
+Ford,2011 Ford F-150,360,36
+Ford,2011 Ford F-150,365,38
+Ford,2011 Ford F-150,302,37
+Ford,2011 Ford F-150,360,24
+Ford,2011 Ford F-150,365,36
+Ford,2011 Ford F-150,302,29
+Ford,2011 Ford F-150,302,40
+Ford,2011 Ford F-150,360,24
+Ford,2011 Ford F-150,365,36
+Ford,2011 Ford F-150,360,36
+Ford,2011 Ford F-150,360,33
+Ford,2011 Ford F-150,302,40
+Ford,2011 Ford F-150,360,26
+Ford,2011 Ford F-150,302,37
+Ford,2011 Ford F-150,360,24
+Ford,2011 Ford F-150,302,29
+Ford,2011 Ford F-150,360,26
+Ford,2011 Ford F-150,365,38
+Ford,2011 Ford F-150,360,33
+Ford,2011 Ford F-150,360,24
+Ford,2011 Ford F-150,365,36
+Ford,2011 Ford F-150,302,29
+Ford,2011 Ford F-150,360,26
+Ford,2011 Ford F-150,365,38
+Ford,2011 Ford F-150,302,37
+Ford,2011 Ford F-150,360,24
+Ford,2011 Ford F-150,365,36
+Ford,2011 Ford F-150,302,29
+Ford,2011 Ford F-150,360,36
+Ford,2011 Ford F-150,365,38
+Ford,2011 Ford F-150,360,33
+Ford,2011 Ford F-150,365,36
+Ford,2011 Ford F-150,302,40
+Ford,2011 Ford F-150,360,26
+Ford,2011 Ford F-150,365,38
+Ford,2011 Ford F-150,360,24
+Ford,2011 Ford F-150,365,36
+Ford,2011 Ford F-150,360,36
+Ford,2011 Ford F-150,365,38
+Ford,2011 Ford F-150,360,33
+Ford,2011 Ford F-150,365,36
+Ford,2011 Ford F-150,411,31
+Ford,2011 Ford F-150,411,28
+Ford,2011 Ford F-150,411,31
+Ford,2010 Ford F-150,310,32
+Ford,2010 Ford F-150,310,23
+Ford,2010 Ford F-150,310,23
+Ford,2010 Ford F-150,310,24
+Ford,2010 Ford F-150,310,32
+Ford,2010 Ford F-150,310,24
+Ford,2010 Ford F-150,310,23
+Ford,2010 Ford F-150,310,34
+Ford,2010 Ford F-150,310,23
+Ford,2010 Ford F-150,248,34
+Ford,2010 Ford F-150,248,32
+Ford,2010 Ford F-150,292,34
+Ford,2010 Ford F-150,248,34
+Ford,2010 Ford F-150,292,36
+Ford,2010 Ford F-150,248,32
+Ford,2010 Ford F-150,292,34
+Ford,2010 Ford F-150,310,32
+Ford,2010 Ford F-150,248,34
+Ford,2010 Ford F-150,248,32
+Ford,2010 Ford F-150,248,34
+Ford,2010 Ford F-150,292,36
+Ford,2010 Ford F-150,310,24
+Ford,2010 Ford F-150,248,32
+Ford,2010 Ford F-150,292,34
+Ford,2010 Ford F-150,310,32
+Ford,2010 Ford F-150,248,34
+Ford,2010 Ford F-150,292,36
+Ford,2010 Ford F-150,310,34
+Ford,2010 Ford F-150,248,32
+Ford,2010 Ford F-150,292,34
+Ford,2010 Ford F-150,310,23
+Ford,2010 Ford F-150,248,34
+Ford,2010 Ford F-150,292,36
+Ford,2010 Ford F-150,248,32
+Ford,2010 Ford F-150,248,34
+Ford,2010 Ford F-150,292,34
+Ford,2010 Ford F-150,310,32
+Ford,2010 Ford F-150,248,34
+Ford,2010 Ford F-150,292,36
+Ford,2010 Ford F-150,292,34
+Ford,2010 Ford F-150,248,34
+Ford,2010 Ford F-150,292,36
+Ford,2010 Ford F-150,292,34
+Ford,2010 Ford F-150,248,34
+Ford,2010 Ford F-150,248,32
+Ford,2010 Ford F-150,310,32
+Ford,2010 Ford F-150,310,23
+Ford,2010 Ford F-150,248,34
+Ford,2010 Ford F-150,292,36
+Ford,2010 Ford F-150,310,34
+Ford,2010 Ford F-150,248,32
+Ford,2010 Ford F-150,292,34
+Ford,2010 Ford F-150,310,32
+Ford,2010 Ford F-150,292,36
+Ford,2010 Ford F-150,292,34
+Ford,2010 Ford F-150,248,34
+Ford,2010 Ford F-150,310,23
+Ford,2010 Ford F-150,292,36
+Ford,2010 Ford F-150,310,34
+Ford,2010 Ford F-150,292,34
+Ford,2010 Ford F-150,310,32
+Ford,2010 Ford F-150,292,36
+Ford,2010 Ford F-150,310,24
+Ford,2010 Ford F-150,292,34
+Ford,2010 Ford F-150,310,23
+Ford,2010 Ford F-150,292,36
+Ford,2010 Ford F-150,310,24
+Ford,2010 Ford F-150,292,34
+Ford,2010 Ford F-150,310,32
+GMC,2011 GMC Sierra 1500 Hybrid,332,43
+GMC,2011 GMC Sierra 1500 Hybrid,332,43
+GMC,2011 GMC Sierra 1500 Hybrid,332,43
+GMC,2011 GMC Sierra 1500 Hybrid,332,43
+GMC,2010 GMC Sierra 1500 Hybrid,332,43
+GMC,2010 GMC Sierra 1500 Hybrid,332,43
+GMC,2010 GMC Sierra 1500 Hybrid,332,43
+GMC,2010 GMC Sierra 1500 Hybrid,332,43
+Ford,2011 Ford F-150,411,28
+Aston Martin,2011 Aston Martin DB9 Volante,470,28
+BMW,2011 BMW 5 Series Sedan,240,54
+BMW,2011 BMW 5 Series Sedan,300,48
+BMW,2011 BMW 5 Series Sedan,400,40
+Mercedes,2010 Mercedes-Benz C-Class,228,44
+Mercedes,2010 Mercedes-Benz C-Class,228,44
+Dodge,2011 Dodge Ram 1500,215,34
+Dodge,2011 Dodge Ram 1500,310,22
+Dodge,2011 Dodge Ram 1500,390,34
+Dodge,2011 Dodge Ram 1500,310,31
+Dodge,2011 Dodge Ram 1500,390,32
+Dodge,2011 Dodge Ram 1500,310,22
+Dodge,2011 Dodge Ram 1500,390,34
+Dodge,2011 Dodge Ram 1500,310,31
+Dodge,2011 Dodge Ram 1500,390,32
+Dodge,2011 Dodge Ram 1500,310,34
+Dodge,2011 Dodge Ram 1500,390,32
+Dodge,2011 Dodge Ram 1500,310,31
+BMW Motorrad,2012 BMW 1 Series Convertible,230,46
+BMW Motorrad,2012 BMW 1 Series Convertible,230,45
+BMW,2012 BMW 1 Series Convertible,300,47
+BMW Motorrad,2012 BMW 1 Series Coup,230,46
+BMW Motorrad,2012 BMW 1 Series Coup,230,46
+BMW,2012 BMW 1 Series Coup,300,48
+BMW,2012 BMW 1 Series Coup,300,43
+BMW Motorrad,2012 BMW 3 Series Sports Wagon,230,43
+BMW Motorrad,2012 BMW 3 Series Sports Wagon,230,45
+BMW Motorrad,2012 BMW 3 Series Sports Wagon,230,42
+BMW Motorrad,2012 BMW 3 Series Sports Wagon,230,42
+Ford,2012 Ford Focus 5-Door,160,62
+Ford,2012 Ford Focus 5-Door,160,66
+Ford,2012 Ford Focus 5-Door,160,64
+Ford,2012 Ford Focus 5-Door,160,64
+Nissan,2012 Nissan 370Z Roadster,332,43
+Nissan,2012 Nissan 370Z Roadster,332,43
+Nissan,2012 Nissan 370Z Roadster,332,43
+Nissan,2012 Nissan 370Z Coupe,332,44
+Nissan,2012 Nissan 370Z Coupe,332,44
+Nissan,2012 Nissan 370Z Coupe,332,44
+Nissan,2012 Nissan 370Z Coupe,332,45
+Nissan,2012 Nissan 370Z Coupe,332,45
+Nissan,2012 Nissan JUKE,188,56
+Nissan,2012 Nissan JUKE,188,56
+Hyundai,2012 Hyundai Veloster,138,68
+Hyundai,2012 Hyundai Equus,429,38
+Hyundai,2012 Hyundai Equus,429,38
+Hyundai,2012 Hyundai Santa Fe,276,46
+Hyundai,2012 Hyundai Santa Fe,276,46
+Hyundai,2012 Hyundai Santa Fe,175,48
+Hyundai,2012 Hyundai Santa Fe,276,46
+Hyundai,2012 Hyundai Santa Fe,276,46
+Hyundai,2012 Hyundai Santa Fe,276,46
+Hyundai,2012 Hyundai Santa Fe,175,48
+Hyundai,2012 Hyundai Santa Fe,276,46
+Hyundai,2012 Hyundai Santa Fe,175,45
+Ford,2012 Ford Expedition,310,24
+Ford,2012 Ford Expedition,310,34
+Ford,2012 Ford Expedition,310,34
+Ford,2012 Ford Expedition,310,24
+Ford,2012 Ford Expedition,310,34
+Ford,2012 Ford Expedition,310,24
+Ford,2012 Ford Expedition,310,24
+Ford,2012 Ford Expedition,310,24
+Ford,2012 Ford Expedition,310,22
+Ford,2012 Ford Expedition,310,31
+Ford,2012 Ford Expedition,310,22
+Ford,2012 Ford Expedition,310,31
+Ford,2012 Ford Expedition,310,22
+Ford,2012 Ford Expedition,310,22
+Ford,2012 Ford Expedition,310,22
+Ford,2012 Ford Expedition,310,31
+Nissan,2012 Nissan Xterra,261,38
+Nissan,2012 Nissan Xterra,261,35
+Nissan,2012 Nissan Xterra,261,38
+Nissan,2012 Nissan Xterra,261,36
+Nissan,2012 Nissan Xterra,261,35
+Nissan,2012 Nissan Xterra,261,36
+Nissan,2012 Nissan Xterra,261,35
+Nissan,2012 Nissan Pathfinder,266,37
+Nissan,2012 Nissan Pathfinder,266,34
+Nissan,2012 Nissan Pathfinder,266,37
+Nissan,2012 Nissan Pathfinder,266,34
+Nissan,2012 Nissan Pathfinder,266,37
+Nissan,2012 Nissan Pathfinder,266,34
+Nissan,2012 Nissan Pathfinder,266,37
+Nissan,2012 Nissan Pathfinder,266,34
+Nissan,2012 Nissan Pathfinder,310,31
+Hyundai,2012 Hyundai Veracruz,260,39
+Hyundai,2012 Hyundai Veracruz,260,37
+Hyundai,2012 Hyundai Veracruz,260,37
+Hyundai,2012 Hyundai Veracruz,260,39
+Infiniti,2012 Infiniti G25,218,49
+Infiniti,2012 Infiniti G25,218,49
+Infiniti,2012 Infiniti G25,218,46
+Infiniti,2012 Infiniti G37 Sedan,328,46
+Infiniti,2012 Infiniti G37 Sedan,328,43
+Infiniti,2012 Infiniti G37 Sedan,328,42
+Infiniti,2012 Infiniti G37 Coupe,330,46
+Infiniti,2012 Infiniti G37 Coupe,330,46
+Infiniti,2012 Infiniti G37 Coupe,330,43
+Infiniti,2012 Infiniti G37 Coupe,330,42
+Volvo,2012 Volvo C30,227,50
+Volvo,2012 Volvo C30,227,50
+Jeep,2012 Jeep Compass,172,50
+Jeep,2012 Jeep Compass,158,52
+Nissan,2012 Nissan Armada,317,32
+Nissan,2012 Nissan Armada,317,31
+Nissan,2012 Nissan Armada,317,30
+Nissan,2012 Nissan Armada,317,30
+Nissan,2012 Nissan Armada,317,32
+Nissan,2012 Nissan Armada,317,22
+Nissan,2012 Nissan Armada,317,30
+Nissan,2012 Nissan Armada,317,30
+Nissan,2012 Nissan Armada,317,32
+Nissan,2012 Nissan Armada,317,31
+Nissan,2012 Nissan Armada,317,30
+Nissan,2012 Nissan Armada,317,30
+Lexus,2012 Lexus IS,204,51
+Lexus,2012 Lexus IS,204,47
+Lexus,2012 Lexus IS,204,47
+Lexus,2012 Lexus IS,306,46
+Lexus,2012 Lexus IS,306,44
+Lexus,2012 Lexus IS C,204,46
+Lexus,2012 Lexus IS C,204,47
+Lexus,2012 Lexus IS C,204,51
+Lexus,2012 Lexus IS F,416,39
+Lexus,2012 Lexus ES,268,47
+Lexus,2012 Lexus LS,380,40
+Lexus,2012 Lexus LS,380,39
+Lexus,2012 Lexus LS,380,40
+Lexus,2012 Lexus LS,380,39
+Toyota,2012 Toyota Sienna,187,43
+Toyota,2012 Toyota Sienna,266,43
+Toyota,2012 Toyota Sienna,187,43
+Toyota,2012 Toyota Sienna,266,43
+Toyota,2012 Toyota Sienna,266,40
+Toyota,2012 Toyota Sienna,266,43
+Toyota,2012 Toyota Sienna,266,43
+Toyota,2012 Toyota Sienna,266,43
+Toyota,2012 Toyota Sienna,266,40
+Toyota,2012 Toyota Sienna,266,43
+Toyota,2012 Toyota Sienna,266,43
+Toyota,2012 Toyota Sienna,266,40
+Audi,2012 Audi A5 Cabriolet,211,50
+Audi,2012 Audi A8,372,46
+Audi,2012 Audi A8,372,46
+Audi,2012 Audi A8,500,35
+Audi,2012 Audi TT RS,360,43
+Honda,2012 Honda Accord Sedan,177,57
+Honda,2012 Honda Accord Sedan,177,57
+Honda,2012 Honda Accord Sedan,177,57
+Honda,2012 Honda Accord Sedan,177,57
+Honda,2012 Honda Accord Sedan,190,57
+Honda,2012 Honda Accord Sedan,190,57
+Honda,2012 Honda Accord Sedan,271,50
+Honda,2012 Honda Accord Sedan,190,57
+Honda,2012 Honda Accord Sedan,271,50
+Honda,2012 Honda Accord Coupe,190,55
+Honda,2012 Honda Accord Coupe,190,55
+Lexus,2012 Lexus RX,270,42
+Lexus,2012 Lexus RX,270,43
+Honda,2012 Honda Accord Coupe,190,55
+Honda,2012 Honda Accord Coupe,190,55
+Honda,2012 Honda Accord Coupe,190,55
+Honda,2012 Honda Accord Coupe,271,43
+Honda,2012 Honda Accord Coupe,271,48
+Infiniti,2012 Infiniti G37 Convertible,325,42
+Infiniti,2012 Infiniti G37 Convertible,325,40
+Infiniti,2012 Infiniti IPL G Coupe,348,46
+Infiniti,2012 Infiniti IPL G Coupe,348,42
+Lexus,2012 Lexus LFA,552,27
+Infiniti,2012 Infiniti EX,297,41
+Infiniti,2012 Infiniti EX,297,41
+Infiniti,2012 Infiniti EX,297,41
+Infiniti,2012 Infiniti EX,297,41
+Infiniti,2012 Infiniti FX,303,39
+Infiniti,2012 Infiniti FX,303,37
+Infiniti,2012 Infiniti FX,390,34
+Infiniti,2012 Infiniti QX56,400,34
+Infiniti,2012 Infiniti QX56,400,34
+Dodge,2012 Dodge Durango,290,29
+Dodge,2012 Dodge Durango,290,29
+Dodge,2012 Dodge Durango,290,39
+Dodge,2012 Dodge Durango,360,34
+Dodge,2012 Dodge Durango,290,39
+Dodge,2012 Dodge Durango,360,33
+Dodge,2012 Dodge Durango,360,34
+Dodge,2012 Dodge Durango,360,33
+Dodge,2012 Dodge Durango,290,29
+Dodge,2012 Dodge Durango,360,34
+Dodge,2012 Dodge Durango,290,39
+Dodge,2012 Dodge Durango,360,33
+Grand Cherokee,2012 Jeep Grand Cherokee,465,30
+Grand Cherokee,2012 Jeep Grand Cherokee,290,40
+Grand Cherokee,2012 Jeep Grand Cherokee,290,40
+Grand Cherokee,2012 Jeep Grand Cherokee,290,30
+Grand Cherokee,2012 Jeep Grand Cherokee,290,39
+Grand Cherokee,2012 Jeep Grand Cherokee,290,39
+Grand Cherokee,2012 Jeep Grand Cherokee,290,39
+Grand Cherokee,2012 Jeep Grand Cherokee,290,40
+Grand Cherokee,2012 Jeep Grand Cherokee,290,29
+Toyota,2012 Toyota 4Runner,270,40
+Toyota,2012 Toyota 4Runner,270,39
+Toyota,2012 Toyota 4Runner,270,39
+Toyota,2012 Toyota 4Runner,270,40
+Toyota,2012 Toyota 4Runner,270,39
+Mazda,2012 Mazda Mazda2,100,64
+Mazda,2012 Mazda Mazda2,100,64
+Mazda,2012 Mazda Mazda2,100,62
+Mazda,2012 Mazda Mazda2,100,62
+Toyota,2012 Toyota Sequoia,310,34
+Toyota,2012 Toyota Sequoia,381,31
+Toyota,2012 Toyota Sequoia,310,31
+Toyota,2012 Toyota Sequoia,381,30
+Toyota,2012 Toyota Sequoia,381,30
+Toyota,2012 Toyota Sequoia,381,31
+Toyota,2012 Toyota Sequoia,381,30
+Toyota,2012 Toyota Sequoia,381,30
+Mazda,2012 Mazda Mazda3 4-Door,148,58
+Mazda,2012 Mazda Mazda3 4-Door,148,58
+Mazda,2012 Mazda Mazda3 4-Door,148,57
+Mazda,2012 Mazda Mazda3 4-Door,155,66
+Mazda,2012 Mazda Mazda3 4-Door,155,68
+Mazda,2012 Mazda Mazda3 4-Door,155,68
+Mazda,2012 Mazda Mazda3 4-Door,167,48
+Mazda,2012 Mazda Mazda3 4-Door,167,51
+Dodge,2012 Dodge Charger,370,41
+Dodge,2012 Dodge Charger,370,38
+Volkswagen,2012 Volkswagen Tiguan,200,44
+Volkswagen,2012 Volkswagen Tiguan,200,49
+Volkswagen,2012 Volkswagen Tiguan,200,48
+Volkswagen,2012 Volkswagen Tiguan,200,49
+Volkswagen,2012 Volkswagen Tiguan,200,48
+Volkswagen,2012 Volkswagen Tiguan,200,49
+Volkswagen,2012 Volkswagen Tiguan,200,48
+Dodge,2012 Dodge Challenger,305,45
+Dodge,2012 Dodge Challenger,376,38
+Dodge,2012 Dodge Challenger,376,41
+Dodge,2012 Dodge Challenger,470,37
+Dodge,2012 Dodge Challenger,470,37
+Dodge,2012 Dodge Avenger,173,51
+Dodge,2012 Dodge Avenger,173,51
+Dodge,2012 Dodge Avenger,283,35
+Dodge,2012 Dodge Avenger,283,35
+Dodge,2012 Dodge Caliber,158,56
+Dodge,2012 Dodge Caliber,158,56
+Volkswagen,2012 Volkswagen Jetta,115,58
+Volkswagen,2012 Volkswagen Jetta,115,52
+Volkswagen,2012 Volkswagen Jetta,170,56
+Volkswagen,2012 Volkswagen Jetta,170,55
+Volkswagen,2012 Volkswagen Jetta,170,56
+Volkswagen,2012 Volkswagen Jetta,170,55
+Volkswagen,2012 Volkswagen Jetta,140,72
+Volkswagen,2012 Volkswagen Jetta,200,55
+Volkswagen,2012 Volkswagen Jetta,170,55
+Volkswagen,2012 Volkswagen Jetta SportWagen,170,56
+Volkswagen,2012 Volkswagen Jetta SportWagen,170,55
+Volkswagen,2012 Volkswagen Jetta SportWagen,170,55
+Volkswagen,2012 Volkswagen Jetta SportWagen,140,72
+Volkswagen,2012 Volkswagen CC,200,52
+Volkswagen,2012 Volkswagen CC,200,52
+Volkswagen,2012 Volkswagen CC,280,42
+Mazda,2012 Mazda Mazda3 5-Door,155,65
+Mazda,2012 Mazda Mazda3 5-Door,155,67
+Mazda,2012 Mazda Mazda3 5-Door,155,67
+Mazda,2012 Mazda Mazda3 5-Door,167,48
+Mazda,2012 Mazda Mazda3 5-Door,167,51
+Mazda,2012 Mazda Mazdaspeed3,263,43
+Dodge,2012 Dodge Grand Caravan,283,42
+Dodge,2012 Dodge Grand Caravan,283,30
+Dodge,2012 Dodge Grand Caravan,283,30
+Dodge,2012 Dodge Grand Caravan,283,30
+Dodge,2012 Dodge Grand Caravan,283,42
+Mazda,2012 Mazda MX-5 Miata,167,50
+Mazda,2012 Mazda MX-5 Miata,167,49
+Mazda,2012 Mazda MX-5 Miata,167,49
+Mazda,2012 Mazda MX-5 Miata,167,49
+Mazda,2012 Mazda MX-5 Miata,167,49
+Mazda,2012 Mazda MX-5 Miata,167,49
+Dodge,2012 Dodge Journey,173,45
+Dodge,2012 Dodge Journey,173,45
+Dodge,2012 Dodge Journey,283,31
+Dodge,2012 Dodge Journey,283,40
+Dodge,2012 Dodge Journey,283,31
+Dodge,2012 Dodge Journey,283,40
+Dodge,2012 Dodge Journey,283,42
+Dodge,2012 Dodge Journey,283,40
+Mazda,2012 Mazda CX-9,273,41
+Mazda,2012 Mazda CX-9,273,38
+Mazda,2012 Mazda CX-9,273,41
+Mazda,2012 Mazda CX-9,273,38
+Mazda,2012 Mazda CX-9,273,41
+Mazda,2012 Mazda CX-9,273,38
+Kia,2012 Kia Forte,156,59
+Kia,2012 Kia Forte,156,62
+Kia,2012 Kia Forte,156,62
+Kia,2012 Kia Forte,173,55
+Kia,2012 Kia Forte Koup,156,57
+Kia,2012 Kia Forte Koup,156,59
+Kia,2012 Kia Forte Koup,173,54
+Kia,2012 Kia Forte Koup,173,54
+Kia,2012 Kia Forte 5-Door,156,62
+Kia,2012 Kia Forte 5-Door,173,55
+Honda,2012 Honda Civic Sedan,140,67
+Honda,2012 Honda Civic Sedan,140,64
+Honda,2012 Honda Civic Sedan,140,64
+Honda,2012 Honda Civic Sedan,140,67
+Kia,2012 Kia Optima,200,59
+Kia,2012 Kia Optima,200,59
+Kia,2012 Kia Optima,200,59
+Kia,2012 Kia Optima,274,56
+Kia,2012 Kia Optima,274,56
+Kia,2012 Kia Rio 5-Door,138,70
+Kia,2012 Kia Rio 5-Door,138,70
+Kia,2012 Kia Rio 5-Door,138,70
+Kia,2012 Kia Rio 5-Door,138,70
+Kia,2012 Kia Soul,138,62
+Kia,2012 Kia Soul,138,62
+Kia,2012 Kia Soul,164,60
+Kia,2012 Kia Soul,164,60
+Kia,2012 Kia Soul,164,60
+Volkswagen,2012 Volkswagen Passat,170,54
+Volkswagen,2012 Volkswagen Passat,170,54
+Volkswagen,2012 Volkswagen Passat,170,53
+Volkswagen,2012 Volkswagen Passat,170,53
+Volkswagen,2012 Volkswagen Passat,170,53
+Volkswagen,2012 Volkswagen Passat,140,74
+Volkswagen,2012 Volkswagen Touareg,280,39
+Volkswagen,2012 Volkswagen Touareg,280,39
+Volkswagen,2012 Volkswagen Touareg,280,39
+Volkswagen,2012 Volkswagen Touareg,225,47
+Volkswagen,2012 Volkswagen Touareg,225,47
+Volkswagen,2012 Volkswagen Touareg,225,47
+Volkswagen,2012 Volkswagen Touareg Hybrid,380,44
+GMC,2012 GMC Acadia,288,41
+GMC,2012 GMC Acadia,288,41
+GMC,2012 GMC Acadia,288,41
+GMC,2012 GMC Acadia,288,41
+GMC,2012 GMC Acadia,288,39
+GMC,2012 GMC Acadia,288,39
+GMC,2012 GMC Acadia,288,39
+GMC,2012 GMC Acadia,288,39
+GMC,2012 GMC Acadia,288,41
+GMC,2012 GMC Acadia,288,39
+GMC,2012 GMC Terrain,182,54
+GMC,2012 GMC Terrain,182,49
+GMC,2012 GMC Terrain,182,54
+GMC,2012 GMC Terrain,182,49
+GMC,2012 GMC Terrain,182,54
+GMC,2012 GMC Terrain,182,49
+GMC,2012 GMC Terrain,182,54
+GMC,2012 GMC Terrain,182,49
+GMC,2012 GMC Terrain,264,30
+GMC,2012 GMC Terrain,264,29
+GMC,2012 GMC Terrain,264,30
+GMC,2012 GMC Terrain,264,39
+GMC,2012 GMC Terrain,264,30
+GMC,2012 GMC Terrain,264,29
+GMC,2012 GMC Yukon,320,36
+GMC,2012 GMC Yukon,320,36
+GMC,2012 GMC Yukon,320,27
+GMC,2012 GMC Yukon,320,27
+GMC,2012 GMC Yukon XL,320,36
+GMC,2012 GMC Yukon XL,320,36
+GMC,2012 GMC Yukon XL,320,36
+GMC,2012 GMC Yukon XL,320,36
+GMC,2012 GMC Yukon XL,352,26
+GMC,2012 GMC Yukon XL,352,25
+GMC,2012 GMC Yukon XL,352,25
+Honda,2012 Honda Civic Sedan,140,67
+Honda,2012 Honda Civic Sedan,140,67
+Honda,2012 Honda Civic Sedan,201,53
+Grand Cherokee,2012 Jeep Grand Cherokee,360,33
+Honda,2012 Honda Civic Sedan,140,70
+Grand Cherokee,2012 Jeep Grand Cherokee,360,33
+GMC,2012 GMC Yukon Hybrid,332,43
+GMC,2012 GMC Yukon Hybrid,332,43
+Grand Cherokee,2012 Jeep Grand Cherokee,290,29
+Grand Cherokee,2012 Jeep Grand Cherokee,290,40
+Grand Cherokee,2012 Jeep Grand Cherokee,360,33
+Volvo,2012 Volvo C30,227,51
+Volvo,2012 Volvo C30,227,51
+Volvo,2012 Volvo C70,227,46
+GMC,2012 GMC Savana,310,23
+GMC,2012 GMC Savana,310,30
+GMC,2012 GMC Savana,310,30
+GMC,2012 GMC Savana,310,30
+GMC,2012 GMC Savana,280,28
+GMC,2012 GMC Savana,324,27
+GMC,2012 GMC Savana,280,20
+GMC,2012 GMC Savana,324,19
+GMC,2012 GMC Savana,280,20
+GMC,2012 GMC Savana,324,19
+GMC,2012 GMC Savana,280,20
+GMC,2012 GMC Savana,324,19
+Honda,2012 Honda Civic Coupe,140,64
+Honda,2012 Honda Civic Coupe,140,67
+Honda,2012 Honda Civic Coupe,140,64
+Honda,2012 Honda Civic Coupe,140,67
+Honda,2012 Honda Civic Coupe,140,64
+Honda,2012 Honda Civic Coupe,140,67
+Honda,2012 Honda Civic Coupe,140,67
+Honda,2012 Honda Civic Coupe,201,53
+Volkswagen,2012 Volkswagen Golf 2-Door,170,56
+Volkswagen,2012 Volkswagen Golf 2-Door,170,55
+Volkswagen,2012 Volkswagen Golf 2-Door,140,72
+Volkswagen,2012 Volkswagen Golf 4-Door,170,55
+Volkswagen,2012 Volkswagen Golf 4-Door,140,72
+Volkswagen,2012 Volkswagen Golf R 2-Door,256,46
+Jeep,2012 Jeep Compass,172,51
+Cadillac,2012 Cadillac CTS Coupe,318,45
+Cadillac,2012 Cadillac CTS Coupe,318,45
+Cadillac,2012 Cadillac CTS Coupe,318,45
+Cadillac,2012 Cadillac CTS Coupe,318,45
+Cadillac,2012 Cadillac CTS Coupe,318,45
+Cadillac,2012 Cadillac CTS Coupe,318,45
+Jaguar,2012 Jaguar XF,385,42
+Jaguar,2012 Jaguar XF,385,42
+Jaguar,2012 Jaguar XF,470,36
+Jaguar,2012 Jaguar XF,470,36
+Jaguar,2012 Jaguar XJ,385,42
+Jaguar,2012 Jaguar XJ,385,37
+Jaguar,2012 Jaguar XJ,470,36
+Jaguar,2012 Jaguar XJ,470,36
+Jaguar,2012 Jaguar XJ,510,36
+Jaguar,2012 Jaguar XJ,510,36
+Cadillac,2012 Cadillac CTS Sport Sedan,270,42
+Cadillac,2012 Cadillac CTS Sport Sedan,270,45
+Cadillac,2012 Cadillac CTS Sport Sedan,270,44
+Cadillac,2012 Cadillac CTS Sport Sedan,270,42
+Cadillac,2012 Cadillac CTS Sport Sedan,270,45
+Cadillac,2012 Cadillac CTS Sport Sedan,318,45
+Cadillac,2012 Cadillac CTS Sport Sedan,318,45
+Cadillac,2012 Cadillac CTS Sport Sedan,318,45
+Cadillac,2012 Cadillac CTS Sport Sedan,318,45
+Cadillac,2012 Cadillac CTS Sport Sedan,270,44
+Grand Cherokee,2012 Jeep Grand Cherokee,360,33
+Jaguar,2012 Jaguar XK Coup,550,37
+Jaguar,2012 Jaguar XK Coup,385,40
+Jaguar,2012 Jaguar XK Coup,510,37
+Jaguar,2012 Jaguar XK Convertible,385,38
+Jaguar,2012 Jaguar XK Convertible,510,37
+Jeep,2012 Jeep Liberty,210,36
+Jeep,2012 Jeep Liberty,210,36
+Jeep,2012 Jeep Liberty,210,38
+Jeep,2012 Jeep Liberty,210,36
+Jeep,2012 Jeep Liberty,210,36
+Jeep,2012 Jeep Liberty,210,38
+Jeep,2012 Jeep Liberty,210,38
+Cadillac,2012 Cadillac CTS Sport Wagon,270,45
+Cadillac,2012 Cadillac CTS Sport Wagon,270,44
+Cadillac,2012 Cadillac CTS Sport Wagon,270,45
+Cadillac,2012 Cadillac CTS Sport Wagon,270,44
+Cadillac,2012 Cadillac CTS Sport Wagon,318,44
+Cadillac,2012 Cadillac CTS Sport Wagon,318,44
+Cadillac,2012 Cadillac CTS Sport Wagon,318,44
+Cadillac,2012 Cadillac CTS Sport Wagon,318,44
+Honda,2012 Honda Accord Crosstour Hatchback,271,45
+Cadillac,2012 Cadillac CTS-V Coupe,556,33
+Cadillac,2012 Cadillac CTS-V Coupe,556,30
+Volvo,2012 Volvo XC90,240,39
+Volvo,2012 Volvo XC90,240,39
+Honda,2012 Honda Accord Crosstour Hatchback,271,45
+Volvo,2012 Volvo XC70,240,42
+Cadillac,2012 Cadillac CTS-V Sedan,556,33
+Cadillac,2012 Cadillac CTS-V Sedan,556,30
+Volvo,2012 Volvo XC60,240,42
+Honda,2012 Honda Accord Crosstour Hatchback,271,44
+Volkswagen,2012 Volkswagen Golf R 4-Door,256,46
+Volkswagen,2012 Volkswagen Routan,283,42
+Volkswagen,2012 Volkswagen Routan,283,30
+Volkswagen,2012 Volkswagen Routan,283,42
+Volkswagen,2012 Volkswagen Routan,283,42
+Volkswagen,2012 Volkswagen GTI 2-Door,200,52
+Volkswagen,2012 Volkswagen GTI 2-Door,200,52
+Grand Cherokee,2012 Jeep Grand Cherokee,360,34
+Grand Cherokee,2012 Jeep Grand Cherokee,360,34
+Grand Cherokee,2012 Jeep Grand Cherokee,360,34
+Grand Cherokee,2012 Jeep Grand Cherokee,360,34
+Volvo,2012 Volvo C30,227,50
+Volvo,2012 Volvo C30,227,50
+Volvo,2012 Volvo C30,227,50
+Volvo,2012 Volvo C30,227,50
+Volvo,2012 Volvo C30,227,51
+Volvo,2012 Volvo C30,227,51
+Volvo,2012 Volvo C30,227,51
+Volvo,2012 Volvo C30,227,51
+Volvo,2012 Volvo C70,227,46
+Volvo,2012 Volvo C70,227,46
+Volvo,2012 Volvo XC60,240,44
+Volvo,2012 Volvo XC60,240,44
+Volvo,2012 Volvo XC60,240,44
+Volvo,2012 Volvo XC60,300,40
+Volvo,2012 Volvo XC60,300,40
+Volvo,2012 Volvo XC60,325,40
+Volvo,2012 Volvo XC60,325,40
+Volkswagen,2012 Volkswagen GTI 4-Door,200,52
+Volkswagen,2012 Volkswagen GTI 4-Door,200,52
+Jeep,2012 Jeep Patriot,172,50
+Jeep,2012 Jeep Patriot,172,51
+Jeep,2012 Jeep Patriot,158,52
+Jeep,2012 Jeep Patriot,172,51
+Jeep,2012 Jeep Patriot,158,52
+Volkswagen,2012 Volkswagen Beetle,170,53
+Volkswagen,2012 Volkswagen Beetle,170,51
+Volkswagen,2012 Volkswagen Beetle,200,51
+Cadillac,2012 Cadillac CTS-V Wagon,556,33
+Cadillac,2012 Cadillac CTS-V Wagon,556,30
+Jeep,2012 Jeep Wrangler,285,38
+Jeep,2012 Jeep Wrangler,285,38
+Jeep,2012 Jeep Wrangler,285,38
+Jeep,2012 Jeep Wrangler,285,38
+Jeep,2012 Jeep Wrangler,285,38
+Jeep,2012 Jeep Wrangler,285,38
+Jeep,2012 Jeep Wrangler,285,38
+Jeep,2012 Jeep Wrangler,285,38
+Jeep,2012 Jeep Wrangler,285,38
+Jeep,2012 Jeep Wrangler,285,38
+Cadillac,2012 Cadillac SRX Crossover,308,30
+Cadillac,2012 Cadillac SRX Crossover,308,41
+Cadillac,2012 Cadillac SRX Crossover,308,29
+Cadillac,2012 Cadillac SRX Crossover,308,41
+Cadillac,2012 Cadillac SRX Crossover,308,39
+Cadillac,2012 Cadillac SRX Crossover,308,30
+Cadillac,2012 Cadillac SRX Crossover,308,39
+GMC,2012 GMC Savana,195,35
+GMC,2012 GMC Savana,310,31
+GMC,2012 GMC Savana,310,30
+Jeep,2012 Jeep Wrangler,285,38
+Jeep,2012 Jeep Wrangler,285,38
+Volvo,2012 Volvo XC70,240,44
+Volvo,2012 Volvo XC70,300,40
+Volvo,2012 Volvo XC70,240,44
+Volvo,2012 Volvo XC70,240,44
+Volvo,2012 Volvo XC70,300,40
+BMW Motorrad,2012 BMW 3 Series Coup,230,46
+BMW Motorrad,2012 BMW 3 Series Coup,230,46
+BMW Motorrad,2012 BMW 3 Series Coup,230,42
+BMW Motorrad,2012 BMW 3 Series Coup,230,42
+BMW,2012 BMW 3 Series Coup,300,47
+BMW,2012 BMW 3 Series Coup,300,46
+BMW,2012 BMW 3 Series Coup,320,44
+BMW,2012 BMW 3 Series Coup,320,41
+BMW,2012 BMW 3 Series Coup,300,46
+BMW,2012 BMW 3 Series Coup,300,45
+BMW,2012 BMW 3 Series Coup,414,34
+BMW,2012 BMW 3 Series Coup,414,34
+Volvo,2012 Volvo XC90,240,39
+Volvo,2012 Volvo XC90,240,39
+Volvo,2012 Volvo XC90,240,39
+Volvo,2012 Volvo XC90,240,39
+Volvo,2012 Volvo XC60,240,42
+Volvo,2012 Volvo XC60,240,42
+Volvo,2012 Volvo XC60,240,42
+Volvo,2012 Volvo XC70,240,42
+Volvo,2012 Volvo XC70,240,42
+Volvo,2012 Volvo XC70,240,42
+Land Rover,2012 Land Rover LR4,375,29
+Land Rover,2012 Land Rover LR4,375,29
+Land Rover,2012 Land Rover LR4,375,29
+Cadillac,2012 Cadillac Escalade,403,32
+Cadillac,2012 Cadillac Escalade,403,24
+Cadillac,2012 Cadillac Escalade,403,25
+Cadillac,2012 Cadillac Escalade,403,24
+Cadillac,2012 Cadillac Escalade,403,32
+Cadillac,2012 Cadillac Escalade,403,31
+Cadillac,2012 Cadillac Escalade,403,32
+Cadillac,2012 Cadillac Escalade,403,31
+Cadillac,2012 Cadillac Escalade Hybrid,332,43
+Cadillac,2012 Cadillac Escalade Hybrid,332,43
+Cadillac,2012 Cadillac Escalade Hybrid,332,43
+Cadillac,2012 Cadillac Escalade Hybrid,332,43
+Cadillac,2012 Cadillac Escalade ESV,403,32
+Cadillac,2012 Cadillac Escalade ESV,403,31
+Cadillac,2012 Cadillac Escalade ESV,403,32
+Cadillac,2012 Cadillac Escalade ESV,403,31
+Cadillac,2012 Cadillac Escalade ESV,403,25
+Cadillac,2012 Cadillac Escalade ESV,403,22
+Cadillac,2012 Cadillac Escalade ESV,403,32
+Cadillac,2012 Cadillac Escalade ESV,403,22
+Land Rover,2012 Land Rover Range Rover,375,30
+Land Rover,2012 Land Rover Range Rover,510,30
+Land Rover,2012 Land Rover Range Rover,510,30
+Land Rover,2012 Land Rover Range Rover,375,30
+BMW Motorrad,2012 BMW 3 Series Convertible,230,43
+BMW Motorrad,2012 BMW 3 Series Convertible,230,45
+BMW,2012 BMW 3 Series Convertible,300,47
+BMW,2012 BMW 3 Series Convertible,300,46
+BMW,2012 BMW 3 Series Convertible,320,44
+BMW,2012 BMW 3 Series Convertible,320,41
+BMW,2012 BMW 3 Series Convertible,414,33
+BMW,2012 BMW 3 Series Convertible,414,34
+Land Rover,2012 Land Rover Range Rover Sport,375,31
+Land Rover,2012 Land Rover Range Rover Sport,510,29
+Land Rover,2012 Land Rover Range Rover Sport,375,31
+Land Rover,2012 Land Rover Range Rover Sport,510,29
+Volvo,2012 Volvo XC90,240,39
+Volvo,2012 Volvo XC90,240,39
+BMW,2012 BMW 5 Series Sedan,240,57
+BMW,2012 BMW 5 Series Sedan,240,54
+BMW,2012 BMW 5 Series Sedan,240,54
+BMW,2012 BMW 5 Series Sedan,300,48
+BMW,2012 BMW 5 Series Sedan,300,52
+BMW,2012 BMW 5 Series Sedan,300,51
+BMW,2012 BMW 5 Series Sedan,400,37
+BMW,2012 BMW 5 Series Sedan,400,38
+BMW,2012 BMW 5 Series Sedan,400,35
+Volvo,2012 Volvo XC90,240,39
+Volvo,2012 Volvo XC90,240,39
+Aston Martin,2012 Aston Martin DB9 Coup,470,33
+Aston Martin,2012 Aston Martin DB9 Coup,470,33
+Aston Martin,2012 Aston Martin DB9 Coup,470,33
+Aston Martin,2012 Aston Martin DB9 Volante,470,28
+Aston Martin,2012 Aston Martin DB9 Volante,470,28
+Acura,2012 Acura RL,300,41
+Acura,2012 Acura TSX,201,53
+Acura,2012 Acura TSX,201,53
+Acura,2012 Acura TSX,201,50
+Acura,2012 Acura TSX,280,47
+Acura,2012 Acura TSX Sport Wagon,201,52
+Acura,2012 Acura ZDX,300,39
+Acura,2012 Acura MDX,300,37
+Subaru,2012 Subaru Impreza Hatchback,148,59
+Subaru,2012 Subaru Impreza Hatchback,148,59
+Subaru,2012 Subaru Impreza Hatchback,148,59
+Subaru,2012 Subaru Impreza Hatchback,148,59
+Subaru,2012 Subaru Impreza Hatchback,148,59
+Subaru,2012 Subaru Impreza Hatchback,148,59
+Subaru,2012 Subaru Legacy,170,46
+Subaru,2012 Subaru Legacy,170,46
+Subaru,2012 Subaru Legacy,265,43
+Subaru,2012 Subaru Legacy,256,43
+Subaru,2012 Subaru Legacy,256,43
+Subaru,2012 Subaru Legacy,256,43
+Mitsubishi,2012 Mitsubishi Galant,160,51
+Mitsubishi,2012 Mitsubishi Galant,160,51
+Mitsubishi,2012 Mitsubishi Outlander,230,44
+Mitsubishi,2012 Mitsubishi Outlander,230,45
+Subaru,2012 Subaru Outback,170,46
+Subaru,2012 Subaru Outback,170,46
+Subaru,2012 Subaru Outback,170,46
+Subaru,2012 Subaru Outback,170,46
+Buick,2012 Buick Verano,180,53
+Buick,2012 Buick Verano,180,53
+Buick,2012 Buick Verano,180,53
+Aston Martin,2012 Aston Martin DBS Volante,510,30
+Aston Martin,2012 Aston Martin DBS Volante,510,28
+Aston Martin,2012 Aston Martin DBS Volante,510,28
+Aston Martin,2012 Aston Martin DBS Volante,510,30
+Suzuki,2012 Suzuki Kizashi,185,52
+Suzuki,2012 Suzuki Kizashi,180,49
+Aston Martin,2012 Aston Martin Rapide,470,32
+Aston Martin,2012 Aston Martin Rapide,470,32
+Aston Martin,2012 Aston Martin V12 Vantage,510,32
+Aston Martin,2012 Aston Martin V12 Vantage,510,32
+Aston Martin,2012 Aston Martin V8 Vantage Roadster,430,32
+Aston Martin,2012 Aston Martin V8 Vantage Roadster,430,32
+Saab,2012 Saab 9-3 Sport Sedan,220,48
+Saab,2012 Saab 9-3 Sport Sedan,220,34
+Saab,2012 Saab 9-3 Sport Sedan,220,38
+Saab,2012 Saab 9-3 Sport Sedan,220,53
+Subaru,2012 Subaru Forester,170,48
+Subaru,2012 Subaru Forester,170,48
+Subaru,2012 Subaru Forester,170,48
+Subaru,2012 Subaru Forester,170,48
+Subaru,2012 Subaru Forester,170,48
+Subaru,2012 Subaru Forester,170,48
+Subaru,2012 Subaru Forester,224,43
+Subaru,2012 Subaru Forester,224,43
+Saab,2012 Saab 9-3 SportCombi,220,38
+Saab,2012 Saab 9-3 SportCombi,220,34
+Suzuki,2012 Suzuki SX4 Sedan,150,56
+Suzuki,2012 Suzuki SX4 Sedan,150,56
+Suzuki,2012 Suzuki SX4 Sportback,150,53
+Suzuki,2012 Suzuki SX4 Crossover,150,52
+Suzuki,2012 Suzuki SX4 Crossover,150,52
+Aston Martin,2012 Aston Martin V8 Vantage Coup,420,32
+Aston Martin,2012 Aston Martin V8 Vantage Coup,420,32
+Saab,2012 Saab 9-3 Convertible,220,38
+Saab,2012 Saab 9-3 Convertible,220,46
+Saab,2012 Saab 9-3 Convertible,220,46
+Saab,2012 Saab 9-3 Convertible,220,38
+Saab,2012 Saab 9-3 Convertible,220,46
+Saab,2012 Saab 9-3 Convertible,220,53
+Lincoln,2012 Lincoln MKZ,263,45
+Lincoln,2012 Lincoln MKZ,263,42
+Lincoln,2012 Lincoln MKS,274,42
+Lincoln,2012 Lincoln MKS,355,42
+Lincoln,2012 Lincoln MKS,274,39
+Lincoln,2012 Lincoln MKX,305,45
+Lincoln,2012 Lincoln MKX,305,40
+Lincoln,2012 Lincoln MKT,268,41
+Lincoln,2012 Lincoln MKT,355,38
+Bentley,2012 Bentley Mulsanne,505,29
+Lincoln,2012 Lincoln Navigator,310,24
+Lincoln,2012 Lincoln Navigator,310,31
+Lincoln,2012 Lincoln Navigator,310,24
+Lincoln,2012 Lincoln Navigator,310,22
+Honda,2012 Honda CR-Z,122,68
+Honda,2012 Honda CR-Z,122,68
+Honda,2012 Honda Fit,117,60
+Honda,2012 Honda Fit,117,60
+Honda,2012 Honda Fit,117,63
+Honda,2012 Honda Fit,117,60
+Honda,2012 Honda Odyssey,248,45
+Honda,2012 Honda Odyssey,248,45
+Honda,2012 Honda Odyssey,248,47
+Honda,2012 Honda Odyssey,248,45
+Honda,2012 Honda Odyssey,248,47
+Honda,2012 Honda Pilot,250,43
+Honda,2012 Honda Pilot,250,41
+Honda,2012 Honda Pilot,250,43
+Honda,2012 Honda Pilot,250,41
+Honda,2012 Honda Pilot,250,43
+Lamborghini,2012 Lamborghini Gallardo Coup,552,32
+Lamborghini,2012 Lamborghini Gallardo Spyder,552,32
+BMW,2012 BMW 7 Series,315,42
+BMW,2012 BMW 7 Series,315,42
