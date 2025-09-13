@@ -41,31 +41,22 @@ The goal is to demonstrate skills in data cleaning, SQL querying, Python visuali
 
 - Power BI → Interactive dashboard & storytelling
 
-📂 Project Structure
-Cars-analysis/
-│
-├── data/                # Raw and cleaned datasets
-├── notebooks/           # Step-by-step Jupyter Notebook
-├── results/             # Step-by-step Jupyter Notebook
-├── scripts/             # Python scripts for visualizations & SQL scripts
-├── visuals/             # Saved plots and charts
-├── dashboard/           # Power BI .pbix file & screenshots
-├── notebooks/           # Step-by-step Jupyter Notebook
-└── README.md            # Project documentation
-
 📌 Insights & Findings
 
-Manufacturers like Honda, Toyota, and Mazda consistently deliver higher fuel efficiency.
+- Manufacturers like Honda, Toyota, and Mazda consistently deliver higher fuel efficiency.
 
-Cars with fewer cylinders (4-cylinder engines) achieve the best MPG.
+- Cars with fewer cylinders (4-cylinder engines) achieve the best MPG.
 
-Horsepower and efficiency have an inverse relationship: higher horsepower generally means lower MPG.
+- Horsepower and efficiency have an inverse relationship: higher horsepower generally means lower MPG.
 
-Over time, average MPG has improved, showing industry progress in fuel efficiency.
+- Over time, average MPG has improved, showing industry progress in fuel efficiency.
 
 📷 Sample Visuals
 
-(Add screenshots here from your Python plots and Power BI dashboard)
+<img width="825" height="487" alt="q04_engine_size_vs_mpg" src="https://github.com/user-attachments/assets/cdfe9c79-17c6-4cfb-b22e-367ce35902de" />
+<img width="1066" height="608" alt="Dashboard_1" src="https://github.com/user-attachments/assets/e348b196-d44a-4356-a5b5-899815103ca6" />
+<img width="1073" height="609" alt="Dashboard_2" src="https://github.com/user-attachments/assets/51940790-12c5-4e81-a782-f73ecb7fae74" />
+<img width="822" height="487" alt="q07_cylinders_hp_vs_mpg" src="https://github.com/user-attachments/assets/9c9c5f86-4b5c-45c3-a5b8-a6e9030e8d24" />
 
 🚀 How to Run the Project
 
@@ -78,20 +69,20 @@ Navigate into the project folder.
 
 Open the notebooks/ folder to view step-by-step analysis.
 
-Open the Power BI file (dashboard/cars_dashboard.pbix) to explore the dashboard.
+Open the Power BI file (dashboard/cars_analysis.pbix) to explore the dashboard.
 
 📌 Next Steps
 
-Extend analysis to include car prices (if dataset available).
+- Extend analysis to include car prices (if dataset available).
 
-Add predictive modeling using machine learning.
+- Add predictive modeling using machine learning.
 
-Compare regional differences in fuel efficiency.
+- Compare regional differences in fuel efficiency.
 
 👤 Author
 
-Your Name
-📧 your.email@example.com
+Mohamed Khaled
+📧 mohamedkhaled506063@gmail.com
 
-🔗 LinkedIn
- | GitHub
+🔗 LinkedIn: https://www.linkedin.com/in/mohamed-khaled-888661341/
+ | GitHub: https://github.com/mk-1911/
